@@ -1,0 +1,731 @@
+<table>
+	<tr>
+		<th scope="col">Rang</th><th scope="col">Ann&#233;e</th><th scope="col">Place</th><th scope="col">Licence</th><th scope="col">Voile</th><th scope="col">Bateau</th><th scope="col">Type</th><th scope="col">Cert</th><th scope="col">Longueur (m)</th><th scope="col">Skipp&#233; par</th><th scope="col">Points</th><th scope="col">Fa&#231;ade</th>
+	</tr><tr>
+		<td>1</td><td>2015</td><td>1</td><td>1184976A</td><td>FRA 39008</td><td>GWENRIC</td><td>RUSH PTE</td><td>True</td><td></td><td>ERIC HEURTEBIS</td><td>363,0</td><td></td>
+	</tr><tr>
+		<td>2</td><td>2015</td><td>2</td><td>1076669F</td><td>FRA 35233</td><td>DECLIC</td><td>DEHLER 34 Q</td><td>True</td><td></td><td>JEAN-FRANCOIS GUEVEL</td><td>361,0</td><td></td>
+	</tr><tr>
+		<td>3</td><td>2015</td><td>3</td><td>1084979M</td><td>FRA 28821</td><td>MACADAM&#39;</td><td>FIRST 325 GTE</td><td>True</td><td></td><td>RENAUD JOLIVET</td><td>266,0</td><td></td>
+	</tr><tr>
+		<td>4</td><td>2015</td><td>4</td><td>0548170L</td><td>FRA 34903</td><td>JABADEO</td><td>FIRST 34.7 GTE</td><td>True</td><td></td><td>GAEL GUILLEROT</td><td>265,0</td><td></td>
+	</tr><tr>
+		<td>5</td><td>2015</td><td>5</td><td>0682330L</td><td>FRA 16681</td><td>Matamouf Of Recoucou</td><td>Proto 9 M</td><td>False</td><td></td><td>DOMINIQUE LUCAS</td><td>251,0</td><td></td>
+	</tr><tr>
+		<td>6</td><td>2015</td><td>6</td><td>0493402L</td><td>FRA 14734</td><td>OCTOPUS                                 </td><td>SUN FAST 36 Q FONTE</td><td>False</td><td></td><td>SYLVAIN QUETEL</td><td>245,0</td><td></td>
+	</tr><tr>
+		<td>7</td><td>2015</td><td>7</td><td>0538162L</td><td>FRA 38866</td><td>GOTCHA</td><td>CORBY 29</td><td>True</td><td></td><td>VINCENT WILLIAMSON</td><td>243,6</td><td></td>
+	</tr><tr>
+		<td>8</td><td>2015</td><td>8</td><td>1228711H</td><td>FRA 34969</td><td>ORIOLUS III</td><td>JPK 960</td><td>True</td><td></td><td>FLORENT PILET</td><td>233,8</td><td></td>
+	</tr><tr>
+		<td>9</td><td>2015</td><td>9</td><td>0174665T</td><td>FRA 21837</td><td>SI-SIK</td><td>GRAND SURPRISE OD</td><td>True</td><td></td><td>PATRICK FRASQUET</td><td>232,0</td><td></td>
+	</tr><tr>
+		<td>10</td><td>2015</td><td>10</td><td>0497576J</td><td>FRA 2434</td><td>OBEB</td><td>NEPTUNE 625</td><td>True</td><td></td><td>PASCAL BEHUE</td><td>231,2</td><td></td>
+	</tr><tr>
+		<td>11</td><td>2015</td><td>11</td><td>0452475D</td><td>FRA 37371</td><td>SO HOUAT</td><td>JPK 960</td><td>True</td><td></td><td>ANTOINE SAUCIER</td><td>229,0</td><td></td>
+	</tr><tr>
+		<td>12</td><td>2015</td><td>12</td><td>0836141F</td><td>FRA 27902</td><td>DR JEKYLL</td><td>J 92 S</td><td>True</td><td></td><td>THIERRY BIDON</td><td>227,0</td><td></td>
+	</tr><tr>
+		<td>13</td><td>2015</td><td>13</td><td>1207554U</td><td>FRA 20271</td><td>POLLEN                                  </td><td>SUPER CALIN 650</td><td>True</td><td></td><td>HENRI BONNIER</td><td>225,0</td><td></td>
+	</tr><tr>
+		<td>14</td><td>2015</td><td>14</td><td>0312416J</td><td>FRA 36884</td><td>ALKAID 3</td><td>JPK 1010</td><td>True</td><td></td><td>GERARD QUENOT</td><td>217,6</td><td></td>
+	</tr><tr>
+		<td>15</td><td>2015</td><td>15</td><td>0498902Q</td><td>FRA 14728</td><td>VULCAN</td><td>AQUILA r&#233;gate</td><td>False</td><td></td><td>MICHEL GODIVIER</td><td>204,0</td><td></td>
+	</tr><tr>
+		<td>16</td><td>2015</td><td>16</td><td>0506385K</td><td>FRA 28196</td><td>COURANT D&#39;HER</td><td>FIRST 31.7</td><td>True</td><td></td><td>PHILIPPE BROTTIER</td><td>200,2</td><td></td>
+	</tr><tr>
+		<td>17</td><td>2015</td><td>17</td><td>0596842L</td><td>FRA 13773</td><td>FOLDING</td><td>HELIUM 765</td><td>True</td><td></td><td>PHILIPPE BARBIER</td><td>200,0</td><td></td>
+	</tr><tr>
+		<td>18</td><td>2015</td><td>18</td><td>0073912S</td><td>FRA 42311</td><td>AGITATO</td><td>SURPRISE Q</td><td>True</td><td></td><td>BERTRAND CHERET</td><td>197,7</td><td></td>
+	</tr><tr>
+		<td>19</td><td>2015</td><td>19</td><td>0055793T</td><td>FRA 1612</td><td>M&amp;M</td><td>NEPTUNE 625</td><td>True</td><td></td><td>YANN MASSE</td><td>195,2</td><td></td>
+	</tr><tr>
+		<td>20</td><td>2015</td><td>20</td><td>0565832J</td><td>FRA 13457</td><td>FINALO                                  </td><td>COGNAC GTE</td><td>True</td><td></td><td>MARCEL PEIGNE</td><td>193,9</td><td></td>
+	</tr><tr>
+		<td>21</td><td>2015</td><td>21</td><td>0063971M</td><td>FRA 21531</td><td>CIEL DE CHAUSEY</td><td>FIRST 29 GTE</td><td>True</td><td></td><td>PATRICK HEROUX</td><td>193,0</td><td></td>
+	</tr><tr>
+		<td>22</td><td>2015</td><td>22</td><td>0279631H</td><td>FRA 7992</td><td>MISS LAUREEN                            </td><td>MISTRAL 31</td><td>True</td><td></td><td>CHRISTOPHE AUDIC</td><td>180,0</td><td></td>
+	</tr><tr>
+		<td>23</td><td>2015</td><td>23</td><td>0475069P</td><td>FRA 9834</td><td>FRERE  COYOTE</td><td>X 34 STD</td><td>True</td><td></td><td>ALAIN BOUTEVIN</td><td>176,0</td><td></td>
+	</tr><tr>
+		<td>24</td><td>2015</td><td>24</td><td>0023084W</td><td>FRA 29236</td><td>ALHEA</td><td>FIRST 31.7</td><td>True</td><td></td><td>BERTRAND ALBE</td><td>175,1</td><td></td>
+	</tr><tr>
+		<td>25</td><td>2015</td><td>25</td><td>1085589X</td><td>FRA 13547</td><td>SCHMILBLICK</td><td>DELPH 32 GD MAT</td><td>True</td><td></td><td>JEAN-FRANCOIS LEYRAT</td><td>173,0</td><td></td>
+	</tr><tr>
+		<td>26</td><td>2015</td><td>26</td><td>0062774Q</td><td>FRA 38829</td><td>HALIOTIS</td><td>J 97</td><td>True</td><td></td><td>PHILIPPE MABO</td><td>171,5</td><td></td>
+	</tr><tr>
+		<td>27</td><td>2015</td><td>27</td><td>1225942Y</td><td>FRA 37934</td><td>KENEIL DAOU</td><td>DUFOUR 34 E</td><td>True</td><td></td><td>ERIK FLIPPE</td><td>170,5</td><td></td>
+	</tr><tr>
+		<td>28</td><td>2015</td><td>28</td><td>0302976A</td><td>FRA 3529</td><td>FLOANE V</td><td>SUN RISE Q</td><td>True</td><td></td><td>SERGE HENAFF</td><td>167,0</td><td></td>
+	</tr><tr>
+		<td>29</td><td>2015</td><td>29</td><td>0488793K</td><td>FRA 36686</td><td>SHADOK</td><td>SUN ODYSSEY 36I PERF</td><td>True</td><td></td><td>SERGE LE CLEUZIAT</td><td>163,0</td><td></td>
+	</tr><tr>
+		<td>30</td><td>2015</td><td>30</td><td>0346309P</td><td>FRA 19350</td><td>dare dare too</td><td>NEPTUNE 625</td><td>True</td><td></td><td>CHRISTOPHE BRU</td><td>157,5</td><td></td>
+	</tr><tr>
+		<td>31</td><td>2015</td><td>31</td><td>0346175Z</td><td>FRA 32603</td><td>IMMATRICULE CONCEPTION                  </td><td>FIRST CLASS 8</td><td>True</td><td></td><td>STEVEN GUILLEVIC</td><td>156,0</td><td></td>
+	</tr><tr>
+		<td>32</td><td>2015</td><td>32</td><td>1071107M</td><td>FRA 35055</td><td>CASCIA</td><td>TARENTELLE</td><td>True</td><td></td><td>PHILIPPE FAUX</td><td>154,0</td><td></td>
+	</tr><tr>
+		<td>33</td><td>2015</td><td>33</td><td>0498524W</td><td>FRA 38396</td><td>DISKUIZ</td><td>DUFOUR 45 PERF</td><td>True</td><td></td><td>PHILIPPE GUERINEAU</td><td>151,0</td><td></td>
+	</tr><tr>
+		<td>34</td><td>2015</td><td>34</td><td>1101598Y</td><td>FRA 36929</td><td>USS ENTERPRISE</td><td>START 6 Der</td><td>True</td><td></td><td>SIEGFRIED LEVAYER</td><td>150,0</td><td></td>
+	</tr><tr>
+		<td>35</td><td>2015</td><td>35</td><td>0217302G</td><td>FRA 8104</td><td>ARLIKONE</td><td>3/4 ton proto 80</td><td>True</td><td></td><td>PHILIPPE CAIGNEC</td><td>149,0</td><td></td>
+	</tr><tr>
+		<td>36</td><td>2015</td><td>36</td><td>1112587V</td><td>FRA 16587</td><td>ECAMA 2                                 </td><td>SUN FAST 36 Q FONTE</td><td>False</td><td></td><td>ERIC PHILIPON</td><td>146,0</td><td></td>
+	</tr><tr>
+		<td>37</td><td>2015</td><td>37</td><td>0663663R</td><td>FRA 43715</td><td>POLISSON</td><td>ELAN 400</td><td>True</td><td></td><td>THIERRY HERVE</td><td>145,0</td><td></td>
+	</tr><tr>
+		<td>38</td><td>2015</td><td>38</td><td>0278807Z</td><td>FRA 1603J2</td><td>EUROPEAN HOMES</td><td>J 22</td><td>True</td><td></td><td>PATRICK HUET</td><td>144,0</td><td></td>
+	</tr><tr>
+		<td>39</td><td>2015</td><td>39</td><td>0056259D</td><td>FRA 722</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>LAURENT SAMBRON</td><td>140,0</td><td></td>
+	</tr><tr>
+		<td>40</td><td>2015</td><td>40</td><td>1008201K</td><td>FRA 17299</td><td>INFINI                                  </td><td>EXTRA PAULETTE Q</td><td>True</td><td></td><td>GERARD LANDELLE</td><td>139,1</td><td></td>
+	</tr><tr>
+		<td>41</td><td>2015</td><td>41</td><td>0419432J</td><td>FRA 32384</td><td>SWAHILI</td><td>FIRST CLASS 8</td><td>True</td><td></td><td>JEROME TREHEL</td><td>138,2</td><td></td>
+	</tr><tr>
+		<td>42</td><td>2015</td><td>42</td><td>1272411D</td><td>FRA 36763</td><td>PLURABELLE  III                         </td><td>FIRST 31.7</td><td>True</td><td></td><td>JEAN PIERRE LE QUENTREC</td><td>136,5</td><td></td>
+	</tr><tr>
+		<td>43</td><td>2015</td><td>43</td><td>0976030Y</td><td>FRA 34674</td><td>BLEU-GRIS</td><td>GRAND SURPRISE OD</td><td>True</td><td></td><td>CHRISTOPHE MONTORIOL</td><td>133,7</td><td></td>
+	</tr><tr>
+		<td>44</td><td>2015</td><td>44</td><td>1010840J</td><td>FRA 29737</td><td>LAER - AVEL</td><td>FIRST 36.7 GTE</td><td>True</td><td></td><td>YVON CORVEZ</td><td>126,0</td><td></td>
+	</tr><tr>
+		<td>45</td><td>2015</td><td>45</td><td>0022590G</td><td>FRA 38226</td><td>CORIANDRE                               </td><td>ELAN 310</td><td>True</td><td></td><td>PATRICK JUSTEAU</td><td>125,0</td><td></td>
+	</tr><tr>
+		<td>46</td><td>2015</td><td>46</td><td>1184145K</td><td>FRA 39596</td><td>ARGOS</td><td>SUN FAST 3200</td><td>True</td><td></td><td>JEROME DUBUIS</td><td>122,5</td><td></td>
+	</tr><tr>
+		<td>47</td><td>2015</td><td>47</td><td>0530112A</td><td>FRA 17156</td><td>SPIRULINE</td><td>GIBSEA 302 GTE</td><td>True</td><td></td><td>HERVE LE GUERN</td><td>122,0</td><td></td>
+	</tr><tr>
+		<td>48</td><td>2015</td><td>48</td><td>0762695Z</td><td>FRA 38989</td><td>PINK WATER</td><td>590 Der</td><td>True</td><td></td><td>PIERRE ROMERO</td><td>117,2</td><td></td>
+	</tr><tr>
+		<td>49</td><td>2015</td><td>49</td><td>0457965X</td><td>FRA 24410</td><td>rhapsodie</td><td>DUFOUR 1800 GTE</td><td>True</td><td></td><td>PIERRE COTTIN</td><td>115,1</td><td></td>
+	</tr><tr>
+		<td>50</td><td>2015</td><td>50</td><td>1018302G</td><td>FRA 28914</td><td>MALIFA                                  </td><td>FIRST 235 QR</td><td>True</td><td></td><td>PHILIPPE CHARDONNEAU</td><td>111,3</td><td></td>
+	</tr><tr>
+		<td>51</td><td>2015</td><td>51</td><td>0369525X</td><td>FRA 34196</td><td>PAPY SENCE ERH</td><td>GRAND SURPRISE OD</td><td>True</td><td></td><td>FLORENT MINER</td><td>109,9</td><td></td>
+	</tr><tr>
+		<td>52</td><td>2015</td><td>52</td><td>0545219M</td><td>FRA 13327</td><td>ALIZE</td><td>FIRST 25 QR</td><td>True</td><td></td><td>LOIC ROBIN</td><td>109,2</td><td></td>
+	</tr><tr>
+		<td>53</td><td>2015</td><td>53</td><td>0492241B</td><td>FRA 19758B</td><td>SABOT</td><td>J 92 S</td><td>True</td><td></td><td>MARC DEMAZURE</td><td>109,0</td><td></td>
+	</tr><tr>
+		<td>54</td><td>2015</td><td>54</td><td>0339685P</td><td>FRA 28507</td><td>BO GOSS</td><td>J 105</td><td>True</td><td></td><td>PATRICK ALLAIN</td><td>108,5</td><td></td>
+	</tr><tr>
+		<td>55</td><td>2015</td><td>55</td><td>1314983Z</td><td>FRA 25718</td><td>BLUES CLAIR II</td><td>FIRST 31.7</td><td>True</td><td></td><td>JEAN PIERRE MALLIER</td><td>108,0</td><td></td>
+	</tr><tr>
+		<td>56</td><td>2015</td><td>56</td><td>0067189P</td><td>FRA 1330J2</td><td>DELFINA</td><td>J 22</td><td>True</td><td></td><td>JEAN-CLAUDE BERGIER</td><td>101,5</td><td></td>
+	</tr><tr>
+		<td>57</td><td>2015</td><td>56</td><td>0020881B</td><td>FRA 34997</td><td>MURPHY</td><td>ESTE 24</td><td>True</td><td></td><td>YANNICK L&#39;HELIAS</td><td>101,5</td><td></td>
+	</tr><tr>
+		<td>58</td><td>2015</td><td>58</td><td>0954349P</td><td>FRA 26104</td><td>BRISEIS II                              </td><td>ARCADIA Q</td><td>True</td><td></td><td>VINCENT TERTRAIS</td><td>101,0</td><td></td>
+	</tr><tr>
+		<td>59</td><td>2015</td><td>59</td><td>0069251M</td><td>FRA 13613</td><td>ILLUSION</td><td>MICRO prototype</td><td>True</td><td></td><td>FRANCOIS CROISET</td><td>100,0</td><td></td>
+	</tr><tr>
+		<td>60</td><td>2015</td><td>59</td><td>1305057K</td><td>FRA 421J8</td><td>BEN J III</td><td>J 80</td><td>True</td><td></td><td>LEA MARTY</td><td>100,0</td><td></td>
+	</tr><tr>
+		<td>61</td><td>2015</td><td>59</td><td>0452530L</td><td>FRA 6967</td><td>JACK LONDON III                         </td><td>SUPER ARLEQUIN GTE</td><td>True</td><td></td><td>FREDERIC JAFFRE</td><td>100,0</td><td></td>
+	</tr><tr>
+		<td>62</td><td>2015</td><td>59</td><td>0015103H</td><td>FRA 43515</td><td>COCODY</td><td>JPK 1010</td><td>True</td><td></td><td>RICHARD FROMENTIN</td><td>100,0</td><td></td>
+	</tr><tr>
+		<td>63</td><td>2015</td><td>59</td><td>0457521K</td><td>FRA 28843</td><td>MORDICUS</td><td>MUMM 36</td><td>True</td><td></td><td>THOMAS CARDRIN</td><td>100,0</td><td></td>
+	</tr><tr>
+		<td>64</td><td>2015</td><td>64</td><td>0080404E</td><td>FRA 19413</td><td>JACQUADI                                </td><td>SUN FAST 36 Q FONTE</td><td>True</td><td></td><td>MICHEL GUILLERMIC</td><td>99,0</td><td></td>
+	</tr><tr>
+		<td>65</td><td>2015</td><td>65</td><td>0565108E</td><td>FRA 21947</td><td>HURLE-VENT</td><td>MICRO prototype</td><td>True</td><td></td><td>FABIEN TOUREAUX</td><td>98,0</td><td></td>
+	</tr><tr>
+		<td>66</td><td>2015</td><td>66</td><td>0602456J</td><td>FRA 18805</td><td>SQUEWEL VI</td><td>FIRST 310 GTE</td><td>True</td><td></td><td>JEAN YVES BERTHOU</td><td>96,5</td><td></td>
+	</tr><tr>
+		<td>67</td><td>2015</td><td>67</td><td>0539793K</td><td>FRA 38764</td><td>ANCOMAVI</td><td>FIRST 29 PTE</td><td>True</td><td></td><td>DANIEL ALLAIN</td><td>95,9</td><td></td>
+	</tr><tr>
+		<td>68</td><td>2015</td><td>68</td><td>1283075M</td><td>FRA 134J7</td><td>JERK</td><td>J 70</td><td>True</td><td></td><td>DANIEL MASSEAU </td><td>95,5</td><td></td>
+	</tr><tr>
+		<td>69</td><td>2015</td><td>69</td><td>0970355M</td><td>FRA 691</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>LUC NADAL</td><td>94,0</td><td></td>
+	</tr><tr>
+		<td>70</td><td>2015</td><td>70</td><td>0541251D</td><td>FRA 26951</td><td>BE HAPPY BE LOUGA                       </td><td>BELOUGA DER</td><td>True</td><td></td><td>PIERRE OLIVIER BONTE</td><td>93,0</td><td></td>
+	</tr><tr>
+		<td>71</td><td>2015</td><td>70</td><td>1180610C</td><td>FRA 37</td><td>DJANGO                                  </td><td>HELIUM 765</td><td>False</td><td></td><td>JEAN YVES LESECQ</td><td>93,0</td><td></td>
+	</tr><tr>
+		<td>72</td><td>2015</td><td>72</td><td>0553530U</td><td>FRA 37271</td><td>MISPICKEL 5</td><td>J 97</td><td>True</td><td></td><td>THIBAUT FAGART</td><td>92,0</td><td></td>
+	</tr><tr>
+		<td>73</td><td>2015</td><td>73</td><td>1237312S</td><td>FRA 43552</td><td>POGO VENTO</td><td>POGO 30 GVC</td><td>True</td><td></td><td>PAOLO MANGIONE</td><td>90,5</td><td></td>
+	</tr><tr>
+		<td>74</td><td>2015</td><td>74</td><td>1067744J</td><td>FRA 1419J8</td><td>LOGYC</td><td>J 80</td><td>True</td><td></td><td>LAURENT DA ROLD</td><td>89,6</td><td></td>
+	</tr><tr>
+		<td>75</td><td>2015</td><td>75</td><td>0452152S</td><td>FRA 36781</td><td>POMINO  VII</td><td>FIRST 34.7 GTE</td><td>True</td><td></td><td>MICHEL POITEVINEAU</td><td>89,0</td><td></td>
+	</tr><tr>
+		<td>76</td><td>2015</td><td>76</td><td>0547459V</td><td>FRA 39486</td><td>Le Gascon</td><td>590 Der</td><td>True</td><td></td><td>ALEXIS MORITEL</td><td>88,1</td><td></td>
+	</tr><tr>
+		<td>77</td><td>2015</td><td>77</td><td>0793490C</td><td>FRA 35069</td><td>ONE FOUR ME</td><td>SPRINT 95 (9/10)</td><td>True</td><td></td><td>ALAIN DANA</td><td>88,0</td><td></td>
+	</tr><tr>
+		<td>78</td><td>2015</td><td>77</td><td>1056208S</td><td>FRA 4934</td><td>JAGUAR</td><td>J 24</td><td>True</td><td></td><td>AORELIAN GARCIA</td><td>88,0</td><td></td>
+	</tr><tr>
+		<td>79</td><td>2015</td><td>79</td><td>0806852W</td><td>FRA 13220</td><td>TRILOGY 2</td><td>PETERSON 46</td><td>False</td><td></td><td>JEAN-GABRIEL SAMZUN</td><td>86,0</td><td></td>
+	</tr><tr>
+		<td>80</td><td>2015</td><td>80</td><td>1039453P</td><td>FRA 36736</td><td>RAOUL</td><td>JPK 960</td><td>False</td><td></td><td>JEAN FRANCOIS CHERIAUX</td><td>84,0</td><td></td>
+	</tr><tr>
+		<td>81</td><td>2015</td><td>81</td><td>0367746U</td><td>FRA 12930</td><td>MORNING CLOWN</td><td>CORSAIRE DL</td><td>True</td><td></td><td>RENAUD GUY</td><td>83,5</td><td></td>
+	</tr><tr>
+		<td>82</td><td>2015</td><td>82</td><td>1229055R</td><td>FRA 39582</td><td>LARIFLOTTE</td><td>FIRST 25 S QR</td><td>True</td><td></td><td>YVES CUSSONNEAU</td><td>82,6</td><td></td>
+	</tr><tr>
+		<td>83</td><td>2015</td><td>83</td><td>0956465T</td><td>FRA 28848</td><td>TETHYS</td><td>ELAN 31 GTE Q plomb</td><td>True</td><td></td><td>FRANCOIS CHALARD</td><td>82,0</td><td></td>
+	</tr><tr>
+		<td>84</td><td>2015</td><td>83</td><td>0251337K</td><td>FRA 39101</td><td>PROJET PANGOLIN</td><td>MICRO prototype</td><td>True</td><td></td><td>NICOLAS PIERROT</td><td>82,0</td><td></td>
+	</tr><tr>
+		<td>85</td><td>2015</td><td>85</td><td>1145691D</td><td>FRA 429</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>XAVIER FLINOIS</td><td>81,0</td><td></td>
+	</tr><tr>
+		<td>86</td><td>2015</td><td>86</td><td>1272857T</td><td>FRA 746J4</td><td>JIBE</td><td>J 24</td><td>True</td><td></td><td>CHRISTOPHE GALHARRET </td><td>80,8</td><td></td>
+	</tr><tr>
+		<td>87</td><td>2015</td><td>87</td><td>0237877P</td><td>FRA 25591</td><td>SOEN</td><td>FIRST 31.7</td><td>True</td><td></td><td>XAVIER HILL</td><td>80,5</td><td></td>
+	</tr><tr>
+		<td>88</td><td>2015</td><td>88</td><td>0480278Q</td><td>FRA 1585J2</td><td>JINGLE                                  </td><td>J 22</td><td>True</td><td></td><td>HERVE DESPRES</td><td>79,5</td><td></td>
+	</tr><tr>
+		<td>89</td><td>2015</td><td>89</td><td>1022282C</td><td>FRA 20104</td><td>MUNISTE</td><td>COCO</td><td>False</td><td></td><td>PASCAL CHOLIERE</td><td>79,0</td><td></td>
+	</tr><tr>
+		<td>90</td><td>2015</td><td>90</td><td>1006287R</td><td>FRA 13459</td><td>L&#39;ALCYON                                </td><td>FIRST 29 PTE</td><td>True</td><td></td><td>JEAN LUC COTTEREAU</td><td>78,0</td><td></td>
+	</tr><tr>
+		<td>91</td><td>2015</td><td>90</td><td>0056960J</td><td>FRA 24454</td><td>RUZ  BOUTOU                             </td><td>EDEL 2</td><td>True</td><td></td><td>FRANCOIS HEAULME</td><td>78,0</td><td></td>
+	</tr><tr>
+		<td>92</td><td>2015</td><td>92</td><td>1231134G</td><td>FRA 37418</td><td>SIRIUS</td><td>RUSH PTE</td><td>True</td><td></td><td>HERVE GODEFROY</td><td>76,5</td><td></td>
+	</tr><tr>
+		<td>93</td><td>2015</td><td>92</td><td>1228724W</td><td>FRA 107J7</td><td>ENER-J</td><td>J 70</td><td>True</td><td></td><td>PIERRE DUCOM</td><td>76,5</td><td></td>
+	</tr><tr>
+		<td>94</td><td>2015</td><td>94</td><td>1038966G</td><td>FRA 28819</td><td>BINGO                                   </td><td>FIRST 210 QR</td><td>True</td><td></td><td>CHRISTIAN CHOLOT</td><td>75,5</td><td></td>
+	</tr><tr>
+		<td>95</td><td>2015</td><td>95</td><td>0599919R</td><td>FRA 168</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>GAETAN CHARLES LE GUIL</td><td>75,0</td><td></td>
+	</tr><tr>
+		<td>96</td><td>2015</td><td>95</td><td>0466768S</td><td>FRA 18084</td><td>CHIMBELY  V</td><td>FIRST 31.7</td><td>True</td><td></td><td>HENRI LAMARE</td><td>75,0</td><td></td>
+	</tr><tr>
+		<td>97</td><td>2015</td><td>97</td><td>0176362L</td><td>FRA 38264</td><td>BIGOUDEN BLUES</td><td>MICROSAIL Q</td><td>True</td><td></td><td>MICHEL DRAOULEC</td><td>73,5</td><td></td>
+	</tr><tr>
+		<td>98</td><td>2015</td><td>98</td><td>1295570C</td><td>FRA 28557</td><td>Bip-Bip</td><td>NEPTUNE 625</td><td>True</td><td></td><td>LAURENT CARA DEL AGUILA</td><td>73,0</td><td></td>
+	</tr><tr>
+		<td>99</td><td>2015</td><td>99</td><td>1026820E</td><td>FRA 17091</td><td>MAHEMA</td><td>RUSH royale TDF</td><td>True</td><td></td><td>CHRISTOPHE BULINGE</td><td>71,0</td><td></td>
+	</tr><tr>
+		<td>100</td><td>2015</td><td>100</td><td>0895356N</td><td>FRA 9624</td><td>RHAPSODIE</td><td>J 120</td><td>False</td><td></td><td>JEAN JACQUES GODET</td><td>70,0</td><td></td>
+	</tr><tr>
+		<td>101</td><td>2015</td><td>100</td><td>0770221P</td><td>FRA 25723</td><td>TI PUNCH</td><td>FIRST 36.7 GTE</td><td>True</td><td></td><td>CHRISTOPHE DALICHAMPT</td><td>70,0</td><td></td>
+	</tr><tr>
+		<td>102</td><td>2015</td><td>100</td><td>0053456J</td><td>FRA 10023</td><td>le Sept</td><td>CORSAIRE DL</td><td>True</td><td></td><td>OLIVIER ROUDEVITCH</td><td>70,0</td><td></td>
+	</tr><tr>
+		<td>103</td><td>2015</td><td>100</td><td>0663663R</td><td>FRA 47715</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>THIERRY HERVE</td><td>70,0</td><td></td>
+	</tr><tr>
+		<td>104</td><td>2015</td><td>104</td><td>0614739D</td><td>FRA 5148</td><td>JINETTE</td><td>J 24</td><td>True</td><td></td><td>CHARLES GURY</td><td>69,0</td><td></td>
+	</tr><tr>
+		<td>105</td><td>2015</td><td>104</td><td>1210114L</td><td>FRA 38270</td><td>CLIPPER II                              </td><td>FIRST 21.7 QR</td><td>True</td><td></td><td>THIERRY ROGISTER</td><td>69,0</td><td></td>
+	</tr><tr>
+		<td>106</td><td>2015</td><td>106</td><td>1191868E</td><td>FRA 37918</td><td>WARZAO  II                              </td><td>DUFOUR 34 2003 GTE</td><td>False</td><td></td><td>ROLAND DARCHEN</td><td>68,0</td><td></td>
+	</tr><tr>
+		<td>107</td><td>2015</td><td>107</td><td>0488522C</td><td>FRA 43673</td><td>ALTIKHAN</td><td>A 35 R</td><td>False</td><td></td><td>JOHANN BOUIC</td><td>67,9</td><td></td>
+	</tr><tr>
+		<td>108</td><td>2015</td><td>108</td><td>0546265B</td><td>FRA 4385</td><td>GWADA  V                                </td><td>NEPTUNE 550</td><td>True</td><td></td><td>BERNARD PRIVE</td><td>67,0</td><td></td>
+	</tr><tr>
+		<td>109</td><td>2015</td><td>108</td><td>0978451V</td><td>FRA 37443</td><td>KALA&#207;S                                  </td><td>A 31</td><td>True</td><td></td><td>YVES FROCRAIN</td><td>67,0</td><td></td>
+	</tr><tr>
+		<td>110</td><td>2015</td><td>108</td><td>0934103Z</td><td>FRA 35424</td><td>GIANT TURTLE</td><td>POGO 850</td><td>True</td><td></td><td>RENEPIERRE SAINTMLEUX</td><td>67,0</td><td></td>
+	</tr><tr>
+		<td>111</td><td>2015</td><td>111</td><td>1099478Q</td><td>FRA 29743</td><td>POLY                                    </td><td>GRAND SURPRISE OD</td><td>True</td><td></td><td>GUILLAUME DUPAS</td><td>65,0</td><td></td>
+	</tr><tr>
+		<td>112</td><td>2015</td><td>112</td><td>0538805F</td><td>FRA 25712</td><td>IEC&#39;HED MAD</td><td>DJANGO</td><td>True</td><td></td><td>GERARD LE COHU</td><td>64,0</td><td></td>
+	</tr><tr>
+		<td>113</td><td>2015</td><td>112</td><td>0172079Z</td><td>FRA 32656</td><td>CORYN&#39;S</td><td>FIRST CLASS 8</td><td>True</td><td></td><td>ALAIN NICOLAS</td><td>64,0</td><td></td>
+	</tr><tr>
+		<td>114</td><td>2015</td><td>114</td><td>0158633T</td><td>FRA 6007</td><td>SKEDIE                                  </td><td>SIRIUS HALF TON 74</td><td>False</td><td></td><td>HERVE AUBRY</td><td>63,7</td><td></td>
+	</tr><tr>
+		<td>115</td><td>2015</td><td>114</td><td>1119079H</td><td>FRA 1079</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>TOM CARISSAN</td><td>63,7</td><td></td>
+	</tr><tr>
+		<td>116</td><td>2015</td><td>116</td><td>1319666C</td><td>FRA 9764</td><td>WARI KOUKOU</td><td>SALONA 33</td><td>False</td><td></td><td>JEAN RAYMOND CHAUVIRE</td><td>63,5</td><td></td>
+	</tr><tr>
+		<td>117</td><td>2015</td><td>117</td><td>1229053P</td><td>FRA 37385</td><td>MOA&#39;C</td><td>FIRST 211 QR</td><td>True</td><td></td><td>MICHEL MOISSET</td><td>63,0</td><td></td>
+	</tr><tr>
+		<td>118</td><td>2015</td><td>117</td><td>1002994L</td><td>FRA 443</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>VIANNEY VAUTIER</td><td>63,0</td><td></td>
+	</tr><tr>
+		<td>119</td><td>2015</td><td>119</td><td>0401942Q</td><td>FRA 38761</td><td>MELUSINE</td><td>FIRST 24 QR</td><td>True</td><td></td><td>OLIVIER BOULINEAU</td><td>62,3</td><td></td>
+	</tr><tr>
+		<td>120</td><td>2015</td><td>120</td><td>0082053X</td><td>FRA 21637</td><td>CHARRETTE 3</td><td>SUN ODYSSEY 40 GTE</td><td>True</td><td></td><td>FREDERIC BOURDERAU</td><td>62,0</td><td></td>
+	</tr><tr>
+		<td>121</td><td>2015</td><td>121</td><td>0073930L</td><td>FRA 88</td><td>VENDEE 1</td><td>FIGARO BENETEAU 2</td><td>True</td><td></td><td>DIDIER LE MOAL</td><td>61,6</td><td></td>
+	</tr><tr>
+		<td>122</td><td>2015</td><td>121</td><td>1290923M</td><td>FRA 18692</td><td>FLEUR DE SEL</td><td>ECUME DE MER PTE</td><td>True</td><td></td><td>MARTINE AUGEREAU</td><td>61,6</td><td></td>
+	</tr><tr>
+		<td>123</td><td>2015</td><td>123</td><td>0294288A</td><td>FRA 14901</td><td>HOPOPOP                                 </td><td>NEPTUNE 625</td><td>True</td><td></td><td>DAVID LANOISELEE</td><td>61,5</td><td></td>
+	</tr><tr>
+		<td>124</td><td>2015</td><td>124</td><td>1283075M</td><td>FRA 38970</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>DANIEL MASSEAU </td><td>60,9</td><td></td>
+	</tr><tr>
+		<td>125</td><td>2015</td><td>125</td><td>1216431R</td><td>FRA 39323</td><td>LOOSTICK TOO</td><td>DUFOUR 34 E PERF</td><td>True</td><td></td><td>FRANCOIS-XAVIER MAHON</td><td>60,2</td><td></td>
+	</tr><tr>
+		<td>126</td><td>2015</td><td>126</td><td>1030068N</td><td>FRA 34950</td><td>ASKIDION V</td><td>GRAND SOLEIL 37 B Racing</td><td>True</td><td></td><td>BERNARD BOSSARD</td><td>60,0</td><td></td>
+	</tr><tr>
+		<td>127</td><td>2015</td><td>127</td><td>0493306L</td><td>FRA 1248J2</td><td>PAPY  J</td><td>J 22</td><td>True</td><td></td><td>FREDERIC TENOT</td><td>59,5</td><td></td>
+	</tr><tr>
+		<td>128</td><td>2015</td><td>128</td><td>1166871R</td><td>FRA 28196</td><td>COURANT D&#39;HER</td><td>FIRST 31.7</td><td>True</td><td></td><td>PATRICK RIALLAND</td><td>59,5</td><td></td>
+	</tr><tr>
+		<td>129</td><td>2015</td><td>129</td><td>0606947M</td><td>FRA 21520</td><td>KEVARC H                                </td><td>RUSH PTE</td><td>True</td><td></td><td>JEAN PIERRE FILY</td><td>58,0</td><td></td>
+	</tr><tr>
+		<td>130</td><td>2015</td><td>130</td><td>1117086G</td><td>FRA 12</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>SIMON BERTHEAU</td><td>57,4</td><td></td>
+	</tr><tr>
+		<td>131</td><td>2015</td><td>130</td><td>1196582Q</td><td>FRA 700</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>STEPHANE DAQUIN</td><td>57,4</td><td></td>
+	</tr><tr>
+		<td>132</td><td>2015</td><td>132</td><td>1109610U</td><td>FRA 202</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>PAUL GURY</td><td>57,0</td><td></td>
+	</tr><tr>
+		<td>133</td><td>2015</td><td>132</td><td>1152119Z</td><td>FRA 69C</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>NICOLAS LE CORRE</td><td>57,0</td><td></td>
+	</tr><tr>
+		<td>134</td><td>2015</td><td>134</td><td>1295503H</td><td>FRA 39410</td><td>JAMES 2</td><td>FIRST 25 S QR</td><td>True</td><td></td><td>STEPHANE LEMAIRE</td><td>56,0</td><td></td>
+	</tr><tr>
+		<td>135</td><td>2015</td><td>134</td><td>1373147M</td><td>FRA 66</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>G&#201;RARD NICOLAS</td><td>56,0</td><td></td>
+	</tr><tr>
+		<td>136</td><td>2015</td><td>134</td><td>0606233T</td><td>FRA 38319</td><td>TI&#39;BABANE II</td><td>A 27 Q</td><td>True</td><td></td><td>JEAN MARC REIBELL</td><td>56,0</td><td></td>
+	</tr><tr>
+		<td>137</td><td>2015</td><td>137</td><td>1069437X</td><td>FRA 29032</td><td>PIRE CAS VENT</td><td>FIRST 24 QR</td><td>True</td><td></td><td>VALERIE NAULET</td><td>54,6</td><td></td>
+	</tr><tr>
+		<td>138</td><td>2015</td><td>137</td><td>0948151H</td><td>FRA 21341</td><td>MORNING RAIN</td><td>FUN</td><td>True</td><td></td><td>BERTRAND AUDOIN</td><td>54,6</td><td></td>
+	</tr><tr>
+		<td>139</td><td>2015</td><td>139</td><td>1274500E</td><td>FRA 38455</td><td>ZULU</td><td>JPK 1010</td><td>True</td><td></td><td>LANIG DAOULAS</td><td>53,2</td><td></td>
+	</tr><tr>
+		<td>140</td><td>2015</td><td>140</td><td>0065277X</td><td> MUS225</td><td>MAGIC MUS                               </td><td>MUSCADET Q</td><td>True</td><td></td><td>EDOUARD BOST</td><td>51,8</td><td></td>
+	</tr><tr>
+		<td>141</td><td>2015</td><td>141</td><td>1161693X</td><td>FRA 4</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>VALENTIN PROUST</td><td>51,1</td><td></td>
+	</tr><tr>
+		<td>142</td><td>2015</td><td>141</td><td>1014248J</td><td>FRA 70</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>THIERRY BUAND</td><td>51,1</td><td></td>
+	</tr><tr>
+		<td>143</td><td>2015</td><td>143</td><td>0975983Z</td><td>FRA 4230</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>LUC MADELINE</td><td>51,0</td><td></td>
+	</tr><tr>
+		<td>144</td><td>2015</td><td>143</td><td>0503768J</td><td>FRA 22523</td><td>PETIT JAMAICK IV</td><td>SURPRISE Q</td><td>True</td><td></td><td>THIERRY ROI</td><td>51,0</td><td></td>
+	</tr><tr>
+		<td>145</td><td>2015</td><td>145</td><td>0480184S</td><td>FRA 36859</td><td>STAMINA III                             </td><td>A 40 RC</td><td>True</td><td></td><td>MICHEL PERETIE</td><td>50,0</td><td></td>
+	</tr><tr>
+		<td>146</td><td>2015</td><td>145</td><td>0384898L</td><td>FRA 1344J2</td><td>BEASTY  BOYS</td><td>J 22</td><td>True</td><td></td><td>JEAN QUEVEAU</td><td>50,0</td><td></td>
+	</tr><tr>
+		<td>147</td><td>2015</td><td>145</td><td>1043203V</td><td>FRA 274</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>JEROME VIRON</td><td>50,0</td><td></td>
+	</tr><tr>
+		<td>148</td><td>2015</td><td>145</td><td>0561195D</td><td>FRA 38268</td><td>PING PONG                               </td><td>NEPTUNE 625</td><td>True</td><td></td><td>MAX PRIGENT</td><td>50,0</td><td></td>
+	</tr><tr>
+		<td>149</td><td>2015</td><td>145</td><td>0557234C</td><td>FRA 418</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>ROMAIN JOSSET</td><td>50,0</td><td></td>
+	</tr><tr>
+		<td>150</td><td>2015</td><td>145</td><td>0058665K</td><td>FRA 39397</td><td>SAJOU</td><td>590 Der</td><td>True</td><td></td><td>JEAN-MARC BOCQUARD</td><td>50,0</td><td></td>
+	</tr><tr>
+		<td>151</td><td>2015</td><td>145</td><td>0117138U</td><td>FRA 18684</td><td>MAELIAN</td><td>ESTE 24</td><td>True</td><td></td><td>LUDOVIC DELAGE</td><td>50,0</td><td></td>
+	</tr><tr>
+		<td>152</td><td>2015</td><td>145</td><td>1125656J</td><td>FRA 9337</td><td>RUBIS</td><td>PROTO 2 TON</td><td>False</td><td></td><td>JEAN NOEL LOVATO</td><td>50,0</td><td></td>
+	</tr><tr>
+		<td>153</td><td>2015</td><td>145</td><td>1373147M</td><td>FRA 39649</td><td>VALMARINE</td><td>MAXI 1100</td><td>True</td><td></td><td>G&#201;RARD NICOLAS</td><td>50,0</td><td></td>
+	</tr><tr>
+		<td>154</td><td>2015</td><td>145</td><td>0156645X</td><td>FRA 28243</td><td>ELISE</td><td>FIRST 31.7</td><td>True</td><td></td><td>GAELLE ROBIN</td><td>50,0</td><td></td>
+	</tr><tr>
+		<td>155</td><td>2015</td><td>145</td><td>0007722U</td><td>FRA 35427</td><td>MAYERO</td><td>X 37 STD</td><td>False</td><td></td><td>JEAN PASSINI</td><td>50,0</td><td></td>
+	</tr><tr>
+		<td>156</td><td>2015</td><td>145</td><td>0166783H</td><td>FRA 000</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>AUGUSTIN D&#39;ARCO</td><td>50,0</td><td></td>
+	</tr><tr>
+		<td>157</td><td>2015</td><td>145</td><td>1033777B</td><td>FRA 992</td><td>CN LORIENT 1</td><td>J 80</td><td>True</td><td></td><td>PIERRE LOUISET</td><td>50,0</td><td></td>
+	</tr><tr>
+		<td>158</td><td>2015</td><td>158</td><td>0605086Y</td><td>FRA 25955</td><td>LE BLEU CIEL                            </td><td>GRAND SURPRISE OD</td><td>True</td><td></td><td>JACQUES GUIBERT</td><td>49,7</td><td></td>
+	</tr><tr>
+		<td>159</td><td>2015</td><td>159</td><td>0540371M</td><td>FRA 424</td><td>JORAN</td><td>J 80</td><td>True</td><td></td><td>JEAN PAUL DEPARTE</td><td>49,0</td><td></td>
+	</tr><tr>
+		<td>160</td><td>2015</td><td>160</td><td>0537227M</td><td>C 32</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>VINCENT BRIVOAL</td><td>48,0</td><td></td>
+	</tr><tr>
+		<td>161</td><td>2015</td><td>161</td><td>0868037F</td><td>FRA 9532</td><td>MORE THAN THIS</td><td>ELAN 31 GTE Q PLOMB</td><td>True</td><td></td><td>GERARD LUBERT</td><td>47,5</td><td></td>
+	</tr><tr>
+		<td>162</td><td>2015</td><td>162</td><td>0184590G</td><td>FRA 1370J2</td><td>SOFFE</td><td>J 22</td><td>True</td><td></td><td>PHILIPPE GRANDO</td><td>47,0</td><td></td>
+	</tr><tr>
+		<td>163</td><td>2015</td><td>163</td><td>0581254Y</td><td>FRA 17367</td><td>SALICORNE</td><td>FIRST 300 SPIRIT</td><td>True</td><td></td><td>CHRISTOPHE ROBERT</td><td>46,9</td><td></td>
+	</tr><tr>
+		<td>164</td><td>2015</td><td>164</td><td>1030037F</td><td>FRA 16772</td><td>LUSKELL</td><td>SPRINT 108 (9/10) CROIS</td><td>True</td><td></td><td>MARC VITEL</td><td>46,5</td><td></td>
+	</tr><tr>
+		<td>165</td><td>2015</td><td>165</td><td>0013712J</td><td>FRA 27127</td><td>KIROKASSIS</td><td>FIGARO ONE</td><td>True</td><td></td><td>PIERRE LEFEVRE</td><td>46,2</td><td></td>
+	</tr><tr>
+		<td>166</td><td>2015</td><td>166</td><td>1356737T</td><td>FRA 39667</td><td>MI ARMOR</td><td>OCEANIS 38 Cruiser GTE</td><td>True</td><td></td><td>MARIE DANIELLE FLAYAC</td><td>46,0</td><td></td>
+	</tr><tr>
+		<td>167</td><td>2015</td><td>166</td><td>0348318G</td><td>FRA 28908</td><td>ALCYON</td><td>FIRST 31.7</td><td>True</td><td></td><td>JEAN BAPTISTE LEROY</td><td>46,0</td><td></td>
+	</tr><tr>
+		<td>168</td><td>2015</td><td>166</td><td>0546265B</td><td>FRA 4082</td><td>MICR&#39;EAU                                </td><td>MICROSAIL Q</td><td>True</td><td></td><td>BERNARD PRIVE</td><td>46,0</td><td></td>
+	</tr><tr>
+		<td>169</td><td>2015</td><td>166</td><td>0565081B</td><td>C 14</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>SYLVIE BASTARD</td><td>46,0</td><td></td>
+	</tr><tr>
+		<td>170</td><td>2015</td><td>170</td><td>0387583H</td><td>FRA 18332</td><td>SUMMUMM</td><td>FARR 30</td><td>True</td><td></td><td>YANNICK LECREQ</td><td>45,5</td><td></td>
+	</tr><tr>
+		<td>171</td><td>2015</td><td>170</td><td>1125011M</td><td>FRA 42651</td><td>spirit of bally </td><td>SURPRISE Q</td><td>True</td><td></td><td>VINCENT LE SEREC</td><td>45,5</td><td></td>
+	</tr><tr>
+		<td>172</td><td>2015</td><td>172</td><td>0457511Z</td><td>FRA 29778</td><td>DALC&#39;H MAT</td><td>FIRST 260 SPIRIT QR</td><td>True</td><td></td><td>STEPHANE DAVOUST</td><td>45,0</td><td></td>
+	</tr><tr>
+		<td>173</td><td>2015</td><td>172</td><td>0554150Q</td><td>FRA 28897</td><td>FRIC FRAC</td><td>J 109 OD</td><td>True</td><td></td><td>JEAN LUC LARDIERE</td><td>45,0</td><td></td>
+	</tr><tr>
+		<td>174</td><td>2015</td><td>172</td><td>1225699V</td><td>FRA 21535</td><td>AVEL MAD</td><td>FIRST 31.7</td><td>True</td><td></td><td>SEBASTIEN DU RUSQUEC</td><td>45,0</td><td></td>
+	</tr><tr>
+		<td>175</td><td>2015</td><td>175</td><td>1194829P</td><td>FRA 650</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>NICOLAS DEGORCE</td><td>44,8</td><td></td>
+	</tr><tr>
+		<td>176</td><td>2015</td><td>175</td><td>0123308W</td><td>FRA 5</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>JULIEN VALLEE</td><td>44,8</td><td></td>
+	</tr><tr>
+		<td>177</td><td>2015</td><td>177</td><td>0604008A</td><td>FRA 38286</td><td>SUPER FEET</td><td>SPEED FEET 18 GVC</td><td>True</td><td></td><td>JEAN FRANCOIS CHEVALLIER</td><td>44,5</td><td></td>
+	</tr><tr>
+		<td>178</td><td>2015</td><td>178</td><td>0138506C</td><td>FRA 35164</td><td>FRAGOLA III</td><td>A 31</td><td>True</td><td></td><td>VINCENT PRALORAN</td><td>44,1</td><td></td>
+	</tr><tr>
+		<td>179</td><td>2015</td><td>179</td><td>0284794L</td><td>FRA 1007</td><td>VERONIQUE                               </td><td>BELOUGA IOR/SUP BELOUGA</td><td>True</td><td></td><td>PHILIPPE ESSELIN</td><td>44,0</td><td></td>
+	</tr><tr>
+		<td>180</td><td>2015</td><td>179</td><td>0485374Y</td><td>FRA 636</td><td>BEG FIGUS                               </td><td>J 80</td><td>False</td><td></td><td>XAVIER BOURRUT LACOUTURE</td><td>44,0</td><td></td>
+	</tr><tr>
+		<td>181</td><td>2015</td><td>179</td><td>0097316W</td><td>FRA 39328</td><td>KASHMIR</td><td>FIRST 30 Q fonte</td><td>True</td><td></td><td>MAXIME SCHMID</td><td>44,0</td><td></td>
+	</tr><tr>
+		<td>182</td><td>2015</td><td>179</td><td>1248398Q</td><td>FRA 19317</td><td>SAIOA</td><td>DEHLER 36 DB Q</td><td>True</td><td></td><td>YVES THERY</td><td>44,0</td><td></td>
+	</tr><tr>
+		<td>183</td><td>2015</td><td>183</td><td>1270391Z</td><td>FRA 35057</td><td>guignol</td><td>FIRST CLASS 7</td><td>True</td><td></td><td>VICTOR BARBEDROITE</td><td>43,5</td><td></td>
+	</tr><tr>
+		<td>184</td><td>2015</td><td>184</td><td>1057468E</td><td>FRA 34697</td><td>ZUZKA 3</td><td>SUN FAST 3200</td><td>True</td><td></td><td>THIBAUT BRANDICOURT</td><td>43,4</td><td></td>
+	</tr><tr>
+		<td>185</td><td>2015</td><td>185</td><td>0460197X</td><td>FRA 28181</td><td>XTRA-TIME OF FAN-FAN</td><td>X 302 MK2</td><td>True</td><td></td><td>JEAN-CHARLES BIGOT</td><td>43,0</td><td></td>
+	</tr><tr>
+		<td>186</td><td>2015</td><td>186</td><td>1124467V</td><td>FRA 36738</td><td>WHISPER</td><td>FIRST 31.7</td><td>True</td><td></td><td>LAURENT MAINDRON</td><td>42,7</td><td></td>
+	</tr><tr>
+		<td>187</td><td>2015</td><td>187</td><td>1039501P</td><td>FRA 24570</td><td>TOUZIG                                  </td><td>EDEL 2</td><td>True</td><td></td><td>JEAN LUC SIBIRIL</td><td>42,5</td><td></td>
+	</tr><tr>
+		<td>188</td><td>2015</td><td>188</td><td>1103623H</td><td>FRA 35830</td><td>CADOMILLE</td><td>GRAND SURPRISE 9/10</td><td>True</td><td></td><td>JEAN LOUIS DELORME</td><td>42,0</td><td></td>
+	</tr><tr>
+		<td>189</td><td>2015</td><td>188</td><td>0498540N</td><td>FRA 28828</td><td>ZEL MARER II                            </td><td>FIRST 31.7</td><td>True</td><td></td><td>PHILIPPE LE ROUZO</td><td>42,0</td><td></td>
+	</tr><tr>
+		<td>190</td><td>2015</td><td>188</td><td>0016625T</td><td>FRA 4450</td><td>PHOCOENA</td><td>JOUET 24 GTE</td><td>True</td><td></td><td>MICHEL MINOIS</td><td>42,0</td><td></td>
+	</tr><tr>
+		<td>191</td><td>2015</td><td>188</td><td>1190058U</td><td>FRA 35174</td><td>BERGAMOTE                               </td><td>SUN RISE Q</td><td>True</td><td></td><td>CHRISTOPHER ELLAWAY</td><td>42,0</td><td></td>
+	</tr><tr>
+		<td>192</td><td>2015</td><td>188</td><td>1183263R</td><td>C 37</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>DAVID GUILLET</td><td>42,0</td><td></td>
+	</tr><tr>
+		<td>193</td><td>2015</td><td>193</td><td>1313085X</td><td>FRA 35908</td><td>DARLING</td><td>SUN FAST 3200</td><td>True</td><td></td><td>JEAN-LUC ENCINAS</td><td>41,3</td><td></td>
+	</tr><tr>
+		<td>194</td><td>2015</td><td>194</td><td>0191992S</td><td>FRA 39125</td><td>BEELZEBUTH 4</td><td>GRAND SOLEIL 40</td><td>True</td><td></td><td>RICHARD BEDERE</td><td>41,0</td><td></td>
+	</tr><tr>
+		<td>195</td><td>2015</td><td>194</td><td>1183010C</td><td>FRA 27684</td><td>QSEK</td><td>SUN ODYSSEY 37</td><td>True</td><td></td><td>GERARD BERGERE</td><td>41,0</td><td></td>
+	</tr><tr>
+		<td>196</td><td>2015</td><td>194</td><td>0516442L</td><td>FRA 1145J8</td><td>J - EAU</td><td>J 80</td><td>True</td><td></td><td>OLIVIER SOULE</td><td>41,0</td><td></td>
+	</tr><tr>
+		<td>197</td><td>2015</td><td>197</td><td>1249603V</td><td>FRA 37929</td><td>VINGEANNE</td><td>FIRST 29 PTE</td><td>True</td><td></td><td>HENRI VAUBAN</td><td>40,6</td><td></td>
+	</tr><tr>
+		<td>198</td><td>2015</td><td>198</td><td>0184398G</td><td>FRA 32153</td><td>CNBO</td><td>FIRST CLASS 8</td><td>True</td><td></td><td>GILLES MARGUERAT</td><td>40,0</td><td></td>
+	</tr><tr>
+		<td>199</td><td>2015</td><td>198</td><td>1186901F</td><td>FRA 13521</td><td>MAYBE</td><td>JOUET 24 GTE</td><td>True</td><td></td><td>ROGER KERYHUEL</td><td>40,0</td><td></td>
+	</tr><tr>
+		<td>200</td><td>2015</td><td>198</td><td>1371917F</td><td>FRA 7164</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>ANNE LEDARD</td><td>40,0</td><td></td>
+	</tr><tr>
+		<td>201</td><td>2015</td><td>201</td><td>1295570C</td><td>FRA 39393</td><td>XS</td><td>FIRST 211 QR</td><td>True</td><td></td><td>LAURENT CARA DEL AGUILA</td><td>39,9</td><td></td>
+	</tr><tr>
+		<td>202</td><td>2015</td><td>201</td><td>0353047H</td><td>FRA 16315</td><td>GIB&#39;US</td><td>GIBSEA 302 GTE</td><td>True</td><td></td><td>YVES DOUMERET</td><td>39,9</td><td></td>
+	</tr><tr>
+		<td>203</td><td>2015</td><td>203</td><td>1275546U</td><td>FRA 8666</td><td>BENEZ</td><td>FIRST 32 GTE</td><td>True</td><td></td><td>JULIEN BENETEAU</td><td>39,2</td><td></td>
+	</tr><tr>
+		<td>204</td><td>2015</td><td>204</td><td>0158633T</td><td>FRA 37844</td><td>PUDLAG&#39;H                                </td><td>LONGTZE PREMIER</td><td>True</td><td></td><td>HERVE AUBRY</td><td>39,0</td><td></td>
+	</tr><tr>
+		<td>205</td><td>2015</td><td>204</td><td>0465963D</td><td>FRA 1596J2</td><td>MAJIK</td><td>J 22</td><td>True</td><td></td><td>BERNARD ANDRE</td><td>39,0</td><td></td>
+	</tr><tr>
+		<td>206</td><td>2015</td><td>206</td><td>0547222Y</td><td>FRA 659J7</td><td>TRILO&#39;J</td><td>J 70</td><td>True</td><td></td><td>CHRISTIAN SANCHEZ</td><td>38,5</td><td></td>
+	</tr><tr>
+		<td>207</td><td>2015</td><td>206</td><td>1219553T</td><td>FRA 27013</td><td>LAU BEN</td><td>FIGARO ONE</td><td>True</td><td></td><td>BERNARD MAYER</td><td>38,5</td><td></td>
+	</tr><tr>
+		<td>208</td><td>2015</td><td>206</td><td>1100397X</td><td>FRA 25703</td><td>PEN-MEN</td><td>FIRST 28 PTE</td><td>True</td><td></td><td>GERARD VALMIR</td><td>38,5</td><td></td>
+	</tr><tr>
+		<td>209</td><td>2015</td><td>206</td><td>1317578C</td><td>FRA 957</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>ZENON PENEAU</td><td>38,5</td><td></td>
+	</tr><tr>
+		<td>210</td><td>2015</td><td>210</td><td>0831359Z</td><td>FRA 143</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>JEAN MARC GOSSET</td><td>38,0</td><td></td>
+	</tr><tr>
+		<td>211</td><td>2015</td><td>210</td><td>1204431R</td><td>C 38</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>YANN COLLIGNON</td><td>38,0</td><td></td>
+	</tr><tr>
+		<td>212</td><td>2015</td><td>210</td><td>1309141P</td><td>FRA 1086J8</td><td>CHALLANS</td><td>J 80</td><td>True</td><td></td><td>MERLIN COUTAND</td><td>38,0</td><td></td>
+	</tr><tr>
+		<td>213</td><td>2015</td><td>213</td><td>1048915V</td><td>FRA 15121</td><td>TEAM</td><td>JOD 35</td><td>True</td><td></td><td>LAURENT CHRETIEN</td><td>37,8</td><td></td>
+	</tr><tr>
+		<td>214</td><td>2015</td><td>214</td><td>0284849T</td><td>FRA 8198</td><td>EXIGENCE</td><td>HALF TON Proto 2G</td><td>False</td><td></td><td>OLIVIER LE RUYET</td><td>37,5</td><td></td>
+	</tr><tr>
+		<td>215</td><td>2015</td><td>215</td><td>1293989F</td><td>FRA 19</td><td>WIKI-WIKI                               </td><td>SPEED FEET 18</td><td>False</td><td></td><td>JEAN-MARC LESIEUR</td><td>37,0</td><td></td>
+	</tr><tr>
+		<td>216</td><td>2015</td><td>215</td><td>0527771M</td><td>FRA 36740</td><td>D GE 607</td><td>D GE 607</td><td>False</td><td></td><td>JEROME CLEMENT</td><td>37,0</td><td></td>
+	</tr><tr>
+		<td>217</td><td>2015</td><td>217</td><td>1071998Q</td><td>FRA 9770</td><td>A +</td><td>A 31</td><td>False</td><td></td><td>FRANCOIS LEONART</td><td>36,5</td><td></td>
+	</tr><tr>
+		<td>218</td><td>2015</td><td>217</td><td>0333771D</td><td>FRA 32923</td><td>arcachon</td><td>FIRST CLASS 8</td><td>True</td><td></td><td>MAX DESBOURDIEU</td><td>36,5</td><td></td>
+	</tr><tr>
+		<td>219</td><td>2015</td><td>219</td><td>0711350Q</td><td>FRA 39267</td><td>HELIOS</td><td>CENTURION 32 croisi&#232;re</td><td>True</td><td></td><td>OLIVIER DECLAVEILLERE</td><td>36,0</td><td></td>
+	</tr><tr>
+		<td>220</td><td>2015</td><td>219</td><td>1191030G</td><td>FRA 37975</td><td>GALIP</td><td>JOUET 680 DER</td><td>True</td><td></td><td>PATRICK LUCAS</td><td>36,0</td><td></td>
+	</tr><tr>
+		<td>221</td><td>2015</td><td>221</td><td>1376357F</td><td>FRA 34196</td><td>PAPY SENCE ERH</td><td>GRAND SURPRISE OD</td><td>True</td><td></td><td>GEOFFROY D&#39;AVOUT</td><td>35,7</td><td></td>
+	</tr><tr>
+		<td>222</td><td>2015</td><td>222</td><td>0178266U</td><td>FRA 38737</td><td>APLYSIA II</td><td>A 31</td><td>True</td><td></td><td>CHRISTIAN FAURE</td><td>35,0</td><td></td>
+	</tr><tr>
+		<td>223</td><td>2015</td><td>223</td><td>1025262G</td><td>FRA 15021</td><td>GOUDURIX 5</td><td>JOD 35</td><td>True</td><td></td><td>STEPHANE AYRAULT</td><td>34,3</td><td></td>
+	</tr><tr>
+		<td>224</td><td>2015</td><td>224</td><td>1318844W</td><td>FRA 17374</td><td>CHILO&#203;  </td><td>FIRST 210 QR</td><td>True</td><td></td><td>BERNARD DAVID</td><td>34,0</td><td></td>
+	</tr><tr>
+		<td>225</td><td>2015</td><td>224</td><td>0547630Y</td><td>FRA 37565</td><td>VORTEX                                  </td><td>JOUET 24 GTE</td><td>False</td><td></td><td>PHILIPE CHARTIN</td><td>34,0</td><td></td>
+	</tr><tr>
+		<td>226</td><td>2015</td><td>226</td><td>0346995D</td><td>FRA 21688</td><td>NOSSI-BE</td><td>JOUET 24 GTE</td><td>True</td><td></td><td>ANDRE MAGOGA</td><td>33,5</td><td></td>
+	</tr><tr>
+		<td>227</td><td>2015</td><td>226</td><td>0344699M</td><td>FRA 27971</td><td>DUNE</td><td>CENTURION 37S</td><td>True</td><td></td><td>PASCAL NOTERIS</td><td>33,5</td><td></td>
+	</tr><tr>
+		<td>228</td><td>2015</td><td>226</td><td>0491987M</td><td>FRA 1585J2</td><td>JINGLE                                  </td><td>J 22</td><td>True</td><td></td><td>FABRICE TIRILLY</td><td>33,5</td><td></td>
+	</tr><tr>
+		<td>229</td><td>2015</td><td>226</td><td>1336784J</td><td>FRA 21716</td><td>BAMAK</td><td>FIRST 35(2)GTE</td><td>True</td><td></td><td>MICHEL LIGONNET</td><td>33,5</td><td></td>
+	</tr><tr>
+		<td>230</td><td>2015</td><td>226</td><td>1356092W</td><td>FRA 18964</td><td>FREDISA 101</td><td>TONIC 23 DL</td><td>True</td><td></td><td>FREDERIC CHAPON</td><td>33,5</td><td></td>
+	</tr><tr>
+		<td>231</td><td>2015</td><td>226</td><td>0541736J</td><td>FRA 18799</td><td>M-SIX                                   </td><td>NEPTUNE 550</td><td>True</td><td></td><td>HERVE MENORET</td><td>33,5</td><td></td>
+	</tr><tr>
+		<td>232</td><td>2015</td><td>226</td><td>1211956E</td><td>FRA 39046</td><td>LA DEMENCE</td><td>FIRST 24 QR</td><td>True</td><td></td><td>SERGE PLU</td><td>33,5</td><td></td>
+	</tr><tr>
+		<td>233</td><td>2015</td><td>233</td><td>0768934Y</td><td>FRA 29267</td><td>CRABY</td><td>EXPRESS 600</td><td>True</td><td></td><td>LAURENT DOUSSIN</td><td>32,5</td><td></td>
+	</tr><tr>
+		<td>234</td><td>2015</td><td>234</td><td>1119079H</td><td>FRA 1080</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>TOM CARISSAN</td><td>32,2</td><td></td>
+	</tr><tr>
+		<td>235</td><td>2015</td><td>235</td><td>0215486Q</td><td>FRA 475</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>ALEXIS BANVILLET</td><td>32,0</td><td></td>
+	</tr><tr>
+		<td>236</td><td>2015</td><td>235</td><td>1366619M</td><td>FRA 39670</td><td>FUNJAZZ</td><td>590 Der</td><td>True</td><td></td><td>JACQUES CHEMINADE</td><td>32,0</td><td></td>
+	</tr><tr>
+		<td>237</td><td>2015</td><td>235</td><td>1136945T</td><td>FRA 6292</td><td>SAPAJOU</td><td>J 92</td><td>True</td><td></td><td>CHRISTOPHE ROCHEREAU</td><td>32,0</td><td></td>
+	</tr><tr>
+		<td>238</td><td>2015</td><td>235</td><td>1052351Z</td><td>FRA 3329</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>JOHANN LE BORGNE</td><td>32,0</td><td></td>
+	</tr><tr>
+		<td>239</td><td>2015</td><td>235</td><td>0668217K</td><td>FRA 28387</td><td>M&amp;M&#39;S</td><td>POGO 850</td><td>True</td><td></td><td>PHILIPPE JARNO</td><td>32,0</td><td></td>
+	</tr><tr>
+		<td>240</td><td>2015</td><td>240</td><td>1244020E</td><td>FRA 37560</td><td>TRYOD&#39;O                                 </td><td>DJINN 7</td><td>True</td><td></td><td>MYRIAM HELIE</td><td>31,5</td><td></td>
+	</tr><tr>
+		<td>241</td><td>2015</td><td>241</td><td>0466055Z</td><td>FRA 19432</td><td>ADDICTION</td><td>SUN FAST 32 GTE</td><td>True</td><td></td><td>PHILIPPE PIOUT</td><td>31,5</td><td></td>
+	</tr><tr>
+		<td>242</td><td>2015</td><td>241</td><td>1093735H</td><td>FRA 36885</td><td>DAFFY</td><td>ELAN 310</td><td>True</td><td></td><td>ERIC POYET</td><td>31,5</td><td></td>
+	</tr><tr>
+		<td>243</td><td>2015</td><td>243</td><td>0355349F</td><td>FRA 38408</td><td>KARRIBOO</td><td>ELAN 350</td><td>True</td><td></td><td>YANN BRODIN</td><td>31,0</td><td></td>
+	</tr><tr>
+		<td>244</td><td>2015</td><td>244</td><td>1296015R</td><td>FRA 36935</td><td>WANLA                                   </td><td>DUFOUR 34 2003 GTE</td><td>False</td><td></td><td>VINCENT LASSALLE ST JEAN</td><td>30,8</td><td></td>
+	</tr><tr>
+		<td>245</td><td>2015</td><td>244</td><td>1319125P</td><td>FRA 38678</td><td>AYMTAN</td><td>MAXUS 21</td><td>True</td><td></td><td>ERIC DANTES</td><td>30,8</td><td></td>
+	</tr><tr>
+		<td>246</td><td>2015</td><td>246</td><td>1245576A</td><td>FRA 35082</td><td>CAP&#39;TERRE</td><td>JPK 1010</td><td>True</td><td></td><td>DIDIER CAPON</td><td>30,1</td><td></td>
+	</tr><tr>
+		<td>247</td><td>2015</td><td>247</td><td>1318224A</td><td>FRA 32515</td><td>Kool &#224; pic</td><td>FIRST CLASS 8</td><td>True</td><td></td><td>MANUEL RULLAN</td><td>30,0</td><td></td>
+	</tr><tr>
+		<td>248</td><td>2015</td><td>247</td><td>1312743R</td><td>C 34</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>CHRISTIAN LEVITRE</td><td>30,0</td><td></td>
+	</tr><tr>
+		<td>249</td><td>2015</td><td>247</td><td>1258434U</td><td>FRA 19782</td><td>AXIOME</td><td>X 37 STD</td><td>True</td><td></td><td>MICHEL VAN KONINCKXLOO</td><td>30,0</td><td></td>
+	</tr><tr>
+		<td>250</td><td>2015</td><td>250</td><td>1071785T</td><td>FRA 35164</td><td>FRAGOLA III</td><td>A 31</td><td>True</td><td></td><td>JEAN FRANCOIS JOLLY</td><td>29,4</td><td></td>
+	</tr><tr>
+		<td>251</td><td>2015</td><td>251</td><td>0112080A</td><td>FRA 24444</td><td>CAVEJE 3</td><td>AQUILA GTE</td><td>True</td><td></td><td>GILBERT DAURIS</td><td>29,0</td><td></td>
+	</tr><tr>
+		<td>252</td><td>2015</td><td>252</td><td>0493400J</td><td>FRA 37931</td><td>DR FEEL GOOD</td><td>SPEED FEET 18 GVC</td><td>True</td><td></td><td>BRUNO CORVEC</td><td>28,0</td><td></td>
+	</tr><tr>
+		<td>253</td><td>2015</td><td>252</td><td>1094677P</td><td>FRA 36894</td><td>FLYING SHEEP X</td><td>FIRST 25.7 QR</td><td>True</td><td></td><td>ROBERT LAINE</td><td>28,0</td><td></td>
+	</tr><tr>
+		<td>254</td><td>2015</td><td>252</td><td>1217938L</td><td>FRA 38569</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>GUILLAUME LE MOIGNE</td><td>28,0</td><td></td>
+	</tr><tr>
+		<td>255</td><td>2015</td><td>255</td><td>1017620W</td><td>FRA 22386</td><td>FLORA</td><td>SURPRISE Q</td><td>True</td><td></td><td>MATHIEU LUTARD</td><td>27,5</td><td></td>
+	</tr><tr>
+		<td>256</td><td>2015</td><td>255</td><td>1149913B</td><td>FRA 24489</td><td>FONBADET</td><td>X 99</td><td>True</td><td></td><td>THIERRY GREIBILL</td><td>27,5</td><td></td>
+	</tr><tr>
+		<td>257</td><td>2015</td><td>257</td><td>0436835M</td><td>FRA 36870</td><td>DIVA</td><td>SYMPHONIE DL</td><td>True</td><td></td><td>JACQUES BOURIT</td><td>27,3</td><td></td>
+	</tr><tr>
+		<td>258</td><td>2015</td><td>258</td><td>0352055Z</td><td>FRA 38261</td><td>GHISMO                                  </td><td>GO NEPTUNE</td><td>True</td><td></td><td>SYLVAIN FARGEAS</td><td>27,0</td><td></td>
+	</tr><tr>
+		<td>259</td><td>2015</td><td>258</td><td>0414528A</td><td>FRA 38376</td><td>SAYURI 2                                </td><td>SUN ODYSSEY 33 I PERF</td><td>True</td><td></td><td>YVES ROUSSEAU</td><td>27,0</td><td></td>
+	</tr><tr>
+		<td>260</td><td>2015</td><td>260</td><td>1001543Z</td><td>C 43</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>PATRICK LEMERLE</td><td>26,0</td><td></td>
+	</tr><tr>
+		<td>261</td><td>2015</td><td>260</td><td>1084300E</td><td>FRA 38906</td><td>NOUCH 4</td><td>OCEANIS 37 GTE</td><td>True</td><td></td><td>BERNARD DEVY</td><td>26,0</td><td></td>
+	</tr><tr>
+		<td>262</td><td>2015</td><td>260</td><td>1344968J</td><td>FRA 277</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>CLAIRE MONTECOT</td><td>26,0</td><td></td>
+	</tr><tr>
+		<td>263</td><td>2015</td><td>263</td><td>1254045X</td><td>FRA 956</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>ALEXANDRE SOISSONS</td><td>25,9</td><td></td>
+	</tr><tr>
+		<td>264</td><td>2015</td><td>264</td><td>1345396E</td><td>FRA 18966</td><td>BENITO</td><td>FIRST 26 QR</td><td>True</td><td></td><td>FRANCOIS BERULLIER</td><td>25,5</td><td></td>
+	</tr><tr>
+		<td>265</td><td>2015</td><td>264</td><td>1275201K</td><td>IRL 13111</td><td>SHIMAZEN</td><td>FIRST CLASS Challenge</td><td>True</td><td></td><td>GUILLAUME NEGRIER</td><td>25,5</td><td></td>
+	</tr><tr>
+		<td>266</td><td>2015</td><td>264</td><td>0460118Q</td><td>FRA 415</td><td>J Gantesque</td><td>J 80</td><td>True</td><td></td><td>DAMIEN FORTINI</td><td>25,5</td><td></td>
+	</tr><tr>
+		<td>267</td><td>2015</td><td>264</td><td>0571273B</td><td>FRA 57271</td><td>LUDIC</td><td>OPEN 570</td><td>True</td><td></td><td>MICHEL NICOLAS</td><td>25,5</td><td></td>
+	</tr><tr>
+		<td>268</td><td>2015</td><td>268</td><td>1023205P</td><td>FRA 4082</td><td>MICR&#39;EAU                                </td><td>MICROSAIL Q</td><td>True</td><td></td><td>MICHEL LE GRUMELEC</td><td>25,0</td><td></td>
+	</tr><tr>
+		<td>269</td><td>2015</td><td>269</td><td>1334903Z</td><td>C 128</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>GUILLAUME LELEU</td><td>24,5</td><td></td>
+	</tr><tr>
+		<td>270</td><td>2015</td><td>269</td><td>0544526Q</td><td>FRA 29727</td><td>Kervan I</td><td>SUN FAST 35 ARMADA</td><td>True</td><td></td><td>BENJAMIN MONTAGUT</td><td>24,5</td><td></td>
+	</tr><tr>
+		<td>271</td><td>2015</td><td>271</td><td>1166970U</td><td>FRA 36790</td><td>ASTRAGALE</td><td>FIRST 40</td><td>True</td><td></td><td>ERIC BOURRIER</td><td>24,0</td><td></td>
+	</tr><tr>
+		<td>272</td><td>2015</td><td>272</td><td>0455551H</td><td>FRA 39080</td><td>BOM  DIA</td><td>FIRST 22 QR</td><td>True</td><td></td><td>ARNAUD ROUBY</td><td>23,8</td><td></td>
+	</tr><tr>
+		<td>273</td><td>2015</td><td>273</td><td>0925251D</td><td>FRA 1155</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>PATRICE GOUBE</td><td>23,5</td><td></td>
+	</tr><tr>
+		<td>274</td><td>2015</td><td>274</td><td>0539765F</td><td>FRA 35921</td><td>AKELA</td><td>AKELA 50</td><td>False</td><td></td><td>GUILLAUME D AREXY</td><td>23,0</td><td></td>
+	</tr><tr>
+		<td>275</td><td>2015</td><td>274</td><td>0484483V</td><td>FRA 42447</td><td>SOUEZH</td><td>SURPRISE Q</td><td>True</td><td></td><td>ERIC LIMOUZIN</td><td>23,0</td><td></td>
+	</tr><tr>
+		<td>276</td><td>2015</td><td>274</td><td>1252384S</td><td>FRA 39933</td><td>woolloomooloo too</td><td>SUN FAST 3600</td><td>True</td><td></td><td>PHILIPPE AOUSTIN</td><td>23,0</td><td></td>
+	</tr><tr>
+		<td>277</td><td>2015</td><td>277</td><td>0761770L</td><td>FRA 1931</td><td>L&#39;EVASION</td><td>DUFOUR 24 PTE</td><td>True</td><td></td><td>YVES PIGUEL</td><td>22,6</td><td></td>
+	</tr><tr>
+		<td>278</td><td>2015</td><td>278</td><td>0347617B</td><td>FRA 32674</td><td>PORTIVY</td><td>FIRST CLASS 8</td><td>True</td><td></td><td>BERNARD ANEZO</td><td>22,5</td><td></td>
+	</tr><tr>
+		<td>279</td><td>2015</td><td>278</td><td>1185880S</td><td>FRA 19711</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>ROMAIN LE BORGNE</td><td>22,5</td><td></td>
+	</tr><tr>
+		<td>280</td><td>2015</td><td>278</td><td>0534980W</td><td>FRA 287</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>ALAIN GUIBAL</td><td>22,5</td><td></td>
+	</tr><tr>
+		<td>281</td><td>2015</td><td>281</td><td>0002608S</td><td>FRA 38681</td><td>CANAR DOS</td><td>NEPTUNE 625</td><td>True</td><td></td><td>PASCAL REMY</td><td>21,7</td><td></td>
+	</tr><tr>
+		<td>282</td><td>2015</td><td>282</td><td>1314880S</td><td>FRA 36911</td><td>SHITAINE                                </td><td>FIRST 21.7 QR</td><td>True</td><td></td><td>THIERRY BOULARD</td><td>21,5</td><td></td>
+	</tr><tr>
+		<td>283</td><td>2015</td><td>283</td><td>1292269P</td><td>C 999</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>JEAN-CHRISTOPHE BOULLENOIS</td><td>20,5</td><td></td>
+	</tr><tr>
+		<td>284</td><td>2015</td><td>283</td><td>1288534Y</td><td>FRA 39393</td><td>XS</td><td>FIRST 211 QR</td><td>True</td><td></td><td>LOLA LEBOUTEILLER</td><td>20,5</td><td></td>
+	</tr><tr>
+		<td>285</td><td>2015</td><td>283</td><td>1268441T</td><td>C 31</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>GUY LETOURNEUX</td><td>20,5</td><td></td>
+	</tr><tr>
+		<td>286</td><td>2015</td><td>286</td><td>0782866L</td><td>FRA 115</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>ERIC FRITSCH</td><td>20,0</td><td></td>
+	</tr><tr>
+		<td>287</td><td>2015</td><td>287</td><td>1273665K</td><td>FRA 7</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>PIERRE DE BODMAN</td><td>19,6</td><td></td>
+	</tr><tr>
+		<td>288</td><td>2015</td><td>287</td><td>0608397X</td><td>FRA 7</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>MARION LEDOUX</td><td>19,6</td><td></td>
+	</tr><tr>
+		<td>289</td><td>2015</td><td>289</td><td>0161740E</td><td>FRA 13617</td><td>SERIALS CHOPPERS</td><td>MICRO prototype</td><td>True</td><td></td><td>FRANCOIS FARJAUD</td><td>19,5</td><td></td>
+	</tr><tr>
+		<td>290</td><td>2015</td><td>289</td><td>0453713T</td><td>FRA 28161</td><td>TILT</td><td>START 6 Der</td><td>True</td><td></td><td>PHILIPPE AUBISSE</td><td>19,5</td><td></td>
+	</tr><tr>
+		<td>291</td><td>2015</td><td>289</td><td>0615042U</td><td>FRA 4369</td><td>PECO</td><td>MICROSAIL DER</td><td>True</td><td></td><td>FRANCOIS LE BEAU</td><td>19,5</td><td></td>
+	</tr><tr>
+		<td>292</td><td>2015</td><td>292</td><td>1330173X</td><td>FRA 38686</td><td>FULL-START</td><td>START 6 Der</td><td>True</td><td></td><td>FREDERIC GARNUNG</td><td>19,0</td><td></td>
+	</tr><tr>
+		<td>293</td><td>2015</td><td>292</td><td>1290775H</td><td>FRA 2733</td><td>MARIE CAROLE                            </td><td>DELPH TAVEL</td><td>False</td><td></td><td>THIERRY GODARD</td><td>19,0</td><td></td>
+	</tr><tr>
+		<td>294</td><td>2015</td><td>294</td><td>1243854G</td><td>FRA 36905</td><td>MATYN                                   </td><td>SUN FAST 20</td><td>True</td><td></td><td>YVES BOUVERY</td><td>18,9</td><td></td>
+	</tr><tr>
+		<td>295</td><td>2015</td><td>295</td><td>0496122U</td><td>C 35</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>JEAN MARC LE DORTZ</td><td>18,5</td><td></td>
+	</tr><tr>
+		<td>296</td><td>2015</td><td>296</td><td>0121921B</td><td>FRA 34910</td><td>AND CO</td><td>SUSPENS 84</td><td>True</td><td></td><td>PATRICK CHEVALIER</td><td>18,0</td><td></td>
+	</tr><tr>
+		<td>297</td><td>2015</td><td>297</td><td>1186815R</td><td>FRA 39120</td><td>ANTXETA</td><td>SUN ODYSSEY 51 Q ail</td><td>True</td><td></td><td>JOEL OLAIZOLA</td><td>17,0</td><td></td>
+	</tr><tr>
+		<td>298</td><td>2015</td><td>297</td><td>1168616J</td><td>FRA 25563</td><td>LOOBY</td><td>FIRST 260 SPIRIT QR</td><td>True</td><td></td><td>GARY BROOKS</td><td>17,0</td><td></td>
+	</tr><tr>
+		<td>299</td><td>2015</td><td>297</td><td>1269930U</td><td>FRA 32772</td><td>WILD CHILD</td><td>FIRST CLASS 8</td><td>True</td><td></td><td>ALO&#207;S FLAYAC</td><td>17,0</td><td></td>
+	</tr><tr>
+		<td>300</td><td>2015</td><td>297</td><td>1002225K</td><td>C 112</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>NOEL GUENNEC</td><td>17,0</td><td></td>
+	</tr><tr>
+		<td>301</td><td>2015</td><td>301</td><td>1261353K</td><td>FRA 257</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>PATRICK JOUAN</td><td>16,5</td><td></td>
+	</tr><tr>
+		<td>302</td><td>2015</td><td>302</td><td>0550421F</td><td>FRA 32781</td><td>PAYS DE LOIRE 1</td><td>FIRST CLASS 8</td><td>True</td><td></td><td>GUILLAUME AVRILLA</td><td>16,1</td><td></td>
+	</tr><tr>
+		<td>303</td><td>2015</td><td>303</td><td>0175295Z</td><td>FRA 34570</td><td>HOCALO                                  </td><td>NEPTUNE 550</td><td>True</td><td></td><td>DANIEL COUSTILLIER</td><td>15,5</td><td></td>
+	</tr><tr>
+		<td>304</td><td>2015</td><td>304</td><td>0507120A</td><td>FRA 34239</td><td>VERSO                                   </td><td>GRAND SURPRISE 9/10</td><td>False</td><td></td><td>SIMON GAULIER</td><td>14,5</td><td></td>
+	</tr><tr>
+		<td>305</td><td>2015</td><td>304</td><td>1158969K</td><td>FRA 16553</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>JOSEPH LANDAIS</td><td>14,5</td><td></td>
+	</tr><tr>
+		<td>306</td><td>2015</td><td>304</td><td>1145415R</td><td>FRA 38832</td><td>MICROSILLAGE</td><td>MICROSAIL Q</td><td>True</td><td></td><td>MICHEL COLLIN</td><td>14,5</td><td></td>
+	</tr><tr>
+		<td>307</td><td>2015</td><td>304</td><td>1268053P</td><td>FRA 36501</td><td>KRAPO</td><td>K650</td><td>True</td><td></td><td>ERIC CHARRIER</td><td>14,5</td><td></td>
+	</tr><tr>
+		<td>308</td><td>2015</td><td>308</td><td>0374494Y</td><td>FRA 38274</td><td>WAPITI                                  </td><td>SUN FAST 3200</td><td>True</td><td></td><td>JACQUES DESPUJOLS</td><td>14,0</td><td></td>
+	</tr><tr>
+		<td>309</td><td>2015</td><td>308</td><td>1150488A</td><td>FRA 35383</td><td>BLUE MOON                               </td><td>FIRST 35.7 Q</td><td>True</td><td></td><td>CHRISTOPHE PROUVOT</td><td>14,0</td><td></td>
+	</tr><tr>
+		<td>310</td><td>2015</td><td>310</td><td>1313250U</td><td>C 126</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>TANGI TREHIN</td><td>13,5</td><td></td>
+	</tr><tr>
+		<td>311</td><td>2015</td><td>310</td><td>1288531V</td><td>FRA 39523</td><td>CARIBOU</td><td>LOVE LOVE</td><td>True</td><td></td><td>TITOUAN CHINOT</td><td>13,5</td><td></td>
+	</tr><tr>
+		<td>312</td><td>2015</td><td>312</td><td>1072332N</td><td>FRA 3</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>OLIVIER BODIN</td><td>13,3</td><td></td>
+	</tr><tr>
+		<td>313</td><td>2015</td><td>312</td><td>1372249B</td><td>FRA 6</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>QUENTIN TOFANELLI</td><td>13,3</td><td></td>
+	</tr><tr>
+		<td>314</td><td>2015</td><td>314</td><td>1325406G</td><td>FRA 247</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>DIRK LAWRENCE</td><td>13,0</td><td></td>
+	</tr><tr>
+		<td>315</td><td>2015</td><td>314</td><td>1177268W</td><td>FRA 38275</td><td>TAIDO                                   </td><td>FIRST 210 QR</td><td>True</td><td></td><td>BERNARD COUSIN</td><td>13,0</td><td></td>
+	</tr><tr>
+		<td>316</td><td>2015</td><td>314</td><td>1030767R</td><td>FRA 38765</td><td>ALGIMOUSS</td><td>FEELING 1040 GTE</td><td>True</td><td></td><td>JEAN LUC VAN DEN HEEDE</td><td>13,0</td><td></td>
+	</tr><tr>
+		<td>317</td><td>2015</td><td>317</td><td>1337099M</td><td>FRA 7491</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>YANN LE SCOUILLER</td><td>12,5</td><td></td>
+	</tr><tr>
+		<td>318</td><td>2015</td><td>318</td><td>1297004W</td><td>FRA 39533</td><td>BE-HAPPY</td><td>SUN FAST 3600</td><td>True</td><td></td><td>FREDERIC COUTURE</td><td>12,0</td><td></td>
+	</tr><tr>
+		<td>319</td><td>2015</td><td>318</td><td>1037066C</td><td>FRA 2118</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>JEROME CATHALA</td><td>12,0</td><td></td>
+	</tr><tr>
+		<td>320</td><td>2015</td><td>320</td><td>1374745B</td><td>FRA 42</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>JEAN-YVES ROUXEL</td><td>11,5</td><td></td>
+	</tr><tr>
+		<td>321</td><td>2015</td><td>321</td><td>1296205P</td><td>FRA 39225</td><td>TI BEUR</td><td>TONIC 23 DL</td><td>True</td><td></td><td>DANIEL BEURRIER</td><td>11,2</td><td></td>
+	</tr><tr>
+		<td>322</td><td>2015</td><td>322</td><td>1188997P</td><td>FRA 38262</td><td>ROUGE CORAIL</td><td>RM 1060 BQ</td><td>True</td><td></td><td>PHILIPPE COLOMBIE</td><td>11,0</td><td></td>
+	</tr><tr>
+		<td>323</td><td>2015</td><td>323</td><td>0198294G</td><td>C 116</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>ALAIN BOULDOIRES</td><td>10,5</td><td></td>
+	</tr><tr>
+		<td>324</td><td>2015</td><td>323</td><td>1054501P</td><td>C 42</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>CLAUDE CELIBERT</td><td>10,5</td><td></td>
+	</tr><tr>
+		<td>325</td><td>2015</td><td>323</td><td>1288540E</td><td>FRA 38270</td><td>CLIPPER II                              </td><td>FIRST 21.7 QR</td><td>True</td><td></td><td>TH&#201;O BARBEDROITE</td><td>10,5</td><td></td>
+	</tr><tr>
+		<td>326</td><td>2015</td><td>326</td><td>0492199H</td><td>FRA 39523</td><td>CARIBOU</td><td>LOVE LOVE</td><td>True</td><td></td><td>LAURENCE CREUZET</td><td>9,8</td><td></td>
+	</tr><tr>
+		<td>327</td><td>2015</td><td>327</td><td>0073712J</td><td>FRA 14288</td><td>JADE</td><td>FIRST 38S5 Q</td><td>True</td><td></td><td>DANIEL DELAUNOIS</td><td>9,5</td><td></td>
+	</tr><tr>
+		<td>328</td><td>2015</td><td>328</td><td>1310561T</td><td>FRA 29465</td><td>TAKITAC                                 </td><td>FIRST 210 QR</td><td>True</td><td></td><td>PATRICK VERGNES</td><td>9,0</td><td></td>
+	</tr><tr>
+		<td>329</td><td>2015</td><td>328</td><td>1106088A</td><td>FRA 57150</td><td>SOULETROPIC</td><td>OPEN 570</td><td>True</td><td></td><td>STEPHANE MOUSSET</td><td>9,0</td><td></td>
+	</tr><tr>
+		<td>330</td><td>2015</td><td>330</td><td>1336155D</td><td>FRA 4713</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>BRUNO CHEVALIER</td><td>8,5</td><td></td>
+	</tr><tr>
+		<td>331</td><td>2015</td><td>331</td><td>1276665K</td><td>FRA 38218</td><td>PIPISTRELLE                             </td><td>FIRST 31.7 PTE</td><td>True</td><td></td><td>GERARD CONDEMINE</td><td>8,4</td><td></td>
+	</tr><tr>
+		<td>332</td><td>2015</td><td>332</td><td>0449439R</td><td>FRA 1089</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>XAVIER TINEL</td><td>8,0</td><td></td>
+	</tr><tr>
+		<td>333</td><td>2015</td><td>333</td><td>1151648J</td><td>FRA 16145</td><td>SERENITE</td><td>HELIUM 765</td><td>True</td><td></td><td>HUBERT PROUVOST</td><td>7,5</td><td></td>
+	</tr><tr>
+		<td>334</td><td>2015</td><td>334</td><td>1162075V</td><td>C 111</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>JEAN PAUL LE GAL</td><td>7,0</td><td></td>
+	</tr><tr>
+		<td>335</td><td>2015</td><td>334</td><td>1353933X</td><td>FRA 1</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>FRANCOIS ROIGNANT</td><td>7,0</td><td></td>
+	</tr><tr>
+		<td>336</td><td>2015</td><td>334</td><td>1265868N</td><td>FRA 220</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>BRIEUC LE MOUILLOUR</td><td>7,0</td><td></td>
+	</tr><tr>
+		<td>337</td><td>2015</td><td>337</td><td>1072614G</td><td> MUS146</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>MATHIEU RAVIER</td><td>6,5</td><td></td>
+	</tr><tr>
+		<td>338</td><td>2015</td><td>338</td><td>1271117F</td><td>FRA 38260</td><td>MATHIS                                  </td><td>ARPEGE MK1</td><td>True</td><td></td><td>FRAN&#199;OIS BOTTIN</td><td>6,3</td><td></td>
+	</tr><tr>
+		<td>339</td><td>2015</td><td>339</td><td>0458910G</td><td>FRA 80</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>SIMON GUIBERT_</td><td>6,0</td><td></td>
+	</tr><tr>
+		<td>340</td><td>2015</td><td>339</td><td>1318227D</td><td>FRA 32515</td><td>Kool &#224; pic</td><td>FIRST CLASS 8</td><td>True</td><td></td><td>PIERRE DOMINIQUE JOUBERT</td><td>6,0</td><td></td>
+	</tr><tr>
+		<td>341</td><td>2015</td><td>341</td><td>0496311R</td><td>FRA 28549</td><td>MOUXQUETAIRE                            </td><td>IMX 40</td><td>False</td><td></td><td>PATRICK MOINIER</td><td>5,0</td><td></td>
+	</tr><tr>
+		<td>342</td><td>2015</td><td>342</td><td>1373913K</td><td>C 40</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>DAVID PASGRIMAUD</td><td>4,5</td><td></td>
+	</tr><tr>
+		<td>343</td><td>2015</td><td>342</td><td>1376977B</td><td>FRA 1446J2</td><td>JUNE</td><td>J 22</td><td>True</td><td></td><td>SAMIA BODELON</td><td>4,5</td><td></td>
+	</tr><tr>
+		<td>344</td><td>2015</td><td>344</td><td>0052946C</td><td>FRA 24259</td><td>WIPENA</td><td>EDEL 2</td><td>True</td><td></td><td>CHARLES HERFRAY</td><td>4,0</td><td></td>
+	</tr><tr>
+		<td>345</td><td>2015</td><td>345</td><td>1317008J</td><td>C 29</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>CLAUDE CRESPIN</td><td>2,5</td><td></td>
+	</tr><tr>
+		<td>346</td><td>2015</td><td>346</td><td>1058993T</td><td>FRA 38388</td><td>PIKOU PANEZ                             </td><td>DAYDREAM 300 BQ</td><td>True</td><td></td><td>OLIVIER JOUANNO</td><td>2,0</td><td></td>
+	</tr><tr>
+		<td>347</td><td>2015</td><td>346</td><td>0526947D</td><td>FRA 27099</td><td>FISH AND CHIPS</td><td>FIGARO ONE</td><td>True</td><td></td><td>STEPHANE PAGE</td><td>2,0</td><td></td>
+	</tr><tr>
+		<td>348</td><td>2015</td><td>348</td><td>1030593K</td><td>FRA 27036</td><td>ASTROLABE II                            </td><td>FIGARO ONE</td><td>False</td><td></td><td>JEAN MICHEL BRICHARD</td><td>1,0</td><td></td>
+	</tr><tr>
+		<td>349</td><td>2015</td><td>348</td><td>1246675V</td><td>FRA 109</td><td>ECUREUIL DE PARIS                       </td><td>FIRST CLASS EUROPE</td><td>False</td><td></td><td>ELLIOTT MORICE</td><td>1,0</td><td></td>
+	</tr><tr>
+		<td>350</td><td>2015</td><td>348</td><td>1377747D</td><td>FRA 38768</td><td>DELPH</td><td>FIRST 32s5 Q</td><td>True</td><td></td><td>VINCENT GUYOT</td><td>1,0</td><td></td>
+	</tr><tr>
+		<td>351</td><td>2015</td><td>348</td><td>0156638Q</td><td>FRA 16558</td><td>ILOUKA</td><td>FIRST 310 GTE</td><td>True</td><td></td><td>PIERRE YVES KERDREUX</td><td>1,0</td><td></td>
+	</tr><tr>
+		<td>352</td><td>2015</td><td>348</td><td>0610097T</td><td>FRA 28125</td><td>PTI.PERE</td><td>FIRST 30 S</td><td>True</td><td></td><td>MARC LLOBET</td><td>1,0</td><td></td>
+	</tr><tr>
+		<td>353</td><td>2015</td><td>353</td><td>1015847Z</td><td>FRA 27556</td><td>CHOUPIE 2</td><td>MISTRAL 750</td><td>True</td><td></td><td>MARTIN GUILLARD</td><td>0,7</td><td></td>
+	</tr><tr>
+		<td>354</td><td>2015</td><td>353</td><td>1041418L</td><td>FRA 8</td><td>&nbsp;</td><td>&nbsp;</td><td>False</td><td></td><td>THIBAUT SEVRIERE</td><td>0,7</td><td></td>
+	</tr><tr>
+		<td>355</td><td>2015</td><td>353</td><td>1127659V</td><td>FRA 37007</td><td>PONPON EXPRESS                          </td><td>FIRST 44.7 RACING</td><td>False</td><td></td><td>LIONEL BARRAU</td><td>0,7</td><td></td>
+	</tr><tr>
+		<td>356</td><td>2015</td><td>356</td><td>0352055Z</td><td>FRA 16324</td><td>CHEWBACCA</td><td>FIRST CLASS CHALLENGE</td><td>True</td><td></td><td>SYLVAIN FARGEAS</td><td>0,5</td><td></td>
+	</tr><tr>
+		<td>357</td><td>2015</td><td>356</td><td>1057907M</td><td>FRA 28371</td><td>CACHE LA POUDRE                         </td><td>POGO 850</td><td>True</td><td></td><td>DIDIER LE DOEUFF</td><td>0,5</td><td></td>
+	</tr><tr>
+		<td>358</td><td>2015</td><td>356</td><td>0604265T</td><td>FRA 24472</td><td>JANIQUE III</td><td>EDEL 660 PTE</td><td>True</td><td></td><td>JACQUES POULIQUEN</td><td>0,5</td><td></td>
+	</tr><tr>
+		<td>359</td><td>2015</td><td>356</td><td>1271272S</td><td>FRA 22</td><td>MAGIC  BLUES                            </td><td>FIGARO BENETEAU</td><td>False</td><td></td><td>HERVE LE GAC</td><td>0,5</td><td></td>
+	</tr><tr>
+		<td>360</td><td>2015</td><td>356</td><td>1186678Y</td><td>FRA 18730</td><td>GEBERYTIA</td><td>HELIUM 765</td><td>True</td><td></td><td>BERNARD LALO</td><td>0,5</td><td></td>
+	</tr><tr>
+		<td>361</td><td>2015</td><td>356</td><td>1160487R</td><td>FRA 32722</td><td>TEKILA</td><td>FIRST CLASS 8</td><td>True</td><td></td><td>ANDRE DEMERY</td><td>0,5</td><td></td>
+	</tr><tr>
+		<td>362</td><td>2015</td><td>356</td><td>1250433K</td><td>FRA 37988</td><td>RS                                      </td><td>SUN 2000</td><td>False</td><td></td><td>VINCENT LARMANJAT</td><td>0,5</td><td></td>
+	</tr><tr>
+		<td>363</td><td>2015</td><td>356</td><td>1367382G</td><td>FRA 39559</td><td>TRIPLE A</td><td>FIRST 211 QR</td><td>True</td><td></td><td>GERARD BERNARD</td><td>0,5</td><td></td>
+	</tr>
+</table>
