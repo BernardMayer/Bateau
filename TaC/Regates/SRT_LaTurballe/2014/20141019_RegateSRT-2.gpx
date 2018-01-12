@@ -1,0 +1,445 @@
+<?xml version="1.0"?>
+<gpx version="1.0" creator="Viking -- http://viking.sf.net/"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://www.topografix.com/GPX/1/0"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<wpt lat="47.338407131791648" lon="-2.5204804576110842">
+  <name>Bateau comit&#xe9;</name>
+  <sym>Horn</sym>
+</wpt>
+<wpt lat="47.375577" lon="-2.586163">
+  <name>Bayonelles</name>
+  <link>D:\_perso\bateau\TaC\ParcoursMarques\Cardinale_ouest.gif</link>
+</wpt>
+<wpt lat="47.303018000000002" lon="-2.5726439999999999">
+  <name>Castouillet</name>
+  <link>D:\_perso\bateau\TaC\ParcoursMarques\Cardinale_ouest.gif</link>
+</wpt>
+<wpt lat="47.3399054355326" lon="-2.5191714337768554">
+  <name>Fin</name>
+  <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="47.337114" lon="-2.516661">
+  <name>degagement</name>
+  <sym>Navaid, Orange</sym>
+</wpt>
+<wpt lat="47.326962999999999" lon="-2.5270039999999998">
+  <name>dog leg 1</name>
+  <link>D:\_perso\bateau\TaC\ParcoursMarques\pavillon_1.svg.png</link>
+  <sym>Navaid, White</sym>
+</wpt>
+<wpt lat="47.325988000000002" lon="-2.5232700000000001">
+  <name>dog leg 2</name>
+  <link>D:\_perso\bateau\TaC\ParcoursMarques\pavillon_2.png</link>
+  <sym>Navaid, Red</sym>
+</wpt>
+<wpt lat="47.357875" lon="-2.565048">
+  <name>perche</name>
+  <sym>Drinking Water</sym>
+</wpt>
+<trk>
+  <name>VIKING_TR001</name>
+  <trkseg>
+  <trkpt lat="47.339874999999999" lon="-2.5215083329999999">
+    <name>025</name>
+    <time>2014-10-19T08:16:13Z</time>
+  </trkpt>
+  <trkpt lat="47.339196667000003" lon="-2.5203199999999999">
+    <name>026</name>
+    <time>2014-10-19T08:17:09Z</time>
+  </trkpt>
+  <trkpt lat="47.338398333000001" lon="-2.5197416669999999">
+    <name>027</name>
+    <time>2014-10-19T08:17:49Z</time>
+  </trkpt>
+  <trkpt lat="47.334816666999998" lon="-2.518465">
+    <name>028</name>
+    <time>2014-10-19T08:20:29Z</time>
+  </trkpt>
+  <trkpt lat="47.329926667000002" lon="-2.5175716669999999">
+    <name>029</name>
+    <time>2014-10-19T08:24:21Z</time>
+  </trkpt>
+  <trkpt lat="47.327116666999999" lon="-2.5257800000000001">
+    <name>030</name>
+    <time>2014-10-19T08:29:01Z</time>
+  </trkpt>
+  <trkpt lat="47.327081667000002" lon="-2.5273483329999999">
+    <name>031</name>
+    <time>2014-10-19T08:29:49Z</time>
+  </trkpt>
+  <trkpt lat="47.326981666999998" lon="-2.527551667">
+    <name>032</name>
+    <time>2014-10-19T08:29:57Z</time>
+  </trkpt>
+  <trkpt lat="47.326500000000003" lon="-2.527085">
+    <name>033</name>
+    <time>2014-10-19T08:30:21Z</time>
+  </trkpt>
+  <trkpt lat="47.325614999999999" lon="-2.5235666669999999">
+    <name>034</name>
+    <time>2014-10-19T08:31:41Z</time>
+  </trkpt>
+  <trkpt lat="47.325715000000002" lon="-2.522875">
+    <name>035</name>
+    <time>2014-10-19T08:31:58Z</time>
+  </trkpt>
+  <trkpt lat="47.330803332999999" lon="-2.5141800000000001">
+    <name>037</name>
+    <time>2014-10-19T08:37:10Z</time>
+  </trkpt>
+  <trkpt lat="47.332225000000001" lon="-2.5127283330000001">
+    <name>037</name>
+    <time>2014-10-19T08:38:14Z</time>
+  </trkpt>
+  <trkpt lat="47.332945000000002" lon="-2.5126499999999998">
+    <name>038</name>
+    <time>2014-10-19T08:38:46Z</time>
+  </trkpt>
+  <trkpt lat="47.337105000000001" lon="-2.5157483329999999">
+    <name>039</name>
+    <time>2014-10-19T08:41:26Z</time>
+  </trkpt>
+  <trkpt lat="47.337798333000002" lon="-2.5169299999999999">
+    <name>040</name>
+    <time>2014-10-19T08:42:06Z</time>
+  </trkpt>
+  <trkpt lat="47.341479999999997" lon="-2.5299766670000001">
+    <name>042</name>
+    <time>2014-10-19T08:47:26Z</time>
+  </trkpt>
+  <trkpt lat="47.343958333000003" lon="-2.5369766669999998">
+    <name>042</name>
+    <time>2014-10-19T08:50:22Z</time>
+  </trkpt>
+  <trkpt lat="47.348286667000004" lon="-2.5478399999999999">
+    <name>043</name>
+    <time>2014-10-19T08:55:10Z</time>
+  </trkpt>
+  <trkpt lat="47.351713332999999" lon="-2.5557083330000001">
+    <name>044</name>
+    <time>2014-10-19T08:58:46Z</time>
+  </trkpt>
+  <trkpt lat="47.353106666999999" lon="-2.5578966670000001">
+    <name>045</name>
+    <time>2014-10-19T08:59:58Z</time>
+  </trkpt>
+  <trkpt lat="47.359846666999999" lon="-2.5664183330000001">
+    <name>047</name>
+    <time>2014-10-19T09:05:03Z</time>
+  </trkpt>
+  <trkpt lat="47.361706667" lon="-2.5680416670000001">
+    <name>047</name>
+    <time>2014-10-19T09:06:15Z</time>
+  </trkpt>
+  <trkpt lat="47.370113332999999" lon="-2.5773649999999999">
+    <name>048</name>
+    <time>2014-10-19T09:12:23Z</time>
+  </trkpt>
+  <trkpt lat="47.374313333000003" lon="-2.582668333">
+    <name>049</name>
+    <time>2014-10-19T09:15:43Z</time>
+  </trkpt>
+  <trkpt lat="47.375538333000002" lon="-2.584561667">
+    <name>050</name>
+    <time>2014-10-19T09:16:47Z</time>
+  </trkpt>
+  <trkpt lat="47.37632" lon="-2.5861550000000002">
+    <name>051</name>
+    <time>2014-10-19T09:17:35Z</time>
+  </trkpt>
+  <trkpt lat="47.376648332999999" lon="-2.5878716669999999">
+    <name>053</name>
+    <time>2014-10-19T09:18:31Z</time>
+  </trkpt>
+  <trkpt lat="47.374408332999998" lon="-2.5868183330000001">
+    <name>053</name>
+    <time>2014-10-19T09:20:07Z</time>
+  </trkpt>
+  <trkpt lat="47.369058332999998" lon="-2.585423333">
+    <name>054</name>
+    <time>2014-10-19T09:23:43Z</time>
+  </trkpt>
+  <trkpt lat="47.366091666999999" lon="-2.5841016670000001">
+    <name>055</name>
+    <time>2014-10-19T09:25:35Z</time>
+  </trkpt>
+  <trkpt lat="47.360913332999999" lon="-2.5829266670000002">
+    <name>056</name>
+    <time>2014-10-19T09:29:11Z</time>
+  </trkpt>
+  <trkpt lat="47.348305000000003" lon="-2.5781733330000001">
+    <name>057</name>
+    <time>2014-10-19T09:38:07Z</time>
+  </trkpt>
+  <trkpt lat="47.342726667000001" lon="-2.5755966670000001">
+    <name>058</name>
+    <time>2014-10-19T09:42:23Z</time>
+  </trkpt>
+  <trkpt lat="47.333973333000003" lon="-2.572666667">
+    <name>059</name>
+    <time>2014-10-19T09:48:55Z</time>
+  </trkpt>
+  <trkpt lat="47.331383332999998" lon="-2.5723433330000001">
+    <name>060</name>
+    <time>2014-10-19T09:50:47Z</time>
+  </trkpt>
+  <trkpt lat="47.329718333000002" lon="-2.571471667">
+    <name>061</name>
+    <time>2014-10-19T09:51:51Z</time>
+  </trkpt>
+  <trkpt lat="47.326945000000002" lon="-2.570465">
+    <name>062</name>
+    <time>2014-10-19T09:53:35Z</time>
+  </trkpt>
+  <trkpt lat="47.313271667000002" lon="-2.5708483329999998">
+    <name>064</name>
+    <time>2014-10-19T10:02:56Z</time>
+  </trkpt>
+  <trkpt lat="47.302695" lon="-2.5731350000000002">
+    <name>064</name>
+    <time>2014-10-19T10:10:32Z</time>
+  </trkpt>
+  <trkpt lat="47.302430000000001" lon="-2.5727500000000001">
+    <name>065</name>
+    <time>2014-10-19T10:10:48Z</time>
+  </trkpt>
+  <trkpt lat="47.303033333000002" lon="-2.571958333">
+    <name>066</name>
+    <time>2014-10-19T10:11:20Z</time>
+  </trkpt>
+  <trkpt lat="47.307821666999999" lon="-2.5692683330000001">
+    <name>067</name>
+    <time>2014-10-19T10:14:24Z</time>
+  </trkpt>
+  <trkpt lat="47.313138332999998" lon="-2.563926667">
+    <name>069</name>
+    <time>2014-10-19T10:18:00Z</time>
+  </trkpt>
+  <trkpt lat="47.314766667000001" lon="-2.5617516669999998">
+    <name>069</name>
+    <time>2014-10-19T10:19:12Z</time>
+  </trkpt>
+  <trkpt lat="47.317663332999999" lon="-2.5589366670000002">
+    <name>070</name>
+    <time>2014-10-19T10:21:04Z</time>
+  </trkpt>
+  <trkpt lat="47.320830000000001" lon="-2.5548383330000002">
+    <name>071</name>
+    <time>2014-10-19T10:23:28Z</time>
+  </trkpt>
+  <trkpt lat="47.322683333000001" lon="-2.551846667">
+    <name>072</name>
+    <time>2014-10-19T10:25:12Z</time>
+  </trkpt>
+  <trkpt lat="47.323038333" lon="-2.55023">
+    <name>073</name>
+    <time>2014-10-19T10:26:00Z</time>
+  </trkpt>
+  <trkpt lat="47.324393333000003" lon="-2.5389316669999999">
+    <name>074</name>
+    <time>2014-10-19T10:31:13Z</time>
+  </trkpt>
+  <trkpt lat="47.324908333000003" lon="-2.5322833330000001">
+    <name>075</name>
+    <time>2014-10-19T10:34:01Z</time>
+  </trkpt>
+  <trkpt lat="47.324983332999999" lon="-2.5265466669999999">
+    <name>076</name>
+    <time>2014-10-19T10:36:17Z</time>
+  </trkpt>
+  <trkpt lat="47.325321666999997" lon="-2.523965">
+    <name>077</name>
+    <time>2014-10-19T10:37:21Z</time>
+  </trkpt>
+  <trkpt lat="47.325834999999998" lon="-2.5223550000000001">
+    <name>078</name>
+    <time>2014-10-19T10:38:09Z</time>
+  </trkpt>
+  <trkpt lat="47.32629" lon="-2.5215649999999998">
+    <name>079</name>
+    <time>2014-10-19T10:38:41Z</time>
+  </trkpt>
+  <trkpt lat="47.332248333000003" lon="-2.5176366670000001">
+    <name>081</name>
+    <time>2014-10-19T10:42:33Z</time>
+  </trkpt>
+  <trkpt lat="47.335356666999999" lon="-2.5163000000000002">
+    <name>081</name>
+    <time>2014-10-19T10:44:33Z</time>
+  </trkpt>
+  <trkpt lat="47.336689999999997" lon="-2.5159483329999999">
+    <name>082</name>
+    <time>2014-10-19T10:45:29Z</time>
+  </trkpt>
+  <trkpt lat="47.337196667000001" lon="-2.5161099999999998">
+    <name>083</name>
+    <time>2014-10-19T10:45:53Z</time>
+  </trkpt>
+  <trkpt lat="47.338361667000001" lon="-2.5181483330000001">
+    <name>084</name>
+    <time>2014-10-19T10:47:05Z</time>
+  </trkpt>
+  <trkpt lat="47.339263332999998" lon="-2.5213649999999999">
+    <name>085</name>
+    <time>2014-10-19T10:48:49Z</time>
+  </trkpt>
+  <trkpt lat="47.340838333000001" lon="-2.5249683329999999">
+    <name>086</name>
+    <time>2014-10-19T10:50:49Z</time>
+  </trkpt>
+  <trkpt lat="47.342995000000002" lon="-2.5324066670000001">
+    <name>087</name>
+    <time>2014-10-19T10:54:41Z</time>
+  </trkpt>
+  <trkpt lat="47.344816667000003" lon="-2.5374349999999999">
+    <name>088</name>
+    <time>2014-10-19T10:57:22Z</time>
+  </trkpt>
+  <trkpt lat="47.348518333000001" lon="-2.5456733329999999">
+    <name>089</name>
+    <time>2014-10-19T11:02:18Z</time>
+  </trkpt>
+  <trkpt lat="47.351275000000001" lon="-2.55253">
+    <name>090</name>
+    <time>2014-10-19T11:06:50Z</time>
+  </trkpt>
+  <trkpt lat="47.353380000000001" lon="-2.557045">
+    <name>091</name>
+    <time>2014-10-19T11:10:18Z</time>
+  </trkpt>
+  <trkpt lat="47.354731667000003" lon="-2.5591266670000001">
+    <name>092</name>
+    <time>2014-10-19T11:11:54Z</time>
+  </trkpt>
+  <trkpt lat="47.359883332999999" lon="-2.5652283329999999">
+    <name>094</name>
+    <time>2014-10-19T11:16:50Z</time>
+  </trkpt>
+  <trkpt lat="47.359256666999997" lon="-2.565928333">
+    <name>094</name>
+    <time>2014-10-19T11:17:30Z</time>
+  </trkpt>
+  <trkpt lat="47.358706667" lon="-2.5672299999999999">
+    <name>095</name>
+    <time>2014-10-19T11:18:26Z</time>
+  </trkpt>
+  <trkpt lat="47.355961667000003" lon="-2.569725">
+    <name>096</name>
+    <time>2014-10-19T11:20:34Z</time>
+  </trkpt>
+  <trkpt lat="47.352856666999998" lon="-2.5702366670000001">
+    <name>097</name>
+    <time>2014-10-19T11:22:34Z</time>
+  </trkpt>
+  <trkpt lat="47.332560000000001" lon="-2.5698633329999998">
+    <name>098</name>
+    <time>2014-10-19T11:36:43Z</time>
+  </trkpt>
+  <trkpt lat="47.3307" lon="-2.5703499999999999">
+    <name>099</name>
+    <time>2014-10-19T11:38:03Z</time>
+  </trkpt>
+  <trkpt lat="47.328308333000003" lon="-2.570251667">
+    <name>100</name>
+    <time>2014-10-19T11:39:47Z</time>
+  </trkpt>
+  <trkpt lat="47.326221666999999" lon="-2.5706250000000002">
+    <name>101</name>
+    <time>2014-10-19T11:41:23Z</time>
+  </trkpt>
+  <trkpt lat="47.322713333000003" lon="-2.5706133329999998">
+    <name>102</name>
+    <time>2014-10-19T11:43:55Z</time>
+  </trkpt>
+  <trkpt lat="47.318041667000003" lon="-2.5712250000000001">
+    <name>103</name>
+    <time>2014-10-19T11:47:07Z</time>
+  </trkpt>
+  <trkpt lat="47.309236667" lon="-2.5728533329999999">
+    <name>105</name>
+    <time>2014-10-19T11:53:07Z</time>
+  </trkpt>
+  <trkpt lat="47.303061667000001" lon="-2.5731316670000002">
+    <name>105</name>
+    <time>2014-10-19T11:57:40Z</time>
+  </trkpt>
+  <trkpt lat="47.302565000000001" lon="-2.5729333329999999">
+    <name>106</name>
+    <time>2014-10-19T11:58:04Z</time>
+  </trkpt>
+  <trkpt lat="47.302561666999999" lon="-2.572533333">
+    <name>107</name>
+    <time>2014-10-19T11:58:20Z</time>
+  </trkpt>
+  <trkpt lat="47.309809999999999" lon="-2.5600866670000002">
+    <name>108</name>
+    <time>2014-10-19T12:06:04Z</time>
+  </trkpt>
+  <trkpt lat="47.316421667" lon="-2.5468116670000001">
+    <name>110</name>
+    <time>2014-10-19T12:12:28Z</time>
+  </trkpt>
+  <trkpt lat="47.319203332999997" lon="-2.5394366669999999">
+    <name>110</name>
+    <time>2014-10-19T12:15:56Z</time>
+  </trkpt>
+  <trkpt lat="47.321309999999997" lon="-2.5328266670000001">
+    <name>111</name>
+    <time>2014-10-19T12:18:52Z</time>
+  </trkpt>
+  <trkpt lat="47.324475" lon="-2.524638333">
+    <name>112</name>
+    <time>2014-10-19T12:22:53Z</time>
+  </trkpt>
+  <trkpt lat="47.325133332999997" lon="-2.5234166669999998">
+    <name>113</name>
+    <time>2014-10-19T12:23:41Z</time>
+  </trkpt>
+  <trkpt lat="47.330559999999998" lon="-2.518766667">
+    <name>115</name>
+    <time>2014-10-19T12:28:37Z</time>
+  </trkpt>
+  <trkpt lat="47.333260000000003" lon="-2.51709">
+    <name>115</name>
+    <time>2014-10-19T12:30:53Z</time>
+  </trkpt>
+  <trkpt lat="47.334581667000002" lon="-2.5165150000000001">
+    <name>116</name>
+    <time>2014-10-19T12:31:57Z</time>
+  </trkpt>
+  <trkpt lat="47.33634" lon="-2.5161500000000001">
+    <name>117</name>
+    <time>2014-10-19T12:33:17Z</time>
+  </trkpt>
+  <trkpt lat="47.337046667000003" lon="-2.5161833329999999">
+    <name>118</name>
+    <time>2014-10-19T12:33:49Z</time>
+  </trkpt>
+  <trkpt lat="47.339006667" lon="-2.5171833330000002">
+    <name>119</name>
+    <time>2014-10-19T12:35:49Z</time>
+  </trkpt>
+  <trkpt lat="47.339120000000001" lon="-2.5174183330000002">
+    <name>120</name>
+    <time>2014-10-19T12:36:05Z</time>
+  </trkpt>
+  <trkpt lat="47.338586667000001" lon="-2.518583333">
+    <name>121</name>
+    <time>2014-10-19T12:37:25Z</time>
+  </trkpt>
+  <trkpt lat="47.339598332999998" lon="-2.5197099999999999">
+    <name>122</name>
+    <time>2014-10-19T12:39:49Z</time>
+  </trkpt>
+  <trkpt lat="47.340013333000002" lon="-2.5199133329999999">
+    <name>123</name>
+    <time>2014-10-19T12:41:17Z</time>
+  </trkpt>
+  <trkpt lat="47.34084" lon="-2.5186799999999998">
+    <name>124</name>
+    <time>2014-10-19T12:43:01Z</time>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>

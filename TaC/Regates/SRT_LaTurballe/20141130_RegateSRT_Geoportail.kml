@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mon croquis</name>
+    <Style id="Defined_label_style1417553589662">
+      <LabelStyle>
+        <color>ff000000</color>
+        <colorMode>normal</colorMode>
+        <scale>1.2</scale>
+        <LabelStyleSimpleExtensionGroup fontFamily="Arial" haloColor="16777215" haloRadius="2" haloOpacity="1"/>
+      </LabelStyle>
+    </Style>
+    <Style id="Default_line_style141755340439814175534043981417553589662">
+      <LineStyle>
+        <color>ffcd9f3f</color>
+        <colorMode>normal</colorMode>
+        <width>3</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <id>instance5462</id>
+      <name>instance5462</name>
+      <styleUrl>#Default_line_style141755340439814175534043981417553589662</styleUrl>
+      <LineString>
+        <coordinates>-2.5286882777158226,47.32277861031953 -2.5249117274227126,47.320916758975144</coordinates>
+      </LineString>
+      <ExtendedData/>
+    </Placemark>
+    <Placemark>
+      <id>instance5463</id>
+      <name>instance5463</name>
+      <styleUrl>#Defined_label_style1417553589662</styleUrl>
+      <Point>
+        <coordinates>-2.522680129522238,47.32068402294353</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="label">
+          <value>Départ / Arrivée</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+    <wpt lat="44.837223333" lon="0.464631667">
+        <time>2011-03-12T13:45:47Z</time>
+        <name>BGC_Maison</name>
+        <sym>mooring</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>2b850000-ac9b-466c-b038-0e944420ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="45.089291667" lon="-1.136961667">
+        <time>2011-06-21T10:55:14Z</time>
+        <name>CVB</name>
+        <sym>anchor</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>35750000-3310-49ba-8b39-4388107a0000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.721575728" lon="-3.362425436">
+        <time>2011-11-18T13:14:48Z</time>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>05b90000-23d2-4485-87e4-916918fe0000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.714483934" lon="-3.359623389">
+        <time>2011-11-18T13:15:40Z</time>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>04950000-de59-4e78-af97-e1d330990000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.726153462" lon="-3.369630700">
+        <time>2011-11-18T13:15:58Z</time>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>4b2bffff-f203-4efe-84ed-d17919630000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.729564061" lon="-3.354819880">
+        <time>2011-11-18T13:16:05Z</time>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>2d540000-2a0c-479d-a87e-1a681ca20000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.738627989" lon="-3.344545707">
+        <time>2011-11-18T13:16:19Z</time>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>5739ffff-5774-4926-9bea-7f045ce7ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.688622130" lon="-3.401253802">
+        <time>2011-11-18T13:25:02Z</time>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>08d20000-db35-4817-a846-12c259dcffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.694819356" lon="-3.386176120">
+        <time>2011-11-18T13:25:05Z</time>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>4bb3ffff-8af1-4d78-8386-2d0a6e6fffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.684669892" lon="-3.370030992">
+        <time>2011-11-18T13:25:18Z</time>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>0b8e0000-7108-47c2-9b6c-21e827e90000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.692663883" lon="-3.369897561">
+        <time>2011-11-18T13:25:23Z</time>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>3b9d0000-9cf5-49c7-9346-7bde7d3cffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.702632200" lon="-3.374701071">
+        <time>2011-11-18T13:25:30Z</time>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>43e3ffff-0b52-49b9-9058-35e03f1c0000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="48.390965000" lon="-4.428470000">
+        <time>2014-04-17T21:50:16Z</time>
+        <name>Brest Moulin blanc</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>5e3bffff-881b-43f0-9d0d-dd7d6120ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="44.823873333" lon="0.476190000">
+        <time>2011-03-12T13:30:19Z</time>
+        <name>BGC CA</name>
+        <desc>Caisse Régionale Crédit Agricole</desc>
+        <sym>fishhaven</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>23370000-256e-4afe-99fb-49485cfdffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="44.828528333" lon="0.470445000">
+        <time>2011-03-12T13:26:22Z</time>
+        <name>BGC Decathlon</name>
+        <desc>Decathlon Bergerac</desc>
+        <sym>scuba</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>14800000-83e7-43f7-ac29-8309373e0000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="44.835851667" lon="0.446021667">
+        <time>2011-03-12T13:19:28Z</time>
+        <name>BGC Leclerc</name>
+        <desc>Parking Lecler Bergerac</desc>
+        <sym>fuel</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>414affff-6c9e-46f6-a34c-103032110000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <rte>
+        <name>Test CA vers Lecler</name>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>6677ffff-691e-413d-8e98-d7475394ffff</opencpn:guid>
+        </extensions>
+        <rtept lat="44.823873333" lon="0.476190000">
+            <time>2011-03-12T13:30:19Z</time>
+            <name>BGC CA</name>
+            <desc>Caisse Régionale Crédit Agricole</desc>
+            <sym>fishhaven</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>23370000-256e-4afe-99fb-49485cfdffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+        <rtept lat="44.828528333" lon="0.470445000">
+            <time>2011-03-12T13:26:22Z</time>
+            <name>BGC Decathlon</name>
+            <desc>Decathlon Bergerac</desc>
+            <sym>scuba</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>14800000-83e7-43f7-ac29-8309373e0000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+        <rtept lat="44.835851667" lon="0.446021667">
+            <time>2011-03-12T13:19:28Z</time>
+            <name>BGC Leclerc</name>
+            <desc>Parking Lecler Bergerac</desc>
+            <sym>fuel</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>414affff-6c9e-46f6-a34c-103032110000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+    </rte>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>30930000-b211-48b4-b7e6-2d4845e2ffff</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="47.346000000" lon="-2.512600000">
+                <time>2014-10-05T07:59:04Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.332826667" lon="-2.517133333">
+                <time>2014-10-05T08:00:02Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>3cf20000-a609-4f8f-b2ce-7d2e7cddffff</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="47.332826667" lon="-2.517133333">
+                <time>2014-10-05T08:00:02Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.331781667" lon="-2.517553333">
+                <time>2014-10-05T08:01:22Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.327071667" lon="-2.522588333">
+                <time>2014-10-05T08:07:54Z</time>
+                <name>003</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.326165000" lon="-2.524005000">
+                <time>2014-10-05T08:09:22Z</time>
+                <name>004</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.325105000" lon="-2.524508333">
+                <time>2014-10-05T08:10:34Z</time>
+                <name>006</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.325363333" lon="-2.525095000">
+                <time>2014-10-05T08:11:22Z</time>
+                <name>006</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.326808333" lon="-2.525281667">
+                <time>2014-10-05T08:13:06Z</time>
+                <name>007</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.329710000" lon="-2.526143333">
+                <time>2014-10-05T08:16:18Z</time>
+                <name>008</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.330761667" lon="-2.526841667">
+                <time>2014-10-05T08:17:38Z</time>
+                <name>009</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.333826667" lon="-2.512570000">
+                <time>2014-10-05T08:29:14Z</time>
+                <name>011</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.334426667" lon="-2.511038333">
+                <time>2014-10-05T08:30:34Z</time>
+                <name>011</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.336103333" lon="-2.512866667">
+                <time>2014-10-05T08:34:10Z</time>
+                <name>012</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.337110000" lon="-2.511388333">
+                <time>2014-10-05T08:36:26Z</time>
+                <name>014</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.338163333" lon="-2.515416667">
+                <time>2014-10-05T08:40:59Z</time>
+                <name>014</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.339303333" lon="-2.521371667">
+                <time>2014-10-05T08:47:07Z</time>
+                <name>015</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.342423333" lon="-2.533398333">
+                <time>2014-10-05T09:03:07Z</time>
+                <name>016</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.343265000" lon="-2.535400000">
+                <time>2014-10-05T09:05:07Z</time>
+                <name>017</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.343485000" lon="-2.536811667">
+                <time>2014-10-05T09:07:39Z</time>
+                <name>018</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.345325000" lon="-2.542055000">
+                <time>2014-10-05T09:11:47Z</time>
+                <name>019</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.346155000" lon="-2.545183333">
+                <time>2014-10-05T09:14:19Z</time>
+                <name>020</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.346746667" lon="-2.548585000">
+                <time>2014-10-05T09:16:35Z</time>
+                <name>021</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.347175000" lon="-2.549798333">
+                <time>2014-10-05T09:17:23Z</time>
+                <name>022</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.347573333" lon="-2.552298333">
+                <time>2014-10-05T09:19:24Z</time>
+                <name>023</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.349618333" lon="-2.558378333">
+                <time>2014-10-05T09:24:36Z</time>
+                <name>024</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.352895000" lon="-2.565975000">
+                <time>2014-10-05T09:31:48Z</time>
+                <name>025</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.354591667" lon="-2.568990000">
+                <time>2014-10-05T09:35:24Z</time>
+                <name>026</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.354971667" lon="-2.569373333">
+                <time>2014-10-05T09:35:56Z</time>
+                <name>027</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.355528333" lon="-2.568656667">
+                <time>2014-10-05T09:36:44Z</time>
+                <name>028</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.355765000" lon="-2.569445000">
+                <time>2014-10-05T09:37:24Z</time>
+                <name>029</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.355731667" lon="-2.569908333">
+                <time>2014-10-05T09:37:40Z</time>
+                <name>030</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.354786667" lon="-2.571013333">
+                <time>2014-10-05T09:39:24Z</time>
+                <name>031</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.352903333" lon="-2.572510000">
+                <time>2014-10-05T09:43:00Z</time>
+                <name>032</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.351311667" lon="-2.573090000">
+                <time>2014-10-05T09:44:52Z</time>
+                <name>033</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.349600000" lon="-2.573225000">
+                <time>2014-10-05T09:47:00Z</time>
+                <name>034</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.342361667" lon="-2.577251667">
+                <time>2014-10-05T10:00:21Z</time>
+                <name>035</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.338083333" lon="-2.577541667">
+                <time>2014-10-05T10:05:57Z</time>
+                <name>036</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.331920000" lon="-2.578740000">
+                <time>2014-10-05T10:15:33Z</time>
+                <name>037</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.330101667" lon="-2.578823333">
+                <time>2014-10-05T10:18:29Z</time>
+                <name>038</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.327705000" lon="-2.579591667">
+                <time>2014-10-05T10:22:37Z</time>
+                <name>039</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.322285000" lon="-2.582413333">
+                <time>2014-10-05T10:31:58Z</time>
+                <name>040</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.320138333" lon="-2.583063333">
+                <time>2014-10-05T10:35:42Z</time>
+                <name>041</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.316823333" lon="-2.582153333">
+                <time>2014-10-05T10:39:42Z</time>
+                <name>042</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.310473333" lon="-2.578645000">
+                <time>2014-10-05T10:48:54Z</time>
+                <name>043</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.307620000" lon="-2.577611667">
+                <time>2014-10-05T10:53:26Z</time>
+                <name>044</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.301570000" lon="-2.574280000">
+                <time>2014-10-05T11:03:26Z</time>
+                <name>046</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.301293333" lon="-2.573818333">
+                <time>2014-10-05T11:04:23Z</time>
+                <name>046</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.301926667" lon="-2.570638333">
+                <time>2014-10-05T11:08:39Z</time>
+                <name>047</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.304965000" lon="-2.561866667">
+                <time>2014-10-05T11:17:19Z</time>
+                <name>048</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.309348333" lon="-2.551898333">
+                <time>2014-10-05T11:26:07Z</time>
+                <name>050</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.313018333" lon="-2.544748333">
+                <time>2014-10-05T11:32:15Z</time>
+                <name>050</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.315905000" lon="-2.539730000">
+                <time>2014-10-05T11:35:51Z</time>
+                <name>051</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.323910000" lon="-2.527750000">
+                <time>2014-10-05T11:44:07Z</time>
+                <name>052</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.329353333" lon="-2.520650000">
+                <time>2014-10-05T11:49:44Z</time>
+                <name>053</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.333970000" lon="-2.515620000">
+                <time>2014-10-05T11:54:08Z</time>
+                <name>054</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.336900000" lon="-2.512986667">
+                <time>2014-10-05T11:56:16Z</time>
+                <name>055</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.337465000" lon="-2.512906667">
+                <time>2014-10-05T11:56:48Z</time>
+                <name>056</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.338663333" lon="-2.513701667">
+                <time>2014-10-05T11:57:44Z</time>
+                <name>057</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.345226667" lon="-2.522433333">
+                <time>2014-10-05T12:04:32Z</time>
+                <name>059</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.345008333" lon="-2.523858333">
+                <time>2014-10-05T12:05:28Z</time>
+                <name>059</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.343205000" lon="-2.529426667">
+                <time>2014-10-05T12:08:40Z</time>
+                <name>060</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.339490000" lon="-2.538505000">
+                <time>2014-10-05T12:15:36Z</time>
+                <name>061</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.338860000" lon="-2.540518333">
+                <time>2014-10-05T12:17:12Z</time>
+                <name>062</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.339976667" lon="-2.541345000">
+                <time>2014-10-05T12:18:24Z</time>
+                <name>063</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.340786667" lon="-2.542558333">
+                <time>2014-10-05T12:19:29Z</time>
+                <name>064</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.342216667" lon="-2.543281667">
+                <time>2014-10-05T12:21:05Z</time>
+                <name>065</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.343508333" lon="-2.544521667">
+                <time>2014-10-05T12:22:25Z</time>
+                <name>066</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.344141667" lon="-2.544910000">
+                <time>2014-10-05T12:23:05Z</time>
+                <name>067</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.345063333" lon="-2.544966667">
+                <time>2014-10-05T12:24:01Z</time>
+                <name>068</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.349605000" lon="-2.548895000">
+                <time>2014-10-05T12:29:13Z</time>
+                <name>069</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.350486667" lon="-2.550111667">
+                <time>2014-10-05T12:30:33Z</time>
+                <name>070</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.353220000" lon="-2.555655000">
+                <time>2014-10-05T12:35:37Z</time>
+                <name>071</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.354911667" lon="-2.558013333">
+                <time>2014-10-05T12:38:09Z</time>
+                <name>072</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.357015000" lon="-2.559885000">
+                <time>2014-10-05T12:41:13Z</time>
+                <name>073</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.358566667" lon="-2.561556667">
+                <time>2014-10-05T12:43:21Z</time>
+                <name>074</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.359940000" lon="-2.563758333">
+                <time>2014-10-05T12:45:37Z</time>
+                <name>076</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.358368333" lon="-2.565801667">
+                <time>2014-10-05T12:47:45Z</time>
+                <name>076</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.355806667" lon="-2.567950000">
+                <time>2014-10-05T12:51:06Z</time>
+                <name>077</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.356535000" lon="-2.568996667">
+                <time>2014-10-05T12:52:10Z</time>
+                <name>078</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.355838333" lon="-2.569751667">
+                <time>2014-10-05T12:53:14Z</time>
+                <name>079</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.351956667" lon="-2.569915000">
+                <time>2014-10-05T12:56:26Z</time>
+                <name>080</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.348013333" lon="-2.569388333">
+                <time>2014-10-05T12:59:14Z</time>
+                <name>081</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.327978333" lon="-2.570171667">
+                <time>2014-10-05T13:13:22Z</time>
+                <name>083</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.325785000" lon="-2.569973333">
+                <time>2014-10-05T13:15:30Z</time>
+                <name>083</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.315883333" lon="-2.570888333">
+                <time>2014-10-05T13:23:22Z</time>
+                <name>084</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.308623333" lon="-2.572041667">
+                <time>2014-10-05T13:28:42Z</time>
+                <name>085</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.306466667" lon="-2.573020000">
+                <time>2014-10-05T13:30:19Z</time>
+                <name>086</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.303798333" lon="-2.573270000">
+                <time>2014-10-05T13:32:19Z</time>
+                <name>087</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.301813333" lon="-2.573016667">
+                <time>2014-10-05T13:33:47Z</time>
+                <name>089</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.302866667" lon="-2.570048333">
+                <time>2014-10-05T13:37:07Z</time>
+                <name>089</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.303978333" lon="-2.568290000">
+                <time>2014-10-05T13:39:23Z</time>
+                <name>090</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.305841667" lon="-2.562788333">
+                <time>2014-10-05T13:44:59Z</time>
+                <name>091</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.306375000" lon="-2.561696667">
+                <time>2014-10-05T13:46:11Z</time>
+                <name>092</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.309873333" lon="-2.557331667">
+                <time>2014-10-05T13:51:23Z</time>
+                <name>093</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.311476667" lon="-2.554215000">
+                <time>2014-10-05T13:53:55Z</time>
+                <name>094</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.311778333" lon="-2.553151667">
+                <time>2014-10-05T13:54:43Z</time>
+                <name>095</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.318198333" lon="-2.541141667">
+                <time>2014-10-05T14:05:56Z</time>
+                <name>097</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.319268333" lon="-2.539601667">
+                <time>2014-10-05T14:07:24Z</time>
+                <name>097</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.321495000" lon="-2.537653333">
+                <time>2014-10-05T14:09:32Z</time>
+                <name>098</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.326355000" lon="-2.532543333">
+                <time>2014-10-05T14:15:24Z</time>
+                <name>100</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.329745000" lon="-2.529858333">
+                <time>2014-10-05T14:19:16Z</time>
+                <name>100</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.330803333" lon="-2.528531667">
+                <time>2014-10-05T14:20:36Z</time>
+                <name>101</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.335071667" lon="-2.517653333">
+                <time>2014-10-05T14:27:24Z</time>
+                <name>103</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.336871667" lon="-2.513666667">
+                <time>2014-10-05T14:30:28Z</time>
+                <name>103</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.337926667" lon="-2.511790000">
+                <time>2014-10-05T14:32:12Z</time>
+                <name>104</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.338508333" lon="-2.511175000">
+                <time>2014-10-05T14:33:00Z</time>
+                <name>105</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.339118333" lon="-2.511191667">
+                <time>2014-10-05T14:33:32Z</time>
+                <name>106</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.339553333" lon="-2.511490000">
+                <time>2014-10-05T14:33:56Z</time>
+                <name>107</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.340341667" lon="-2.513473333">
+                <time>2014-10-05T14:37:25Z</time>
+                <name>108</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.340245000" lon="-2.514048333">
+                <time>2014-10-05T14:38:29Z</time>
+                <name>109</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.340561667" lon="-2.514351667">
+                <time>2014-10-05T14:39:09Z</time>
+                <name>110</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.341941667" lon="-2.514641667">
+                <time>2014-10-05T14:41:09Z</time>
+                <name>111</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.343898333" lon="-2.514498333">
+                <time>2014-10-05T14:43:41Z</time>
+                <name>112</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.345626667" lon="-2.514873333">
+                <time>2014-10-05T14:46:05Z</time>
+                <name>113</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.346148333" lon="-2.514695000">
+                <time>2014-10-05T14:46:53Z</time>
+                <name>114</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.346406667" lon="-2.514283333">
+                <time>2014-10-05T14:47:25Z</time>
+                <name>115</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.345661667" lon="-2.512486667">
+                <time>2014-10-05T14:50:13Z</time>
+                <name>116</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.345776667" lon="-2.512176667">
+                <time>2014-10-05T14:50:53Z</time>
+                <name>117</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.345976667" lon="-2.512355000">
+                <time>2014-10-05T14:59:11Z</time>
+                <name>118</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>

@@ -1,0 +1,169 @@
+#VIKING GPS Data file http://viking.sf.net/
+FILE_VERSION=1
+
+xmpp=4,000000
+ympp=4,000000
+lat=47,334002
+lon=-2,523801
+mode=mercator
+color=#cccccc
+highlightcolor=#eea500
+drawscale=t
+drawcentermark=t
+drawhighlight=t
+
+~Layer TrackWaypoint
+name=20141019_RegateSRT
+tracks_visible=t
+waypoints_visible=t
+routes_visible=t
+trackdrawlabels=t
+trackfontsize=3
+drawmode=0
+trackcolor=#000000
+drawlines=t
+line_thickness=1
+drawdirections=f
+trkdirectionsize=5
+drawpoints=t
+trkpointsize=2
+drawelevation=f
+elevation_factor=1
+drawstops=f
+stop_length=60
+bg_line_thickness=0
+trackbgcolor=#ffffff
+speed_factor=30,000000
+tracksortorder=0
+drawlabels=t
+wpfontsize=3
+wpcolor=#000000
+wptextcolor=#ffffff
+wpbgcolor=#8383c4
+wpbgand=f
+wpsymbol=0
+wpsize=4
+wpsyms=t
+wpsortorder=0
+drawimages=t
+image_size=64
+image_alpha=255
+image_cache_size=300
+
+
+~LayerData
+type="waypointlist"
+type="waypoint" latitude="47.338407131791648" longitude="-2.5204804576110842" name="Bateau comité" symbol="horn"
+type="waypoint" latitude="47.3399054355326" longitude="-2.5191714337768554" name="Fin" symbol="flag, blue"
+type="waypoint" latitude="47.357875" longitude="-2.565048" name="perche" symbol="drinking water"
+type="waypoint" latitude="47.375577" longitude="-2.586163" name="Bayonelles" image="D:\\_perso\\bateau\\TaC\\ParcoursMarques\\Cardinale_ouest.gif"
+type="waypoint" latitude="47.303018000000002" longitude="-2.5726439999999999" name="Castouillet" image="D:\\_perso\\bateau\\TaC\\ParcoursMarques\\Cardinale_ouest.gif"
+type="waypoint" latitude="47.326962999999999" longitude="-2.5270039999999998" name="dog leg 1" image="D:\\_perso\\bateau\\TaC\\ParcoursMarques\\pavillon_1.svg.png" symbol="navaid, white"
+type="waypoint" latitude="47.325988000000002" longitude="-2.5232700000000001" name="dog leg 2" image="D:\\_perso\\bateau\\TaC\\ParcoursMarques\\pavillon_2.png" symbol="navaid, red"
+type="waypoint" latitude="47.337114" longitude="-2.516661" name="degagement" symbol="navaid, orange"
+type="waypointlistend"
+type="track" name="VIKING_TR001" color=#2d870a
+type="trackpoint" latitude="47.339874999999999" longitude="-2.5215083329999999" name="025" unixtime="1413706573" newsegment="yes"
+type="trackpoint" latitude="47.339196667000003" longitude="-2.5203199999999999" name="026" unixtime="1413706629"
+type="trackpoint" latitude="47.338398333000001" longitude="-2.5197416669999999" name="027" unixtime="1413706669"
+type="trackpoint" latitude="47.334816666999998" longitude="-2.518465" name="028" unixtime="1413706829"
+type="trackpoint" latitude="47.329926667000002" longitude="-2.5175716669999999" name="029" unixtime="1413707061"
+type="trackpoint" latitude="47.327116666999999" longitude="-2.5257800000000001" name="030" unixtime="1413707341"
+type="trackpoint" latitude="47.327081667000002" longitude="-2.5273483329999999" name="031" unixtime="1413707389"
+type="trackpoint" latitude="47.326981666999998" longitude="-2.527551667" name="032" unixtime="1413707397"
+type="trackpoint" latitude="47.326500000000003" longitude="-2.527085" name="033" unixtime="1413707421"
+type="trackpoint" latitude="47.325614999999999" longitude="-2.5235666669999999" name="034" unixtime="1413707501"
+type="trackpoint" latitude="47.325715000000002" longitude="-2.522875" name="035" unixtime="1413707518"
+type="trackpoint" latitude="47.330803332999999" longitude="-2.5141800000000001" name="037" unixtime="1413707830"
+type="trackpoint" latitude="47.332225000000001" longitude="-2.5127283330000001" name="037" unixtime="1413707894"
+type="trackpoint" latitude="47.332945000000002" longitude="-2.5126499999999998" name="038" unixtime="1413707926"
+type="trackpoint" latitude="47.337105000000001" longitude="-2.5157483329999999" name="039" unixtime="1413708086"
+type="trackpoint" latitude="47.337798333000002" longitude="-2.5169299999999999" name="040" unixtime="1413708126"
+type="trackpoint" latitude="47.341479999999997" longitude="-2.5299766670000001" name="042" unixtime="1413708446"
+type="trackpoint" latitude="47.343958333000003" longitude="-2.5369766669999998" name="042" unixtime="1413708622"
+type="trackpoint" latitude="47.348286667000004" longitude="-2.5478399999999999" name="043" unixtime="1413708910"
+type="trackpoint" latitude="47.351713332999999" longitude="-2.5557083330000001" name="044" unixtime="1413709126"
+type="trackpoint" latitude="47.353106666999999" longitude="-2.5578966670000001" name="045" unixtime="1413709198"
+type="trackpoint" latitude="47.359846666999999" longitude="-2.5664183330000001" name="047" unixtime="1413709503"
+type="trackpoint" latitude="47.361706667" longitude="-2.5680416670000001" name="047" unixtime="1413709575"
+type="trackpoint" latitude="47.370113332999999" longitude="-2.5773649999999999" name="048" unixtime="1413709943"
+type="trackpoint" latitude="47.374313333000003" longitude="-2.582668333" name="049" unixtime="1413710143"
+type="trackpoint" latitude="47.375538333000002" longitude="-2.584561667" name="050" unixtime="1413710207"
+type="trackpoint" latitude="47.37632" longitude="-2.5861550000000002" name="051" unixtime="1413710255"
+type="trackpoint" latitude="47.376648332999999" longitude="-2.5878716669999999" name="053" unixtime="1413710311"
+type="trackpoint" latitude="47.374408332999998" longitude="-2.5868183330000001" name="053" unixtime="1413710407"
+type="trackpoint" latitude="47.369058332999998" longitude="-2.585423333" name="054" unixtime="1413710623"
+type="trackpoint" latitude="47.366091666999999" longitude="-2.5841016670000001" name="055" unixtime="1413710735"
+type="trackpoint" latitude="47.360913332999999" longitude="-2.5829266670000002" name="056" unixtime="1413710951"
+type="trackpoint" latitude="47.348305000000003" longitude="-2.5781733330000001" name="057" unixtime="1413711487"
+type="trackpoint" latitude="47.342726667000001" longitude="-2.5755966670000001" name="058" unixtime="1413711743"
+type="trackpoint" latitude="47.333973333000003" longitude="-2.572666667" name="059" unixtime="1413712135"
+type="trackpoint" latitude="47.331383332999998" longitude="-2.5723433330000001" name="060" unixtime="1413712247"
+type="trackpoint" latitude="47.329718333000002" longitude="-2.571471667" name="061" unixtime="1413712311"
+type="trackpoint" latitude="47.326945000000002" longitude="-2.570465" name="062" unixtime="1413712415"
+type="trackpoint" latitude="47.313271667000002" longitude="-2.5708483329999998" name="064" unixtime="1413712976"
+type="trackpoint" latitude="47.302695" longitude="-2.5731350000000002" name="064" unixtime="1413713432"
+type="trackpoint" latitude="47.302430000000001" longitude="-2.5727500000000001" name="065" unixtime="1413713448"
+type="trackpoint" latitude="47.303033333000002" longitude="-2.571958333" name="066" unixtime="1413713480"
+type="trackpoint" latitude="47.307821666999999" longitude="-2.5692683330000001" name="067" unixtime="1413713664"
+type="trackpoint" latitude="47.313138332999998" longitude="-2.563926667" name="069" unixtime="1413713880"
+type="trackpoint" latitude="47.314766667000001" longitude="-2.5617516669999998" name="069" unixtime="1413713952"
+type="trackpoint" latitude="47.317663332999999" longitude="-2.5589366670000002" name="070" unixtime="1413714064"
+type="trackpoint" latitude="47.320830000000001" longitude="-2.5548383330000002" name="071" unixtime="1413714208"
+type="trackpoint" latitude="47.322683333000001" longitude="-2.551846667" name="072" unixtime="1413714312"
+type="trackpoint" latitude="47.323038333" longitude="-2.55023" name="073" unixtime="1413714360"
+type="trackpoint" latitude="47.324393333000003" longitude="-2.5389316669999999" name="074" unixtime="1413714673"
+type="trackpoint" latitude="47.324908333000003" longitude="-2.5322833330000001" name="075" unixtime="1413714841"
+type="trackpoint" latitude="47.324983332999999" longitude="-2.5265466669999999" name="076" unixtime="1413714977"
+type="trackpoint" latitude="47.325321666999997" longitude="-2.523965" name="077" unixtime="1413715041"
+type="trackpoint" latitude="47.325834999999998" longitude="-2.5223550000000001" name="078" unixtime="1413715089"
+type="trackpoint" latitude="47.32629" longitude="-2.5215649999999998" name="079" unixtime="1413715121"
+type="trackpoint" latitude="47.332248333000003" longitude="-2.5176366670000001" name="081" unixtime="1413715353"
+type="trackpoint" latitude="47.335356666999999" longitude="-2.5163000000000002" name="081" unixtime="1413715473"
+type="trackpoint" latitude="47.336689999999997" longitude="-2.5159483329999999" name="082" unixtime="1413715529"
+type="trackpoint" latitude="47.337196667000001" longitude="-2.5161099999999998" name="083" unixtime="1413715553"
+type="trackpoint" latitude="47.338361667000001" longitude="-2.5181483330000001" name="084" unixtime="1413715625"
+type="trackpoint" latitude="47.339263332999998" longitude="-2.5213649999999999" name="085" unixtime="1413715729"
+type="trackpoint" latitude="47.340838333000001" longitude="-2.5249683329999999" name="086" unixtime="1413715849"
+type="trackpoint" latitude="47.342995000000002" longitude="-2.5324066670000001" name="087" unixtime="1413716081"
+type="trackpoint" latitude="47.344816667000003" longitude="-2.5374349999999999" name="088" unixtime="1413716242"
+type="trackpoint" latitude="47.348518333000001" longitude="-2.5456733329999999" name="089" unixtime="1413716538"
+type="trackpoint" latitude="47.351275000000001" longitude="-2.55253" name="090" unixtime="1413716810"
+type="trackpoint" latitude="47.353380000000001" longitude="-2.557045" name="091" unixtime="1413717018"
+type="trackpoint" latitude="47.354731667000003" longitude="-2.5591266670000001" name="092" unixtime="1413717114"
+type="trackpoint" latitude="47.359883332999999" longitude="-2.5652283329999999" name="094" unixtime="1413717410"
+type="trackpoint" latitude="47.359256666999997" longitude="-2.565928333" name="094" unixtime="1413717450"
+type="trackpoint" latitude="47.358706667" longitude="-2.5672299999999999" name="095" unixtime="1413717506"
+type="trackpoint" latitude="47.355961667000003" longitude="-2.569725" name="096" unixtime="1413717634"
+type="trackpoint" latitude="47.352856666999998" longitude="-2.5702366670000001" name="097" unixtime="1413717754"
+type="trackpoint" latitude="47.332560000000001" longitude="-2.5698633329999998" name="098" unixtime="1413718603"
+type="trackpoint" latitude="47.3307" longitude="-2.5703499999999999" name="099" unixtime="1413718683"
+type="trackpoint" latitude="47.328308333000003" longitude="-2.570251667" name="100" unixtime="1413718787"
+type="trackpoint" latitude="47.326221666999999" longitude="-2.5706250000000002" name="101" unixtime="1413718883"
+type="trackpoint" latitude="47.322713333000003" longitude="-2.5706133329999998" name="102" unixtime="1413719035"
+type="trackpoint" latitude="47.318041667000003" longitude="-2.5712250000000001" name="103" unixtime="1413719227"
+type="trackpoint" latitude="47.309236667" longitude="-2.5728533329999999" name="105" unixtime="1413719587"
+type="trackpoint" latitude="47.303061667000001" longitude="-2.5731316670000002" name="105" unixtime="1413719860"
+type="trackpoint" latitude="47.302565000000001" longitude="-2.5729333329999999" name="106" unixtime="1413719884"
+type="trackpoint" latitude="47.302561666999999" longitude="-2.572533333" name="107" unixtime="1413719900"
+type="trackpoint" latitude="47.309809999999999" longitude="-2.5600866670000002" name="108" unixtime="1413720364"
+type="trackpoint" latitude="47.316421667" longitude="-2.5468116670000001" name="110" unixtime="1413720748"
+type="trackpoint" latitude="47.319203332999997" longitude="-2.5394366669999999" name="110" unixtime="1413720956"
+type="trackpoint" latitude="47.321309999999997" longitude="-2.5328266670000001" name="111" unixtime="1413721132"
+type="trackpoint" latitude="47.324475" longitude="-2.524638333" name="112" unixtime="1413721373"
+type="trackpoint" latitude="47.325133332999997" longitude="-2.5234166669999998" name="113" unixtime="1413721421"
+type="trackpoint" latitude="47.330559999999998" longitude="-2.518766667" name="115" unixtime="1413721717"
+type="trackpoint" latitude="47.333260000000003" longitude="-2.51709" name="115" unixtime="1413721853"
+type="trackpoint" latitude="47.334581667000002" longitude="-2.5165150000000001" name="116" unixtime="1413721917"
+type="trackpoint" latitude="47.33634" longitude="-2.5161500000000001" name="117" unixtime="1413721997"
+type="trackpoint" latitude="47.337046667000003" longitude="-2.5161833329999999" name="118" unixtime="1413722029"
+type="trackpoint" latitude="47.339006667" longitude="-2.5171833330000002" name="119" unixtime="1413722149"
+type="trackpoint" latitude="47.339120000000001" longitude="-2.5174183330000002" name="120" unixtime="1413722165"
+type="trackpoint" latitude="47.338586667000001" longitude="-2.518583333" name="121" unixtime="1413722245"
+type="trackpoint" latitude="47.339598332999998" longitude="-2.5197099999999999" name="122" unixtime="1413722389"
+type="trackpoint" latitude="47.340013333000002" longitude="-2.5199133329999999" name="123" unixtime="1413722477"
+type="trackpoint" latitude="47.34084" longitude="-2.5186799999999998" name="124" unixtime="1413722581"
+type="trackend"
+~EndLayerData
+~EndLayer
+

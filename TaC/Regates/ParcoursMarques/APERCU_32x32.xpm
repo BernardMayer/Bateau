@@ -1,0 +1,43 @@
+/* XPM */
+static char *my_APERCU_xpm[] = {
+/* width height num_colors chars_per_pixel */
+"   32    32       4            1",
+/* colors , */
+"  c None",
+"k c #000000",
+"r c #ff0000",
+"w c #ffffff",
+/* pixels */
+"                k               ",
+"                krrrw           ",
+"                krrrwwwrr       ",
+"                krrrwwwrrrwww   ",
+"                krrrwwwrrrwwwrrr",
+"                krrrwwwrrrwwwrrr",
+"                krrrwwwrrrwww   ",
+"                krrrwwwrr       ",
+"                krrrw           ",
+"                k               ",
+"                k               ",
+"                k               ",
+"                k               ",
+"                k               ",
+"                k               ",
+"                k               ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                "
+};
