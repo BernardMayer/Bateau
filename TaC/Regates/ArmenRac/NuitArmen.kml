@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NuitArmen</name>
+    <Style id="Default_line_style14241699413381424170017227">
+      <LineStyle>
+        <color>ffcd9f3f</color>
+        <colorMode>normal</colorMode>
+        <width>3</width>
+      </LineStyle>
+    </Style>
+    <Style id="Default_line_style14241699413371424170017227">
+      <LineStyle>
+        <color>ffcd9f3f</color>
+        <colorMode>normal</colorMode>
+        <width>3</width>
+      </LineStyle>
+    </Style>
+    <Style id="Default_selected_line_style14241699413381424170017227">
+      <LineStyle>
+        <color>ff0a96f1</color>
+        <colorMode>normal</colorMode>
+        <width>3</width>
+      </LineStyle>
+    </Style>
+    <Style id="Default_point_style">
+      <IconStyle>
+        <Icon>
+          <href>http://api.ign.fr/api/images/api/markers/marker_01.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="1" yunits="fraction"/>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <id>instance3756</id>
+      <name>instance20744</name>
+      <styleUrl>#Default_line_style14241699413371424170017227</styleUrl>
+      <description><![CDATA[]]></description>
+      <LineString>
+        <coordinates>-3.0086920207871666,47.5585235160579 -3.028948063268393,47.449285370595724</coordinates>
+      </LineString>
+      <ExtendedData>
+        <Data name="attribute3">
+          <displayName>title</displayName>
+          <value>instance20744</value>
+        </Data>
+        <Data name="attributetitle">
+          <displayName>title</displayName>
+          <value>instance20744</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <id>instance3757</id>
+      <name>instance20745</name>
+      <styleUrl>#Default_line_style14241699413381424170017227</styleUrl>
+      <description><![CDATA[]]></description>
+      <LineString>
+        <coordinates>-3.028948063268406,47.449401455192174 -3.069803470984775,47.43674672607468 -3.0823347515028217,47.42954726503848</coordinates>
+      </LineString>
+      <ExtendedData>
+        <Data name="attribute3">
+          <displayName>title</displayName>
+          <value>instance20745</value>
+        </Data>
+        <Data name="attributetitle">
+          <displayName>title</displayName>
+          <value>instance20745</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <id>instance3758</id>
+      <name>instance20747</name>
+      <styleUrl>#Default_line_style14241699413381424170017227</styleUrl>
+      <description><![CDATA[]]></description>
+      <LineString>
+        <coordinates>-3.081304783242154,47.430302093461485 -3.333990330119472,47.628041307572516</coordinates>
+      </LineString>
+      <ExtendedData>
+        <Data name="attribute3">
+          <displayName>title</displayName>
+          <value>instance20747</value>
+        </Data>
+        <Data name="attributetitle">
+          <displayName>title</displayName>
+          <value>instance20747</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <id>instance3759</id>
+      <name>instance20748</name>
+      <styleUrl>#Default_selected_line_style14241699413381424170017227</styleUrl>
+      <description><![CDATA[]]></description>
+      <LineString>
+        <coordinates>-3.3346769756273082,47.62942956460381 -4.008276218797556,47.77822147088645</coordinates>
+      </LineString>
+      <ExtendedData>
+        <Data name="attribute3">
+          <displayName>title</displayName>
+          <value>instance20748</value>
+        </Data>
+        <Data name="attributetitle">
+          <displayName>title</displayName>
+          <value>instance20748</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <id>instance3760</id>
+      <name>instance20752</name>
+      <styleUrl>#Default_line_style14241699413381424170017227</styleUrl>
+      <description><![CDATA[]]></description>
+      <LineString>
+        <coordinates>-4.008619541551839,47.78133601147454 -4.184400791560144,47.68527630052713 -3.218977207530156,47.27131756522418</coordinates>
+      </LineString>
+      <ExtendedData>
+        <Data name="attribute3">
+          <displayName>title</displayName>
+          <value>instance20752</value>
+        </Data>
+        <Data name="attributetitle">
+          <displayName>title</displayName>
+          <value>instance20752</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <id>instance3761</id>
+      <name>instance20754</name>
+      <styleUrl>#Default_line_style14241699413381424170017227</styleUrl>
+      <description><![CDATA[]]></description>
+      <LineString>
+        <coordinates>-3.218977207530159,47.27411293849503 -3.0500624126003033,47.26386251462899 -2.7946302836819847,47.30671471696635 -2.9992506450197776,47.55846559431224</coordinates>
+      </LineString>
+      <ExtendedData>
+        <Data name="attribute3">
+          <displayName>title</displayName>
+          <value>instance20754</value>
+        </Data>
+        <Data name="attributetitle">
+          <displayName>title</displayName>
+          <value>instance20754</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <id>instance3762</id>
+      <name>instance20740</name>
+      <styleUrl>#Default_point_style</styleUrl>
+      <description><![CDATA[]]></description>
+      <Point>
+        <coordinates>-3.0291197246327823,47.447602115150254</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="attribute3">
+          <displayName>title</displayName>
+          <value>instance20740</value>
+        </Data>
+        <Data name="attributetitle">
+          <displayName>title</displayName>
+          <value>instance20740</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <id>instance3763</id>
+      <name>instance20741</name>
+      <styleUrl>#Default_point_style</styleUrl>
+      <description><![CDATA[]]></description>
+      <Point>
+        <coordinates>-3.069631809607802,47.43500501130505</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="attribute3">
+          <displayName>title</displayName>
+          <value>instance20741</value>
+        </Data>
+        <Data name="attributetitle">
+          <displayName>title</displayName>
+          <value>instance20741</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <id>instance3764</id>
+      <name>instance20742</name>
+      <styleUrl>#Default_point_style</styleUrl>
+      <description><![CDATA[]]></description>
+      <Point>
+        <coordinates>-3.0086920207871586,47.55759676057533</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="attribute3">
+          <displayName>title</displayName>
+          <value>instance20742</value>
+        </Data>
+        <Data name="attributetitle">
+          <displayName>title</displayName>
+          <value>instance20742</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <id>instance3765</id>
+      <name>instance20743</name>
+      <styleUrl>#Default_point_style</styleUrl>
+      <description><![CDATA[]]></description>
+      <Point>
+        <coordinates>-3.0823347515028128,47.42768917972346</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="attribute3">
+          <displayName>title</displayName>
+          <value>instance20743</value>
+        </Data>
+        <Data name="attributetitle">
+          <displayName>title</displayName>
+          <value>instance20743</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <id>instance3766</id>
+      <name>instance20746</name>
+      <styleUrl>#Default_point_style</styleUrl>
+      <description><![CDATA[]]></description>
+      <Point>
+        <coordinates>-3.334333652873383,47.625958852885766</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="attribute3">
+          <displayName>title</displayName>
+          <value>instance20746</value>
+        </Data>
+        <Data name="attributetitle">
+          <displayName>title</displayName>
+          <value>instance20746</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <id>instance3767</id>
+      <name>instance20749</name>
+      <styleUrl>#Default_point_style</styleUrl>
+      <description><![CDATA[]]></description>
+      <Point>
+        <coordinates>-4.008276218797556,47.77476065140352</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="attribute3">
+          <displayName>title</displayName>
+          <value>instance20749</value>
+        </Data>
+        <Data name="attributetitle">
+          <displayName>title</displayName>
+          <value>instance20749</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <id>instance3768</id>
+      <name>instance20750</name>
+      <styleUrl>#Default_point_style</styleUrl>
+      <description><![CDATA[]]></description>
+      <Point>
+        <coordinates>-4.184400791560141,47.68342726170255</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="attribute3">
+          <displayName>title</displayName>
+          <value>instance20750</value>
+        </Data>
+        <Data name="attributetitle">
+          <displayName>title</displayName>
+          <value>instance20750</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <id>instance3769</id>
+      <name>instance20751</name>
+      <styleUrl>#Default_point_style</styleUrl>
+      <description><![CDATA[]]></description>
+      <Point>
+        <coordinates>-3.2217237895615347,47.269453901013</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="attribute3">
+          <displayName>title</displayName>
+          <value>instance20751</value>
+        </Data>
+        <Data name="attributetitle">
+          <displayName>title</displayName>
+          <value>instance20751</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <id>instance3770</id>
+      <name>instance20753</name>
+      <styleUrl>#Default_point_style</styleUrl>
+      <description><![CDATA[]]></description>
+      <Point>
+        <coordinates>-2.7973768657133644,47.30485229956271</coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="attribute3">
+          <displayName>title</displayName>
+          <value>instance20753</value>
+        </Data>
+        <Data name="attributetitle">
+          <displayName>title</displayName>
+          <value>instance20753</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+  </Document>
+</kml>

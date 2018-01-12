@@ -1,0 +1,382 @@
+@media screen and (max-width: 2500px) {
+#sequence {  height: 550px;}	
+}
+
+@media screen and (max-width: 1306px) { 
+
+#sequence {  height: 520px;}
+
+.aq-block-aq_2_3_column_block{width:62% !important;}
+.aq-block-aq_3_column_block{ width:24% !important;}
+
+.aq-block-aq_2_3_column_block,
+.aq-block-aq_3_column_block{ padding:40px 60px 0 0;}
+
+.aq-block-aq_2_3_column_block.aq-first,
+.aq-block-aq_3_column_block.aq-first{padding:40px 0 0 60px;}
+
+.container{
+margin:0 auto 0 auto;
+}
+
+#topnav_holder{margin-top:0;}
+
+.headad {margin: 10px 0;}
+
+.flexwrap,
+.journal,
+#footer,
+#core{padding: 0 6%;width: 88% !important;  margin-left:0 !important; margin-right:0 !important}
+
+#core{padding:60px 6% 0 6%;}
+
+.aq_row>.aq_span12 .blogger{padding: 0 6%;width: 93% !important;  margin-left:0 !important; margin-right:0 !important}
+
+}
+
+@media screen and (max-width: 1106px) {
+	
+.aq-block-aq_2_3_column_block{width:63% !important;}
+.aq-block-aq_3_column_block{ width:26% !important;}
+
+.aq-block-aq_2_3_column_block,
+.aq-block-aq_3_column_block{ padding:40px 40px 0 0;}
+
+.aq-block-aq_2_3_column_block.aq-first,
+.aq-block-aq_3_column_block.aq-first{padding:40px 0 0 40px;}
+
+#sequence {  height: 490px;}
+
+.nav li.menu-item-has-children>a,
+.nav li.page_item_has_children>a{
+  	padding-right: 15px !important;
+	margin-right:0;
+	background: url(images/arrow-superfish.png) 98% 50% no-repeat;
+}
+
+#topnav h1{margin: 22px 10px 22px 20px;}
+	
+}
+
+/* iPad lacscape */
+@media screen and (max-width: 1026px) { 
+
+.container{
+width:100%;
+padding:0 0;
+}
+
+#sequence {  height: 450px;}
+
+#topnav h1{ max-width:20%;}
+
+#main-nav > li > a i{ display:none;}
+
+.aq-block-aq_2_3_column_block{width:64% !important;}
+.aq-block-aq_3_column_block{ width:28.5% !important;}
+
+.aq-block-aq_2_3_column_block,
+.aq-block-aq_3_column_block{ padding:30px 20px 0 0;}
+
+.aq-block-aq_2_3_column_block.aq-first,
+.aq-block-aq_3_column_block.aq-first{padding:30px 0 0 20px;}
+
+.flexwrap,
+.journal,
+#footer,
+#core{padding: 0 2%;width: 96% !important;}
+
+#core{padding:60px 2% 0 2%;}
+
+.aq_row>.aq_span12 .blogger{padding: 0 2%;width: 100% !important;}
+
+.imgwrap img,
+.tab img,
+img.main-single,
+.imgwrap img:hover,
+img.headimg,
+img.attachment-format-standard,
+img.singleimg,
+.wp-caption img,
+.wp-caption,
+.postslider img{ max-width:100% !important;}
+
+.flickr_badge_image{ margin:0 15px 15xp 0;}
+
+.singleslider{min-height:290px;}
+
+.title,
+.subtitle{ width:30%;}
+
+.animate-in .title,
+.animate-in .subtitle{ left:60%;}
+
+.videoblocker li.journal_big {width: 75%;}
+
+.cats_big iframe {max-height: 213px;}
+.twoblog li iframe { min-height: 193px;}
+
+}
+
+/* Smaller screens */
+
+@media screen and (max-width: 900px){
+
+.aq-block-aq_3_column_block{ width:27.8% !important;}
+
+#sequence {  height: 400px;}
+
+.subtitle a.fr{ display:none;}
+
+.videoblocker li.journal_big{ width:74.8%;}
+
+}
+
+
+/* iPad portrait */
+@media screen and (max-width: 770px){
+	
+#topnav h1{ max-width:25%;}
+
+img#logo { max-width: 100%;}
+
+.aq-block-aq_2_3_column_block{width:63% !important;}
+
+#main-nav>li>a{ font-size:12px !important;}
+
+ul.social-menu li a {font-size:12px !important; min-width:15px;}
+
+.ratingblock{ width:45%;}
+.ratingblock h2{ font-size:14px !important;}
+
+.ad300 img,.ad300 ins{ max-width:100%;}
+
+ul#serinfo-nav li a{ font-size:11px !important;}
+
+.tab-post img,
+ul#serinfo-nav li a i{ display:none;}
+
+ul.featured li.fblock img{ margin:0 15px 0 0; width:65px;}
+
+#sequence {  height: 380px;}
+
+.title{ bottom:40%;}
+
+.subtitle{ display:none;}
+
+.journal_small {height: 270px;}
+
+.blockinside .teaser,
+.blockinside .meta_more{ display:none;}
+
+.cats_big iframe {max-height: 157px;}
+.twoblog li iframe { min-height: 80px;}
+
+}
+
+
+/* Mobile */
+@media handheld, only screen and (max-width: 740px) {
+
+body {
+font-size: 14px;
+-webkit-text-size-adjust: none;
+}
+
+#sequence {  height: 350px;}
+
+[class*="aq_span"]{ float:none;}
+
+#content,
+.aq-template-wrapper>.aq_span8,
+#sidebar,
+.aq-template-wrapper .aq_span4,
+.flexwrap,
+.journal,
+#footer,
+#core{width: 90% !important; padding:0 5% 30px 5%;}
+
+
+#sidebar,
+.aq-template-wrapper .aq_span4{ margin:0 auto 20px auto;max-width:304px; float:none; overflow:hidden; display:block;}
+
+body {
+width: 100%;
+min-width: 0;
+margin-left: 0px;
+margin-right: 0px;
+padding-left: 0;
+padding-right: 0;
+margin-top:0;
+}
+
+
+#footer .threecol,
+.onecol, .twocol, .threecol, .fourcol, .fivecol, .sixcol, .sevencol, .eightcol, .ninecol, .tencol, .elevencol, .twelvecol,.fifthcol,
+#footer .fourcol
+{
+width: auto;
+float: none !important;
+margin-left: 0;
+margin-right: 0;
+height:auto;
+}
+
+.blogger,#core,.blockflex .slides{padding:0 0 0 0; width:100% !important;}
+
+.flex-control-nav{ bottom:25px;}
+
+#copyright{ padding:0 8%; width:84%; margin:10px 0;}
+
+.pagination{ margin-bottom:40px; height:35px;}
+
+.resmode-No,
+.slide-nav{ display:none; visibility:hidden;}
+
+#topnav ul.social-menu { display:none;}
+
+.journal_big,
+.journal_small,
+.videoblocker li.journal_small,
+.videoblocker li.journal_big,
+.twoblog li,
+.fourblog li,
+.leftcat,
+.rightcat{ width:96%; margin:0 auto 10px auto !important; float:none !important; max-width:304px; padding:10px 2%; height:auto !important; overflow:hidden;}
+
+.journal_small .imgwrap { margin: 0 0 10px;}
+
+.gridblock li.gridpost{ width:96%; margin:0 auto 10px auto !important; float:none; max-width:302px; padding:10px 2%; overflow:hidden;}
+
+.gridblock li.gridpost .imgwrap{ margin: 0 0 10px; width:100%; max-width:100%; float:none;}
+
+.flexcarousel h2 { font-size:14px !important;}
+
+.aq_row > .aq_span12 .blogger {padding: 0;}
+
+.line{ max-width:334px; margin:0 auto 20px auto !important;}
+.flexwrap > .line, .journal > .line { margin: 15px auto -1px !important;}
+
+li.format-video iframe {
+    min-height: 200px;
+}
+
+.pagination{ text-align:center;}
+
+.videoblocker li.journal_small .imgwrap { max-height: none;}
+
+h2.widget{ text-align:center; margin-top:15px}
+
+.widgetwrap h2.widget span, .flexwrap h2.widget span, .aq-block-aq_slider_block h2.widget span{ float:none; margin-left:15px;}
+
+}
+
+
+@media only screen and (max-width: 689px) {
+
+#topnav{ text-align:center;}
+
+#topnav h1 {
+    width: 100%;
+	max-width:100%;
+	text-align:center;
+	margin: 30px 0;
+}
+
+img#logo{ float: none; display:block; margin:20px auto; max-width:300px; max-height:none;}
+
+.scrollTo_top{ visibility:hidden; display:none}
+
+
+.contact-form .forms textarea,
+.contact-form .forms input.txt{ width:100%; float:none; margin-left:0; margin-right:0; padding-left:0; padding-right:0}
+
+.contact-form .forms label{ margin-bottom:10px}
+
+.contact-form .forms .buttons .submit,
+.contact-form .forms input#sendCopy{ margin-left:0;}
+
+
+
+a#triggernav,
+a#triggernav-sec{ display:block}
+
+#navigation,
+#top-navigation{ display:none;}
+#navigation{margin-bottom:40px;}
+
+#top-navigation{ width:100%;}
+
+.nav>li {
+	width:100%;
+	float:none;
+	text-align:center;
+} 
+
+.nav,
+#top-nav,
+#main-nav{ width:100%; margin:0 0 0 0 !important; padding:0 0 0 0 !important;}
+
+.nav li ul ul{ margin:0 0 0 0;}
+
+.nav li ul li a{ text-align: center;}
+
+#main-nav > li > a { padding: 15px 7px;}
+
+.nav > li > a {margin-right: 0px;}
+.nav li ul {width: 100%;}
+
+#topnav ul.social-menu{  text-align:center; float:none; margin:0 auto;}
+
+.twocol-one,.threecol-one,.threecol-two,.fourcol-one,.fourcol-two,.fourcol-three,.fivecol-one,.fivecol-two,.fivecol-three,.fivecol-four,.sixcol-one,.sixcol-two,.sixcol-three,.sixcol-four,.sixcol-five{ width:100% !important;}
+
+.related{ width:100%;}
+
+h2.post,
+h1.itemtitle{padding: 30px 0;}
+
+.flexwrap{ margin:0 0 30px 0;}
+
+.flexinside h2{ font-size:16px !important; margin:5px 0;}
+
+.flexinside p,
+.flexinside .line{ display:none;}
+
+.title { font-size:16px; bottom:25%;}
+
+.model img{ margin-left:-80px}
+
+.sequence-pagination li{ width:50px;}
+
+.sequence-pagination li span{ display:none;}
+
+.blockflex{ margin:0 0 30px 0;}
+
+
+} 
+
+@media only screen and (max-width: 565px) {
+	
+.journal_small{ width:93.5%;  height:auto;}
+.journal_big .imgwrap{ max-width:100%; width:100%; margin:0 0 30px 0;}
+.journal_big .imgwrap img{ width:100%;}
+
+}
+
+@media only screen and (max-width: 429px) {
+
+.related li{ width:100%; margin-left:0;}
+
+iframe{max-height:250px}
+
+.comment-form-author, .comment-form-email, .comment-form-url{ width:99%;}
+
+#respond textarea{ width:89%;}
+
+
+h2.post,
+h1.itemtitle{ font-size:20px !important;}
+
+
+
+}

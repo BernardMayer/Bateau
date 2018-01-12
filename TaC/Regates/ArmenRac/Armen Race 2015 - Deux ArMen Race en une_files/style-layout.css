@@ -1,0 +1,111 @@
+
+/* @the 1040px grid
+********************************************************************************************
+********************************************************************************************/
+
+.container,
+.container_v{
+width: 100%;
+max-width: 1300px;
+margin: 0 auto 0 auto;
+padding:0 0;
+overflow:hidden;
+position:relative;
+}
+
+.container_wrap{
+width: 100%;
+max-width: 1140px;
+margin: 0 auto;
+padding:0 0;
+overflow:hidden;
+position:relative;
+}
+
+.container_v{ overflow:visible; background:none; display:block; float:none;}
+
+.container_wrap .container{ width:100%; padding:0 0;}
+
+.generalresp{
+width: 1300px !important;
+max-width: 1300px;
+min-width: 1300px !important;
+margin:0 auto;
+}
+
+.generalresp-alt{
+}
+
+.onecol, .twocol, .threecol, .fourcol, .fivecol,.fifthcol, .sixcol, .sevencol, .eightcol, .ninecol, .tencol, .elevencol {
+margin-left:0;
+float: left;
+min-height: 1px;
+overflow:hidden;
+}
+
+.twocol {
+width: 10.75%;
+margin-left:5%;
+float:left;
+}
+
+.threecol {
+width: 23.3%;
+margin-left:2.2%;
+float:left;
+}
+
+#footer .threecol {
+width: 22.3%;
+margin-left:3.6%;
+}
+
+.fourcol {
+width: 31.68%;
+margin:0 0 0 0;
+padding:0;
+float:left;
+position:relative;
+}
+
+.fifthcol {
+width: 16%;
+padding:0;
+margin:0 0 0 4%;
+float:left;
+margin-bottom:40px;
+}
+
+.eightcol {
+width: 65.2%;
+padding-right:0;
+padding-left:0;
+margin:0 3% 0 0;
+float:left;
+}
+
+.sixcol {
+width:50%;
+margin-left:0;
+}
+
+.twelvecol {
+width: 90%;
+float: left;
+}
+
+object, embed {
+max-width: 100%;
+}
+
+
+
+img {
+	height: auto;
+	max-width:100%;
+}
+
+/* no-responsive specials */
+
+.generalresp #header h1{ max-width:300px;}
+.generalresp #header h1 img{ width:100%;}

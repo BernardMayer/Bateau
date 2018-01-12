@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>3 phares 2015</name>
+    <Style id="Default_point_style">
+      <IconStyle>
+        <Icon>
+          <href>http://api.ign.fr/api/images/api/markers/marker_01.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="1" yunits="fraction"/>
+      </IconStyle>
+    </Style>
+    <Style id="Default_line_style1425639624837">
+      <LineStyle>
+        <color>ffcd9f3f</color>
+        <colorMode>normal</colorMode>
+        <width>3</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <id>instance6188</id>
+      <name>instance6188</name>
+      <styleUrl>#Default_point_style</styleUrl>
+      <Point>
+        <coordinates>-3.0444105770370444,47.49453539133101</coordinates>
+      </Point>
+      <ExtendedData/>
+    </Placemark>
+    <Placemark>
+      <id>instance6189</id>
+      <name>instance6189</name>
+      <styleUrl>#Default_point_style</styleUrl>
+      <Point>
+        <coordinates>-3.0917891170765417,47.491983663390585</coordinates>
+      </Point>
+      <ExtendedData/>
+    </Placemark>
+    <Placemark>
+      <id>instance6190</id>
+      <name>instance6190</name>
+      <styleUrl>#Default_point_style</styleUrl>
+      <Point>
+        <coordinates>-3.0409773494979513,47.45833565962482</coordinates>
+      </Point>
+      <ExtendedData/>
+    </Placemark>
+    <Placemark>
+      <id>instance6191</id>
+      <name>instance6191</name>
+      <styleUrl>#Default_point_style</styleUrl>
+      <Point>
+        <coordinates>-3.049217095591777,47.31212344516776</coordinates>
+      </Point>
+      <ExtendedData/>
+    </Placemark>
+    <Placemark>
+      <id>instance6192</id>
+      <name>instance6192</name>
+      <styleUrl>#Default_point_style</styleUrl>
+      <Point>
+        <coordinates>-2.8356703426601295,47.32352815271347</coordinates>
+      </Point>
+      <ExtendedData/>
+    </Placemark>
+    <Placemark>
+      <id>instance6193</id>
+      <name>instance6193</name>
+      <styleUrl>#Default_line_style1425639624837</styleUrl>
+      <LineString>
+        <coordinates>-3.045440545298773,47.49407145001887 -3.0935057308460885,47.4905917595258 -3.094535699107817,47.48966380312136 -3.0938490535999983,47.48711183846859 -3.0251845028181186,47.44858531688434 -3.0680998470567933,47.43743985433886 -3.0729063656115247,47.43140174285094 -3.0478438045761385,47.311192339956285 -2.8820189144378983,47.31095956109026 -2.833610406136673,47.31933895435311 -2.8185042049646594,47.32189905948945 -2.8377302791835852,47.347028049155746 -3.0907591488148136,47.488039839961374</coordinates>
+      </LineString>
+      <ExtendedData/>
+    </Placemark>
+  </Document>
+</kml>

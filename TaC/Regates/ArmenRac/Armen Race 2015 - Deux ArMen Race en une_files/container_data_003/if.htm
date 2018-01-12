@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+
+<style type="text/css">
+    
+html, body  { margin: 0; padding: 0; border: 0;vertical-align:baseline;}
+
+
+    #Ad{
+        width:300px;
+        height:600px;
+        position:relative;
+        overflow:hidden;
+        font-family:Arial, Helvetica, sans-serif;
+        color:#fff;
+        }
+    
+    #clickable{
+        width:300px;
+        height:600px;
+        position:relative;
+        background:url('http://cdn.1000mercis.com/rtb/allianz/immatriculation/300x600_email_anim.gif') no-repeat center;
+        cursor:pointer;
+        }
+    
+    a{
+        color:#fff;
+        font-weight:normal;
+        text-decoration:none;
+        }
+    
+    #mail{
+        top:500px;
+        left:91px;
+        width:117px;
+        height:21px;
+        border:none;
+        color:#000;
+        font-size:12px;
+        text-align:center;
+        position:absolute;
+        box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;
+        border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;
+        }
+    
+    #mail::-webkit-input-placeholder {
+        color: #878484;
+        }
+
+    #mail:-moz-placeholder { /* Firefox 18- */
+        color: #878484;  
+        }
+
+    #mail::-moz-placeholder {  /* Firefox 19+ */
+        color: #878484;  
+        }
+
+    #mail:-ms-input-placeholder {  
+        color: #878484;  
+        }
+    
+    
+    #mail:focus::-webkit-input-placeholder { color:transparent; }
+    #mail:focus:-moz-placeholder { color:transparent; } /* Firefox 18- */
+    #mail:focus::-moz-placeholder { color:transparent; } /* Firefox 19+ */
+    #mail:focus:-ms-input-placeholder { color:transparent; } /* oldIE ;) */
+
+</style>  
+
+</head>
+<body>
+
+  <div id="Ad">
+    <a href="#" target="_blank" onclick="cpLink()" id="link"><div id="clickable"></div></a>
+    <input id="mail" placeholder="Entrez votre email" type="email">
+  </div>
+<script type="text/javascript">
+function cpLink() {
+    var ima = document.getElementById("mail").value;
+    document.getElementById("link").href = "http://ams1.ib.adnxs.com/click?ILByaJHt7D8hsHJoke3sPwAAAAAAAOA_f7INMhH17D9_sg0yEfXsP0HSr9a0ptZnRuYuQEAQzDYA3JJUAAAAAOcuAAC1AAAAfAYAAAIAAADc3EUB0WMAAAAAAQBVU0QAVVNEACwBWAKdDGIACrUDAQUCAQAAAAAAnCTm4wAAAAA./cnd=%21LgbDOQiTjusCENy5lwoY0ccBIAA./clickenc=http%3A%2F%2Fadclick.g.doubleclick.net%2Faclk%253Fsa%253DL%2526ai%253DC69ByANySVNKlA8K98wOK4oDYDpTTgqAD5LWex13AjbcBEAEgAGD7-fyCiAqCARdjYS1wdWItNjkxMTUzNzcwMTc2NzQzNcgBCeACAKgDAZgEAKoE2gFP0JtPSWrmYMpbTpGrWpwDs28UmB1FQs_a2S1VJymG8WdduOAZ8xlb6WR49xNSJdhAS8nU2n4MM_M1plL5NQE6uSpp5Yav9kDnNoNtGlbPfS85CavSNt51IaN3-O4VkMm4r_N-Y-SlqcGjmbKUdVi8fAk8YCqUK1TL5uDJINqN0J-b6bnUv7bdShmw0vU2wp7Hwvd-vW36rWPpIomk7OvXillPcAmmvTwnudrjzTYtDk55bKnJUA-l4igHDH_TI9Jsl4aRmNhNZR60DdENmv5ZYW6oZEYQBj2L0eAEAYAGo4fLr7GRtuGVAaAGIQ%2526num%253D1%2526sig%253DAOD64_13UPXDCW05hNT0eZk5Oc54ZxRUSQ%2526client%253Dca-pub-6911537701767435%2526adurl%253Dhttp://mmtro.allianz.fr/c?tagid=6548287-5dd289ebe8c086704951170919f28e8a&idc=51278&rtgsearch="+encodeURIComponent(ima)+"&rtgAID=7482351126548828737&ck1add=2:1296000:21355740;3:1296000:5949203&redir=https%3A%2F%2Fdevis-assurance.allianz.fr%2Fdevis-rapide-auto%2Fallianz%2Findex.html%3Femail%3D"+encodeURIComponent(ima)+"%26advance_source%3D0500%26utm_medium%3Dadex%26utm_source%3Dsrc%3AAPPNEXUS_mng%3A1000mercis%26utm_campaign%3Dtfr%3Aongoing_gol%3Aacquisition_pdt%3Amotor_pml%3Acpm_cpn%3AAcqui_FQ-Imma%26utm_content%3Dfmt%3Abanner_dim%3D300x600_21355740%26utm_term%3Dtar%3Abehavioral%26actionCo%3DOR1";   
+}
+</script>
+
+</body></html>

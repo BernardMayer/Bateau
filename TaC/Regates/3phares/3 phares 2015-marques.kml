@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>3 phares 2015</name>
+    <Style id="Default_point_style">
+      <IconStyle>
+        <Icon>
+          <href>http://api.ign.fr/api/images/api/markers/marker_01.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="1" yunits="fraction"/>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <id>instance5972</id>
+      <name>instance5972</name>
+      <styleUrl>#Default_point_style</styleUrl>
+      <Point>
+        <coordinates>-3.0444105770370444,47.49453539133101</coordinates>
+      </Point>
+      <ExtendedData/>
+    </Placemark>
+    <Placemark>
+      <id>instance5973</id>
+      <name>instance5973</name>
+      <styleUrl>#Default_point_style</styleUrl>
+      <Point>
+        <coordinates>-3.0917891170765417,47.491983663390585</coordinates>
+      </Point>
+      <ExtendedData/>
+    </Placemark>
+    <Placemark>
+      <id>instance5974</id>
+      <name>instance5974</name>
+      <styleUrl>#Default_point_style</styleUrl>
+      <Point>
+        <coordinates>-3.0409773494979513,47.45833565962482</coordinates>
+      </Point>
+      <ExtendedData/>
+    </Placemark>
+    <Placemark>
+      <id>instance5975</id>
+      <name>instance5975</name>
+      <styleUrl>#Default_point_style</styleUrl>
+      <Point>
+        <coordinates>-3.049217095591777,47.31212344516776</coordinates>
+      </Point>
+      <ExtendedData/>
+    </Placemark>
+    <Placemark>
+      <id>instance5976</id>
+      <name>instance5976</name>
+      <styleUrl>#Default_point_style</styleUrl>
+      <Point>
+        <coordinates>-2.8356703426601295,47.32352815271347</coordinates>
+      </Point>
+      <ExtendedData/>
+    </Placemark>
+  </Document>
+</kml>
