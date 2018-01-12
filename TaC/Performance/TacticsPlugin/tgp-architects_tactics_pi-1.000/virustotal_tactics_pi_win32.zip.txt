@@ -1,0 +1,80 @@
+
+VirusTotal
+SHA256: 	127d7db0104adbfc60187ef4311cd32da4e947716f32313cb161d840bb279564
+Dateiname: 	tactics_pi_win32.zip
+Erkennungsrate: 	0 / 56
+Analyse-Datum: 	2017-01-11 19:10:33 UTC ( vor 0 Minuten )
+0
+0
+
+    Analyse
+    File detail
+    Zusätzliche Informationen
+    Kommentare
+    Bewertungen
+
+The file being studied is a compressed stream! More specifically, it is a ZIP file.
+Interesting properties
+The studied file contains at least one Portable Executable.
+Contained files
+This file is a compressed stream containing 6 files.
+[+] tactics_pi/ directory 0 Bytes
+[+] tactics_pi.dll Portable Executable 693760 Bytes
+[+] tactics_pi/data/ directory 0 Bytes
+[+] tactics_pi/data/Tactics.svg XML 13197 Bytes
+[+] tactics_pi/data/Tactics_rollover.svg XML 12227 Bytes
+[+] tactics_pi/data/Tactics_toggled.svg XML 13834 Bytes
+Compression metadata
+Contained files
+6
+Uncompressed size
+733018
+Highest datetime
+2017-01-09 14:05:30
+Lowest datetime
+2016-08-19 20:53:40
+Contained files by extension
+svg
+3
+dll
+1
+Contained files by type
+XML
+3
+directory
+2
+Portable Executable
+1
+ExifTool file metadata
+MIMEType
+application/zip
+
+ZipRequiredVersion
+20
+
+ZipCRC
+0x00000000
+
+FileType
+ZIP
+
+ZipCompression
+None
+
+ZipUncompressedSize
+0
+
+ZipCompressedSize
+0
+
+FileTypeExtension
+zip
+
+ZipFileName
+tactics_pi/
+
+ZipBitFlag
+0
+
+ZipModifyDate
+2017:01:09 14:05:15
