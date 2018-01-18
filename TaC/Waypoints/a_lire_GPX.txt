@@ -1,0 +1,3 @@
+Votre téléchargement correspond à un fichier ".gpx" (GPS Exchange format)
+C'est un format de fichier permettant l'échange de coordonnées GPS. Ce fichier décrit une collection de points 
+utilisables sous forme de point de cheminement (waypoint). Les points sont numérotés dans le sens de l'entrée dans l'estuaire.

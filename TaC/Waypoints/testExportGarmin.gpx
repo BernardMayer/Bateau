@@ -1,0 +1,1949 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+    <wpt lat="48.268836667" lon="-4.633815000">
+        <time>2014-03-13T17:20:59Z</time>
+        <name>Toulinguet_ChenalSud</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>53a5ffff-60aa-4228-92cb-07e44760ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="48.258413333" lon="-4.675060000">
+        <time>2014-03-13T17:23:31Z</time>
+        <name>Toulinguet_LeachSudOuest</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>24800000-201c-4427-90dd-3c3c59c3ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="48.364400000" lon="-4.443400000">
+        <time>2014-04-18T21:11:24Z</time>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>782effff-ff73-43e9-9e21-44b2543cffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.583448333" lon="-3.377855000">
+        <time>2014-04-18T21:24:42Z</time>
+        <name>Groix les chats</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>4f46ffff-6188-410e-a1dd-873713040000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.478438333" lon="-3.291853333">
+        <time>2014-04-18T21:26:03Z</time>
+        <name>Birvideaux sud</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>4e3bffff-74f8-4ea3-a1c9-a829692cffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="48.390648333" lon="-4.429458333">
+        <time>2014-03-11T22:41:36Z</time>
+        <name>Brest Moulin Blanc</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>44f5ffff-f245-4761-90bf-5fac57c7ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="48.080211667" lon="-4.746156667">
+        <time>2014-03-13T17:02:37Z</time>
+        <name>RazSein_NordEst</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>1dde0000-cdcb-46ac-9efa-aa4d24df0000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="48.050288333" lon="-4.776275000">
+        <time>2014-03-13T17:08:54Z</time>
+        <name>RazSein_Haut</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>69e8ffff-c1bf-484f-abc5-b0e30da80000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="48.034071667" lon="-4.764681667">
+        <time>2014-03-13T17:10:20Z</time>
+        <name>RazSein_Bas</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>64d1ffff-2c3a-48a3-8007-f0255054ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="48.018565000" lon="-4.743491667">
+        <time>2014-03-13T17:11:02Z</time>
+        <name>RazSein_SudEst</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>4d1fffff-e87f-4b39-8dee-1c5878a8ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="48.282806667" lon="-4.586306667">
+        <time>2014-03-13T16:51:02Z</time>
+        <name>Camaret_Ater</name>
+        <desc>Devant</desc>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>4a0fffff-e3cf-4656-bce2-a3117b20ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="48.280633333" lon="-4.641745000">
+        <time>2014-03-13T17:18:55Z</time>
+        <name>Toulinguet_ChenalNord</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>0f690000-daf3-43fc-8050-819172a7ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="48.272385000" lon="-4.654271667">
+        <time>2014-03-13T17:19:57Z</time>
+        <name>Toulinguet_LeachNord</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>49f0ffff-3fa8-473f-bb39-b9e15506ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="48.255306667" lon="-4.638413333">
+        <time>2014-03-13T17:22:05Z</time>
+        <name>ToulinguetLeachSudEst</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>7df6ffff-156a-4259-a2cd-59267e99ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.996185653" lon="-4.549458949">
+        <time>2014-03-13T17:42:20Z</time>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>7b22ffff-290a-4be1-9401-5de81ede0000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="48.005995000" lon="-4.548993333">
+        <time>2014-03-13T16:57:38Z</time>
+        <name>SteEvette</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>2d9e0000-d751-431f-8beb-09f4708fffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.756993333" lon="-4.351695000">
+        <time>2014-03-13T16:59:42Z</time>
+        <name>ATT LeGuilvinec_Ater</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>3c1c0000-c789-4ca3-911e-deb3584dffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.746638333" lon="-4.316983333">
+        <time>2014-04-18T21:17:35Z</time>
+        <name>Spineg sud</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>08f00000-5452-4b1f-a111-063c41baffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.761516076" lon="-4.177463533">
+        <time>2014-04-18T21:16:28Z</time>
+        <name>Karek Greiz</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>5980ffff-38a2-4aed-af5d-312a18720000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.770693567" lon="-4.111862727">
+        <time>2014-04-18T21:15:42Z</time>
+        <name>Rostolou</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>21be0000-aa79-43ff-af97-e1690be70000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.799376667" lon="-4.070901667">
+        <time>2014-04-18T21:13:53Z</time>
+        <name>Men Dehou</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>06310000-ec05-4fb0-bcb1-1bae409effff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.807808333" lon="-4.037316667">
+        <time>2014-04-18T21:12:54Z</time>
+        <name>La voleuse</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>25e20000-2d46-402e-96e1-96795cc7ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.841106667" lon="-3.939386667">
+        <time>2014-04-18T21:12:15Z</time>
+        <name>ATT PlF Concarneau</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>4c1cffff-6f16-4209-a422-0fee03b10000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.627255000" lon="-4.028213333">
+        <time>2014-04-18T21:23:14Z</time>
+        <name>Glenans jument sud</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>12900000-b909-47b6-a9b8-5d281a2a0000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.422721667" lon="-3.081083333">
+        <time>2014-04-18T21:26:33Z</time>
+        <name>ATT Teignouse sud</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>77bcffff-7568-4a91-99d6-5e360fb60000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.495190000" lon="-2.511068333">
+        <time>2014-07-03T17:43:24Z</time>
+        <name>Varlingue!!!</name>
+        <desc>DANGER</desc>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>165f0000-731a-4621-99bc-f0011f280000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.506003333" lon="-2.479451667">
+        <time>2014-07-03T17:44:04Z</time>
+        <name>Vilaine_Entree</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>706effff-0220-4f7f-b0dd-e4a702000000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.492151667" lon="-2.505645000">
+        <time>2014-07-03T17:45:22Z</time>
+        <name>Varlingue</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>12860000-7582-46ae-b2b4-201e7543ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.378423333" lon="-2.586866667">
+        <time>2014-07-03T17:45:59Z</time>
+        <name>Bayonelles</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>4aaaffff-6d2a-49c7-80a7-314a3ebc0000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.419701667" lon="-2.582236667">
+        <time>2014-07-03T17:47:43Z</time>
+        <name>Dumet_Basse_EST</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>3c290000-a371-4160-b243-133e565bffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.342361667" lon="-2.515103333">
+        <time>2014-07-03T17:48:28Z</time>
+        <name>LaTurballe</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>22440000-0652-4000-97dc-1a226cf0ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <rte>
+        <name>BrestMoulinBlanc - RazSein_NordEst</name>
+        <extensions>
+            <opencpn:start>Brest Moulin Blanc</opencpn:start>
+            <opencpn:end>Raz de Sein</opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>6160ffff-b697-4fc8-b15e-cb5516f30000</opencpn:guid>
+        </extensions>
+        <rtept lat="48.390648333" lon="-4.429458333">
+            <time>2014-03-11T22:41:36Z</time>
+            <name>Brest Moulin Blanc</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>44f5ffff-f245-4761-90bf-5fac57c7ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+        <rtept lat="48.391090592" lon="-4.427062677">
+            <time>2014-03-11T22:45:59Z</time>
+            <name>002</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>2abe0000-4f8a-4f36-acb1-3c3e647bffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.390039055" lon="-4.419514918">
+            <time>2014-03-11T22:46:08Z</time>
+            <name>003</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>50d6ffff-10be-4653-91aa-2aec15360000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.377855059" lon="-4.424259028">
+            <time>2014-03-11T22:46:12Z</time>
+            <name>004</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>29410000-e5d3-4afc-b8a9-f6fb02ce0000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.366700518" lon="-4.475358632">
+            <time>2014-03-11T22:46:23Z</time>
+            <name>005</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>5672ffff-946f-40fb-9f2d-86f13f040000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.351797731" lon="-4.523272478">
+            <time>2014-03-11T22:46:38Z</time>
+            <name>006</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>75a7ffff-003e-4e0a-9662-60b632d00000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.347458028" lon="-4.541662977">
+            <time>2014-03-11T22:46:44Z</time>
+            <name>007</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>4f85ffff-ca29-430e-a86b-209c2b850000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.335499792" lon="-4.572047279">
+            <time>2014-03-11T22:46:59Z</time>
+            <name>008</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>4187ffff-926b-45f4-b310-dbf74049ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.325089415" lon="-4.587572591">
+            <time>2014-03-11T22:47:11Z</time>
+            <name>009</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>31de0000-0836-4e58-89f9-ec8319050000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.280180739" lon="-4.651379427">
+            <time>2014-03-11T22:47:57Z</time>
+            <name>010</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>225b0000-2956-4266-8b95-d9b96d78ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.266277900" lon="-4.651246381">
+            <time>2014-03-11T22:48:18Z</time>
+            <name>011</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>2bba0000-2b50-45ed-9c8b-36ae7601ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.244126145" lon="-4.645809171">
+            <time>2014-03-13T17:07:27Z</time>
+            <name>012</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>007c0000-42ac-4b45-95c9-c7856d48ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.080211667" lon="-4.746156667">
+            <time>2014-03-13T17:02:37Z</time>
+            <name>RazSein_NordEst</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>1dde0000-cdcb-46ac-9efa-aa4d24df0000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+    </rte>
+    <rte>
+        <name>RazSein_NE-SE</name>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>16c20000-a7c5-4e20-8f5a-5ae64867ffff</opencpn:guid>
+        </extensions>
+        <rtept lat="48.080211667" lon="-4.746156667">
+            <time>2014-03-13T17:02:37Z</time>
+            <name>RazSein_NordEst</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>1dde0000-cdcb-46ac-9efa-aa4d24df0000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+        <rtept lat="48.050288333" lon="-4.776275000">
+            <time>2014-03-13T17:08:54Z</time>
+            <name>RazSein_Haut</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>69e8ffff-c1bf-484f-abc5-b0e30da80000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+        <rtept lat="48.034071667" lon="-4.764681667">
+            <time>2014-03-13T17:10:20Z</time>
+            <name>RazSein_Bas</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>64d1ffff-2c3a-48a3-8007-f0255054ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+        <rtept lat="48.018565000" lon="-4.743491667">
+            <time>2014-03-13T17:11:02Z</time>
+            <name>RazSein_SudEst</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>4d1fffff-e87f-4b39-8dee-1c5878a8ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+    </rte>
+    <rte>
+        <name>BrestMoulinBlanc - Camaret</name>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>734effff-b8a5-41b0-91eb-e7c71d550000</opencpn:guid>
+        </extensions>
+        <rtept lat="48.390648333" lon="-4.429458333">
+            <time>2014-03-11T22:41:36Z</time>
+            <name>Brest Moulin Blanc</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>44f5ffff-f245-4761-90bf-5fac57c7ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+        <rtept lat="48.390218966" lon="-4.426255934">
+            <time>2014-03-13T17:30:13Z</time>
+            <name>002</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>75c7ffff-e295-4d40-972e-cd777b89ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.388272043" lon="-4.426788992">
+            <time>2014-03-13T17:30:15Z</time>
+            <name>003</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>467dffff-9cf5-4a48-b36a-201a4863ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.383581423" lon="-4.429987340">
+            <time>2014-03-13T17:30:20Z</time>
+            <name>004</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>5256ffff-5a88-4a38-9597-c47f4913ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.374464454" lon="-4.454508005">
+            <time>2014-03-13T17:30:22Z</time>
+            <name>005</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>7580ffff-e5d5-4497-9c13-26a479d9ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.351620607" lon="-4.524738387">
+            <time>2014-03-13T17:30:27Z</time>
+            <name>006</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>558effff-016e-4fae-9dab-418c6a16ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.340283423" lon="-4.559786947">
+            <time>2014-03-13T17:30:36Z</time>
+            <name>007</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>259a0000-5d34-465e-a099-411630ce0000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.330006922" lon="-4.578177445">
+            <time>2014-03-13T17:30:40Z</time>
+            <name>008</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>6330ffff-aa61-4750-9617-2d1272c0ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.319728349" lon="-4.590437778">
+            <time>2014-03-13T17:31:12Z</time>
+            <name>009</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>3fa50000-dd87-4162-9664-30541b630000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.282806667" lon="-4.586306667">
+            <time>2014-03-13T16:51:02Z</time>
+            <name>Camaret_Ater</name>
+            <desc>Devant</desc>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>4a0fffff-e3cf-4656-bce2-a3117b20ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+    </rte>
+    <rte>
+        <name>Camaret - RazSein_NordEst</name>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>1c730000-bba9-44c5-a695-e79567a8ffff</opencpn:guid>
+        </extensions>
+        <rtept lat="48.282806667" lon="-4.586306667">
+            <time>2014-03-13T16:51:02Z</time>
+            <name>Camaret_Ater</name>
+            <desc>Devant</desc>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>4a0fffff-e3cf-4656-bce2-a3117b20ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+        <rtept lat="48.288658524" lon="-4.594235815">
+            <time>2014-03-13T17:33:04Z</time>
+            <name>002</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>273e0000-3fce-49c8-92bf-e7e37593ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.290387585" lon="-4.601232201">
+            <time>2014-03-13T17:33:09Z</time>
+            <name>003</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>2b2d0000-812d-4949-ade7-2d845999ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.289234884" lon="-4.609094805">
+            <time>2014-03-13T17:33:32Z</time>
+            <name>004</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>20c60000-4b2e-47ae-a040-ac656abdffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.283071929" lon="-4.630083962">
+            <time>2014-03-13T17:33:37Z</time>
+            <name>005</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>6945ffff-b2bf-4adc-9c93-cc05541cffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.280633333" lon="-4.641745000">
+            <time>2014-03-13T17:18:55Z</time>
+            <name>Toulinguet_ChenalNord</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>0f690000-daf3-43fc-8050-819172a7ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+        <rtept lat="48.272385000" lon="-4.654271667">
+            <time>2014-03-13T17:19:57Z</time>
+            <name>Toulinguet_LeachNord</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>49f0ffff-3fa8-473f-bb39-b9e15506ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+        <rtept lat="48.255306667" lon="-4.638413333">
+            <time>2014-03-13T17:22:05Z</time>
+            <name>ToulinguetLeachSudEst</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>7df6ffff-156a-4259-a2cd-59267e99ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+        <rtept lat="48.080211667" lon="-4.746156667">
+            <time>2014-03-13T17:02:37Z</time>
+            <name>RazSein_NordEst</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>1dde0000-cdcb-46ac-9efa-aa4d24df0000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+    </rte>
+    <rte>
+        <name>RazSein_SudEst - Audierne</name>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>4df4ffff-6742-46f4-89cf-491e30170000</opencpn:guid>
+        </extensions>
+        <rtept lat="48.018565000" lon="-4.743491667">
+            <time>2014-03-13T17:11:02Z</time>
+            <name>RazSein_SudEst</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>4d1fffff-e87f-4b39-8dee-1c5878a8ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+        <rtept lat="48.005102676" lon="-4.716972405">
+            <time>2014-03-13T17:43:11Z</time>
+            <name>002</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>20790000-a92b-4bce-a0d9-ad0f365b0000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="48.000822697" lon="-4.688054012">
+            <time>2014-03-13T17:43:13Z</time>
+            <name>003</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>59aeffff-4672-4073-bf86-c3f525dc0000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="47.996364009" lon="-4.651139750">
+            <time>2014-03-13T17:43:14Z</time>
+            <name>004</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>676dffff-df8d-42f7-ac77-391c4437ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="47.992618412" lon="-4.613958959">
+            <time>2014-03-13T17:43:20Z</time>
+            <name>005</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>362a0000-13f0-48a0-b812-18c20bbf0000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="47.989675253" lon="-4.555855644">
+            <time>2014-03-13T17:43:30Z</time>
+            <name>006</name>
+            <sym>diamond</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>75e7ffff-6ba0-4ab8-93c4-5dcc23030000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>0</opencpn:viz_name>
+                <opencpn:auto_name>1</opencpn:auto_name>
+            </extensions>
+        </rtept>
+        <rtept lat="47.996185653" lon="-4.549458949">
+            <time>2014-03-13T17:42:20Z</time>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>7b22ffff-290a-4be1-9401-5de81ede0000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+        <rtept lat="48.005995000" lon="-4.548993333">
+            <time>2014-03-13T16:57:38Z</time>
+            <name>SteEvette</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>2d9e0000-d751-431f-8beb-09f4708fffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+    </rte>
+    <rte>
+        <name>Raz de Seil - ATT Le Guilvinec</name>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>58ceffff-af35-4579-a432-d3e91a010000</opencpn:guid>
+        </extensions>
+        <rtept lat="48.018565000" lon="-4.743491667">
+            <time>2014-03-13T17:11:02Z</time>
+            <name>RazSein_SudEst</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>4d1fffff-e87f-4b39-8dee-1c5878a8ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+        <rtept lat="47.756993333" lon="-4.351695000">
+            <time>2014-03-13T16:59:42Z</time>
+            <name>ATT LeGuilvinec_Ater</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>3c1c0000-c789-4ca3-911e-deb3584dffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+    </rte>
+    <rte>
+        <name>ATT Le Guilvinec - ATT Plf Concarneau</name>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>193b0000-80cf-4591-a23c-cb8356dcffff</opencpn:guid>
+        </extensions>
+        <rtept lat="47.756993333" lon="-4.351695000">
+            <time>2014-03-13T16:59:42Z</time>
+            <name>ATT LeGuilvinec_Ater</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>3c1c0000-c789-4ca3-911e-deb3584dffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+        <rtept lat="47.746638333" lon="-4.316983333">
+            <time>2014-04-18T21:17:35Z</time>
+            <name>Spineg sud</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>08f00000-5452-4b1f-a111-063c41baffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+        <rtept lat="47.761516076" lon="-4.177463533">
+            <time>2014-04-18T21:16:28Z</time>
+            <name>Karek Greiz</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>5980ffff-38a2-4aed-af5d-312a18720000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+        <rtept lat="47.770693567" lon="-4.111862727">
+            <time>2014-04-18T21:15:42Z</time>
+            <name>Rostolou</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>21be0000-aa79-43ff-af97-e1690be70000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+        <rtept lat="47.799376667" lon="-4.070901667">
+            <time>2014-04-18T21:13:53Z</time>
+            <name>Men Dehou</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>06310000-ec05-4fb0-bcb1-1bae409effff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+        <rtept lat="47.807808333" lon="-4.037316667">
+            <time>2014-04-18T21:12:54Z</time>
+            <name>La voleuse</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>25e20000-2d46-402e-96e1-96795cc7ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+        <rtept lat="47.841106667" lon="-3.939386667">
+            <time>2014-04-18T21:12:15Z</time>
+            <name>ATT PlF Concarneau</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>4c1cffff-6f16-4209-a422-0fee03b10000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+    </rte>
+    <rte>
+        <name>ATT Le guilvinec - ATT Teignouse</name>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>0be20000-36a4-4eae-83dd-16865fb8ffff</opencpn:guid>
+        </extensions>
+        <rtept lat="47.756993333" lon="-4.351695000">
+            <time>2014-03-13T16:59:42Z</time>
+            <name>ATT LeGuilvinec_Ater</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>3c1c0000-c789-4ca3-911e-deb3584dffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+        <rtept lat="47.627255000" lon="-4.028213333">
+            <time>2014-04-18T21:23:14Z</time>
+            <name>Glenans jument sud</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>12900000-b909-47b6-a9b8-5d281a2a0000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+        <rtept lat="47.422721667" lon="-3.081083333">
+            <time>2014-04-18T21:26:33Z</time>
+            <name>ATT Teignouse sud</name>
+            <sym>triangle</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>77bcffff-7568-4a91-99d6-5e360fb60000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+                <opencpn:shared>1</opencpn:shared>
+            </extensions>
+        </rtept>
+    </rte>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>2e0e8ce0-428c-4382-90a2-bd173873b298</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="48.449723739" lon="-35.000328217">
+                <time>2011-11-20T15:45:26Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="48.448838357" lon="-4.776989205">
+                <time>2011-11-20T15:45:30Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>0960e630-f939-424f-8105-56c36526621e</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="48.448135838" lon="-35.005084819">
+                <time>2011-11-20T15:49:10Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="6.999945332" lon="-35.000087622">
+                <time>2011-11-20T15:49:20Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>2d0dfe61-8947-4d14-a54c-5f3831ee5b9c</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="6.999945332" lon="-35.000087622">
+                <time>2011-11-20T15:50:23Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="6.999827563" lon="-20.000134138">
+                <time>2011-11-20T15:50:59Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>1f99d01b-2508-4862-bf3f-ab02457a24e3</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="6.999827563" lon="-20.000134138">
+                <time>2011-11-20T15:51:48Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="-6.000228226" lon="-20.000430771">
+                <time>2011-11-20T15:51:51Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>01836800-fbc7-4d0a-8955-fb5f02289f3e</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="-6.000228226" lon="-20.000430771">
+                <time>2011-11-20T15:52:52Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="-5.999697212" lon="12.394728171">
+                <time>2011-11-20T15:52:56Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>11976bbb-dfea-4e85-8276-cf9c564888fd</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="0.000257233" lon="9.347561676">
+                <time>2011-11-20T15:55:30Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="0.000045270" lon="-20.000412837">
+                <time>2011-11-20T15:55:33Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>44f0aa70-b196-493a-95f3-50f00147858f</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="6.999774467" lon="-20.000116204">
+                <time>2011-11-20T15:56:40Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="7.000657732" lon="-11.619703411">
+                <time>2011-11-20T15:56:43Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>7ee0b395-afff-40c8-981d-933f03989a09</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="15.000015964" lon="-35.001018913">
+                <time>2011-11-20T15:58:26Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="15.000015964" lon="-17.070747863">
+                <time>2011-11-20T15:58:29Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>2143bb55-d349-4d7d-8ff8-de1559e9ea10</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="48.449414035" lon="-22.000133732">
+                <time>2011-11-20T16:00:34Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="15.000010758" lon="-22.000005189">
+                <time>2011-11-20T16:00:37Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>0ec10f50-2e12-4e14-91f5-19f0377d65f3</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="25.000062588" lon="-35.001780012">
+                <time>2011-11-20T16:02:31Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="25.000012853" lon="-14.823610413">
+                <time>2011-11-20T16:02:33Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>674c2274-b8b7-4ffe-aaad-b3db6873e299</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="20.000002155" lon="-16.222815700">
+                <time>2011-11-20T16:06:02Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="20.000046754" lon="-22.000108745">
+                <time>2011-11-20T16:06:05Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>19304ee9-d356-4c53-9641-dd0174d6ae34</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="30.000116488" lon="-35.002536416">
+                <time>2011-11-20T16:09:08Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="30.000049697" lon="-9.723695356">
+                <time>2011-11-20T16:09:09Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>0f15075d-0824-4388-9efc-3a92079a7cf3</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="35.000430569" lon="-35.003407398">
+                <time>2011-11-20T16:11:23Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="35.000029641" lon="-6.245297655">
+                <time>2011-11-20T16:11:26Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>61e371a2-1268-4939-b61c-0ae52e9f80bb</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="35.000103144" lon="-11.999997910">
+                <time>2011-11-20T16:14:25Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="48.449052467" lon="-12.000021640">
+                <time>2011-11-20T16:14:27Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>0670e4cb-3c40-4d98-b3c3-295c5e542732</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="40.000009860" lon="-35.003880563">
+                <time>2011-11-20T16:16:49Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="40.000005315" lon="-12.000021954">
+                <time>2011-11-20T16:16:51Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>41f80d28-115e-4e33-a422-78c70a0a76d6</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="45.000272490" lon="-35.004826822">
+                <time>2011-11-20T16:18:13Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="45.000012924" lon="-1.204145249">
+                <time>2011-11-20T16:18:16Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>28e37396-7f3e-4583-a499-cf826e2d8c86</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="35.000153539" lon="-13.000036577">
+                <time>2011-11-20T16:20:06Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="27.851220420" lon="-13.000006914">
+                <time>2011-11-20T16:20:08Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>4e4f9baa-404b-4c3d-bfea-a6cc396a73b4</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="32.000023829" lon="-12.999977250">
+                <time>2011-11-20T16:22:20Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="32.000023829" lon="-9.381382413">
+                <time>2011-11-20T16:22:22Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>73a91d09-bd52-4bd6-b5b6-e881705e822f</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="35.000051407" lon="-7.500006172">
+                <time>2011-11-20T16:24:50Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="37.169269039" lon="-7.500012104">
+                <time>2011-11-20T16:24:53Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>2e0e9736-5647-44ec-a1b4-c9997b06bdce</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="35.564663526" lon="-6.000165102">
+                <time>2011-11-20T16:26:40Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="36.184905387" lon="-6.000924482">
+                <time>2011-11-20T16:26:44Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>64a574d8-4ef5-469d-8cbf-5d440c77c275</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="39.000002589" lon="-12.000009926">
+                <time>2011-11-20T16:28:32Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="39.000371431" lon="-9.424655180">
+                <time>2011-11-20T16:28:35Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>45cf3bfa-332c-4657-af6d-a9ec092caffb</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="41.833288706" lon="-11.999950599">
+                <time>2011-11-20T16:29:39Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="41.833642333" lon="-8.874507925">
+                <time>2011-11-20T16:30:42Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>5fde093a-3a2b-4864-b2dc-7e4e37ba8a99</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="45.000054674" lon="-7.000016532">
+                <time>2011-11-20T16:32:00Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="43.553023819" lon="-6.999969071">
+                <time>2011-11-20T16:32:23Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>4e948737-5832-4fe8-a855-2db20967ae6d</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="48.448882741" lon="-6.000013720">
+                <time>2011-11-20T16:34:30Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="45.000058869" lon="-5.999995922">
+                <time>2011-11-20T16:34:32Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>672c8ea7-dff3-4365-ba33-514a6126418d</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="46.500005340" lon="-6.000019653">
+                <time>2011-11-20T16:36:55Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="46.499999214" lon="-1.815142349">
+                <time>2011-11-20T16:36:58Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>4d92cd62-e56e-457d-902f-ef7e7761e446</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="47.500003393" lon="-2.444662566">
+                <time>2011-11-20T16:38:43Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="47.499999385" lon="-6.000009271">
+                <time>2011-11-20T16:38:46Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>3f1b1040-1caa-4717-a502-dab451fc1cf6</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="36.924760805" lon="-2.001103154">
+                <time>2011-11-20T16:45:00Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="35.057205671" lon="-1.998862017">
+                <time>2011-11-20T16:45:02Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>5a09cc7a-695f-47c1-bdd2-89936b3d368c</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="36.499866662" lon="-5.003106323">
+                <time>2011-11-20T16:46:50Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="35.375106920" lon="-5.000304901">
+                <time>2011-11-20T16:46:52Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>1422da75-a01a-4595-a428-11d0745d7a28</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="14.999958785" lon="-64.999996483">
+                <time>2011-11-21T10:09:58Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="15.000025999" lon="-35.001086621">
+                <time>2011-11-21T10:10:01Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>7cf5cba4-7236-47ef-a3c0-087e1c67ae69</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="14.999974425" lon="-64.999996903">
+                <time>2011-11-21T10:11:32Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="20.000003052" lon="-64.999996903">
+                <time>2011-11-21T10:11:35Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>6f9249a9-fc0a-4867-97c9-ea2752d42035</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="20.000003052" lon="-64.999996903">
+                <time>2011-11-21T10:12:48Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="20.000069950" lon="-57.000116791">
+                <time>2011-11-21T10:12:49Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>1ca51c9e-13f1-4d0f-8c5f-0a246fc70dbe</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="10.000010252" lon="-56.999995829">
+                <time>2011-11-21T10:14:13Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="19.999936037" lon="-56.999960233">
+                <time>2011-11-21T10:14:16Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>16d93d58-cc5f-4e2d-984e-2ccc01beea94</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="9.999998116" lon="-56.999995829">
+                <time>2011-11-21T10:15:15Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="10.000009801" lon="-62.450090948">
+                <time>2011-11-21T10:15:25Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>04c0798a-efe8-42c5-8350-89364dabb309</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="9.999998116" lon="-64.999994593">
+                <time>2011-11-21T10:16:11Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="14.999985324" lon="-65.000006459">
+                <time>2011-11-21T10:16:13Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>380faffd-570b-4827-87a0-e6c605c09245</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="20.000114002" lon="-60.000128850">
+                <time>2011-11-21T10:17:14Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="35.000047405" lon="-60.000069524">
+                <time>2011-11-21T10:17:16Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>46d997a8-148f-49c5-9ea7-b6b13ce11003</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="35.000047405" lon="-60.000069524">
+                <time>2011-11-21T10:18:03Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="35.000436184" lon="-35.003410012">
+                <time>2011-11-21T10:18:05Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>67595d16-1513-43a3-87d6-fbab57b86538</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="28.000002711" lon="-60.000307444">
+                <time>2011-11-21T10:18:53Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="28.000002711" lon="-35.002164154">
+                <time>2011-11-21T10:18:55Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>3c74d4d0-6e38-4bcd-88cd-c3af1fedb793</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="14.999967909" lon="-49.999922923">
+                <time>2011-11-21T10:20:08Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="39.999967449" lon="-50.000160230">
+                <time>2011-11-21T10:20:11Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>6e20ff9c-c53f-44e3-be14-b43f0ff72ede</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="39.999967449" lon="-50.000160230">
+                <time>2011-11-21T10:20:43Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="40.000001534" lon="-35.003872759">
+                <time>2011-11-21T10:20:45Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>524d2cfa-d4f2-444f-8436-4bc265bf695e</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="39.999937909" lon="-45.000056516">
+                <time>2011-11-21T10:22:33Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="48.449992928" lon="-44.999997190">
+                <time>2011-11-21T10:22:39Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>3e9c6eac-f345-4fa9-b3f0-5c233b906354</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="48.449709484" lon="-35.000085351">
+                <time>2011-11-21T10:23:59Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="48.449996738" lon="-44.999983395">
+                <time>2011-11-21T10:24:02Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>33392141-782e-4160-81e1-85406c730c0c</opencpn:guid>
+        </extensions>
+        <trkseg>
+            <trkpt lat="44.999996356" lon="-45.000007125">
+                <time>2011-11-21T10:24:50Z</time>
+                <name>001</name>
+                <sym>empty</sym>
+            </trkpt>
+            <trkpt lat="45.000172547" lon="-35.004713267">
+                <time>2011-11-21T10:24:52Z</time>
+                <name>002</name>
+                <sym>empty</sym>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>
