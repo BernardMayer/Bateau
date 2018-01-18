@@ -1,0 +1,564 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+  <wpt lat="47.501276337" lon="-2.362091936">
+    <time>2016-01-02T11:57:41Z</time>
+    <name>wp_001</name>
+    <desc>desc ligne 1
+desc ligne 2
+special chars "'(-è_çà)= az\ hfdh /! ; , ? ù*$é ç ^ aqw$</desc>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>61e3ffff-5bb8-4299-8321-f02545f9ffff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.500122474" lon="-2.361985188">
+    <time>2016-01-02T12:08:01Z</time>
+    <name>wp_002</name>
+    <desc>empty</desc>
+    <sym>empty</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>43a1ffff-f47f-4d25-a853-d6751b980000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.503259481" lon="-2.359369880">
+    <time>2016-01-02T12:08:40Z</time>
+    <name>wp_003</name>
+    <desc>airplane</desc>
+    <sym>airplane</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3c950000-99a5-4c53-a2da-79dc6914ffff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.501816667" lon="-2.359476667">
+    <time>2016-01-02T12:09:52Z</time>
+    <name>wp_004</name>
+    <desc>anchorage</desc>
+    <sym>anchorage</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>76a8ffff-6ffe-4a74-b7d2-56c2342b0000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.500555176" lon="-2.359476627">
+    <time>2016-01-02T12:10:32Z</time>
+    <name>wp_005</name>
+    <desc>anchor</desc>
+    <sym>anchor</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>58a5ffff-e937-4571-af93-a1a322240000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.504016667" lon="-2.357128333">
+    <time>2016-01-02T12:11:22Z</time>
+    <name>wp_006</name>
+    <desc>Boarding location</desc>
+    <sym>boarding</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>23b00000-0a6a-4432-96a7-498279e0ffff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.502394119" lon="-2.357021439">
+    <time>2016-01-02T12:11:52Z</time>
+    <name>wp_007</name>
+    <desc>Boundary Mark</desc>
+    <sym>boundary</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>6be5ffff-4032-42d8-9b15-afd13e9c0000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.500987874" lon="-2.356968066">
+    <time>2016-01-02T12:12:39Z</time>
+    <name>wp_008</name>
+    <desc>Bouy type A</desc>
+    <sym>bouy1</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0c6e0000-2cc6-4569-a3df-360e21200000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.499906122" lon="-2.357074813">
+    <time>2016-01-02T12:13:22Z</time>
+    <name>wp_009</name>
+    <desc>Bouy type B</desc>
+    <sym>bouy2</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>12d60000-4948-4334-bcde-09b04dd5ffff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.504521443" lon="-2.354672999">
+    <time>2016-01-02T12:13:56Z</time>
+    <name>wp_010</name>
+    <desc>Campfire</desc>
+    <sym>campfire</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>250c0000-c107-4784-9c64-b4392b2a0000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.502971028" lon="-2.354512878">
+    <time>2016-01-02T12:14:28Z</time>
+    <name>wp_011</name>
+    <desc>Camping spot</desc>
+    <sym>camping</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>12b40000-dedf-49bd-a1f8-e3d742feffff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.501348453" lon="-2.354566251">
+    <time>2016-01-02T12:15:07Z</time>
+    <name>wp_012</name>
+    <desc>Coral</desc>
+    <sym>coral</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>25c10000-fb73-4d04-8b90-b4074607ffff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.499978239" lon="-2.354246009">
+    <time>2016-01-02T12:15:37Z</time>
+    <name>wp_013</name>
+    <desc>Fish haven</desc>
+    <sym>fishhaven</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>573fffff-677c-4c05-9f38-7b5c20e30000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.506720789" lon="-2.351790822">
+    <time>2016-01-02T12:16:51Z</time>
+    <name>wp_014</name>
+    <desc>Fishing spot</desc>
+    <sym>fishing</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>02f40000-a4c9-4227-88d5-1dbc0bf30000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.505350715" lon="-2.351790822">
+    <time>2016-01-02T12:17:22Z</time>
+    <name>wp_015</name>
+    <desc>Fish</desc>
+    <sym>fish</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>25f00000-f971-41a7-aef1-82610c800000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.503980606" lon="-2.351630701">
+    <time>2016-01-02T12:17:59Z</time>
+    <name>wp_016</name>
+    <desc>Float</desc>
+    <sym>float</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>15080000-ee83-4723-a4a9-c6a307a60000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.502502290" lon="-2.351363832">
+    <time>2016-01-02T12:18:42Z</time>
+    <name>wp_017</name>
+    <desc>Food</desc>
+    <sym>food</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>368c0000-e647-4567-8179-6f6c1f9a0000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.501240280" lon="-2.351470580">
+    <time>2016-01-02T12:19:10Z</time>
+    <name>wp_018</name>
+    <desc>Fuel</desc>
+    <sym>fuel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4423ffff-9725-4221-b813-5b986c19ffff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.499942180" lon="-2.351470580">
+    <time>2016-01-02T12:19:37Z</time>
+    <name>wp_019</name>
+    <desc>Green light</desc>
+    <sym>greenlite</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4571ffff-f42d-4395-853a-0cfa4ec2ffff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.511129048" lon="-2.349084688">
+    <time>2016-01-03T18:23:16Z</time>
+    <name>wp_020</name>
+    <desc>kelp</desc>
+    <sym>kelp</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>01c60000-c847-40b2-96ba-27b41e0e0000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.509614880" lon="-2.349084688">
+    <time>2016-01-03T18:23:52Z</time>
+    <name>wp_021</name>
+    <desc>Light type A</desc>
+    <sym>light1</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>6119ffff-f1d9-4980-8a23-38a005650000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.508172773" lon="-2.348924566">
+    <time>2016-01-03T18:24:29Z</time>
+    <name>wp_022</name>
+    <desc>Light type B</desc>
+    <sym>light</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>18b90000-f36f-4376-a96a-67821fce0000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.506622465" lon="-2.348817819">
+    <time>2016-01-03T18:25:35Z</time>
+    <name>wp_023</name>
+    <desc>Light vessel</desc>
+    <sym>litevessel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>315c0000-3404-4997-8099-a603372e0000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.504748333" lon="-2.348551667">
+    <time>2016-01-03T18:26:04Z</time>
+    <name>wp_024</name>
+    <desc>MOB ! INAMOVIBLE !</desc>
+    <sym>mob</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>5524ffff-a9f3-4977-a445-2d7e6383ffff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.503341429" lon="-2.348550950">
+    <time>2016-01-03T18:26:43Z</time>
+    <name>wp_025</name>
+    <desc>Mooring bouy</desc>
+    <sym>mooring</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>5b05ffff-1c02-4f7b-892e-54263b210000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.502007322" lon="-2.348284082">
+    <time>2016-01-03T18:28:56Z</time>
+    <name>wp_026</name>
+    <desc>Oil bouy</desc>
+    <sym>oilbouy</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>36380000-a3b9-4243-a368-7bb033260000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.500528949" lon="-2.348390829">
+    <time>2016-01-03T18:29:38Z</time>
+    <name>wp_027</name>
+    <desc>Platform</desc>
+    <sym>platform</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>113e0000-40be-48dc-b5b5-5d6633c60000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.511777965" lon="-2.345668769">
+    <time>2016-01-03T18:31:00Z</time>
+    <name>wp_028</name>
+    <desc>Red/green light</desc>
+    <sym>redgreenlite</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4e18ffff-895b-4360-a85b-50ae4edbffff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.510480124" lon="-2.345668769">
+    <time>2016-01-03T18:31:32Z</time>
+    <name>wp_029</name>
+    <desc>Red light</desc>
+    <sym>redlite</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>115f0000-ef1b-481c-91ea-247a33720000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.509146199" lon="-2.345722143">
+    <time>2016-01-03T18:31:55Z</time>
+    <name>wp_030</name>
+    <desc>Rock (exposed)</desc>
+    <sym>rock1</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0a920000-5b4e-41f2-9e9f-74ae68f4ffff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.507848294" lon="-2.345668769">
+    <time>2016-01-03T18:32:55Z</time>
+    <name>wp_031</name>
+    <desc>Rock (awash)</desc>
+    <sym>rock2</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>20a80000-8eb7-410d-923e-520c755effff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.506514302" lon="-2.345508648">
+    <time>2016-01-03T18:33:32Z</time>
+    <name>wp_032</name>
+    <desc>Sand</desc>
+    <sym>sand</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>6957ffff-fb1d-4dec-aa89-b35342a9ffff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.505145000" lon="-2.345401667">
+    <time>2016-01-03T18:33:54Z</time>
+    <name>wp_033</name>
+    <desc>Scuba</desc>
+    <sym>scuba</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>5b5cffff-e63b-4f04-a7d9-acff62b8ffff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.503810161" lon="-2.345401901">
+    <time>2016-01-03T18:34:17Z</time>
+    <name>wp_034</name>
+    <desc>Shoal</desc>
+    <sym>shoal</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0c530000-dcc3-4d22-a3ea-632c7867ffff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.502476066" lon="-2.345401901">
+    <time>2016-01-03T18:34:45Z</time>
+    <name>wp_035</name>
+    <desc>Snag</desc>
+    <sym>snag</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>09830000-c5db-4048-bacb-6b1c572cffff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.501106667" lon="-2.345508333">
+    <time>2016-01-03T18:35:28Z</time>
+    <name>wp_036</name>
+    <desc>Square</desc>
+    <sym>square</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>337c0000-7e7c-4abb-a933-5c502b540000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.499807776" lon="-2.345455274">
+    <time>2016-01-03T18:36:00Z</time>
+    <name>wp_037</name>
+    <desc>Triangle
+(par défaut)</desc>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4fbcffff-d151-4b40-9218-923320a40000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.511345000" lon="-2.341986667">
+    <time>2016-01-03T18:37:04Z</time>
+    <name>wp_038</name>
+    <desc>Diamond</desc>
+    <sym>diamond</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>09230000-da09-425f-bacb-7c183b450000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.510048333" lon="-2.342360000">
+    <time>2016-01-03T18:37:26Z</time>
+    <name>wp_039</name>
+    <desc>Circle</desc>
+    <sym>circle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>02ed0000-80dd-4654-be79-e88f5c29ffff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.508785673" lon="-2.342146103">
+    <time>2016-01-03T18:37:45Z</time>
+    <name>wp_040</name>
+    <desc>Wreck A</desc>
+    <sym>wreck1</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3ac10000-b2eb-4cc0-b50c-ac597f6effff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.507487759" lon="-2.342146103">
+    <time>2016-01-03T18:38:20Z</time>
+    <name>wp_041</name>
+    <desc>Wreck B</desc>
+    <sym>wreck2</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>33ae0000-9ba1-4be7-910b-65b826370000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.506334030" lon="-2.342039356">
+    <time>2016-01-03T18:38:50Z</time>
+    <name>wp_042</name>
+    <desc>Blue X</desc>
+    <sym>xmblue</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>5b9fffff-9147-4d99-ab01-39022d680000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.505180276" lon="-2.342039356">
+    <time>2016-01-03T18:39:31Z</time>
+    <name>wp_043</name>
+    <desc>Green X</desc>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>42c1ffff-03ee-407e-8842-b36526ca0000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.504063333" lon="-2.341933333">
+    <time>2016-01-03T18:40:08Z</time>
+    <name>wp_044</name>
+    <desc>Red X</desc>
+    <sym>xmred</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>57ffffff-8237-4a01-b6c6-2fa8355b0000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.502331838" lon="-2.341879235">
+    <time>2016-01-03T18:40:34Z</time>
+    <name>wp_045</name>
+    <desc>Active WP</desc>
+    <sym>activepoint</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>09fe0000-50ba-4935-8a81-b8b5621dffff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.500276667" lon="-2.341718333">
+    <time>2016-01-03T18:41:20Z</time>
+    <name>wp_045</name>
+    <desc>avec links...</desc>
+    <link href="http://www.hisse-et-oh.com/forums">
+      <text>ceci est Link description</text>
+    </link>
+    <link href="file:/C:/Users/Bernard/Downloads/wpsdb/wp_00-extend.png">
+      <text>ceci est local file</text>
+    </link>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>1e7e0000-7a30-4017-9a5b-b0e9177e0000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+</gpx>

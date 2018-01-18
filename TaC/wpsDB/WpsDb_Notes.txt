@@ -1,0 +1,4 @@
+module latlon
+doc gpsbabel
+doc format gpx
+
