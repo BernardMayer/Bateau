@@ -1,0 +1,151 @@
+#VIKING GPS Data file http://viking.sf.net/
+
+xmpp=4,000000
+ympp=4,000000
+lat=45,084925
+lon=-1,127434
+mode=mercator
+color=#cccccc
+drawscale=t
+drawcentermark=t
+
+~Layer TrackWaypoint
+name=20110619_coupeMalignac_manche02.gpx
+tracks_visible=t
+waypoints_visible=t
+drawmode=0
+drawlines=t
+drawpoints=t
+drawelevation=f
+elevation_factor=30
+drawstops=f
+stop_length=60
+line_thickness=1
+bg_line_thickness=0
+trackbgcolor=#ffffff
+velocity_min=0,000000
+velocity_max=5,000000
+drawlabels=t
+wpcolor=#000000
+wptextcolor=#ffffff
+wpbgcolor=#8482c6
+wpbgand=t
+wpsymbol=0
+wpsize=4
+wpsyms=t
+drawimages=t
+image_size=64
+image_alpha=255
+image_cache_size=300
+
+
+~LayerData
+type="waypointlist"
+type="waypointlistend"
+type="track" name="20110619 Coupe de Malignac manche 2"
+type="trackpoint" latitude="45.119018333" longitude="-1.1131850000000001" unixtime="1308487295" newsegment="yes"
+type="trackpoint" latitude="45.120181666999997" longitude="-1.1134466670000001" unixtime="1308487355"
+type="trackpoint" latitude="45.119988333000002" longitude="-1.114393333" unixtime="1308487415"
+type="trackpoint" latitude="45.11862" longitude="-1.114455" unixtime="1308487475"
+type="trackpoint" latitude="45.118253332999998" longitude="-1.11442" unixtime="1308487535"
+type="trackpoint" latitude="45.117261667000001" longitude="-1.114865" unixtime="1308487595"
+type="trackpoint" latitude="45.117103333000003" longitude="-1.1159666669999999" unixtime="1308487655"
+type="trackpoint" latitude="45.117433333000001" longitude="-1.11727" unixtime="1308487715"
+type="trackpoint" latitude="45.117035000000001" longitude="-1.118398333" unixtime="1308487775"
+type="trackpoint" latitude="45.116251667" longitude="-1.1196516670000001" unixtime="1308487835"
+type="trackpoint" latitude="45.115516667000001" longitude="-1.1208583329999999" unixtime="1308487895"
+type="trackpoint" latitude="45.115331667" longitude="-1.121871667" unixtime="1308487955"
+type="trackpoint" latitude="45.116304999999997" longitude="-1.122973333" unixtime="1308488015"
+type="trackpoint" latitude="45.117366666999999" longitude="-1.1239600000000001" unixtime="1308488075"
+type="trackpoint" latitude="45.117789999999999" longitude="-1.1247050000000001" unixtime="1308488135"
+type="trackpoint" latitude="45.117224999999998" longitude="-1.1258999999999999" unixtime="1308488195"
+type="trackpoint" latitude="45.116635000000002" longitude="-1.1274116670000001" unixtime="1308488255"
+type="trackpoint" latitude="45.116478333000003" longitude="-1.128488333" unixtime="1308488315"
+type="trackpoint" latitude="45.115606667000002" longitude="-1.129443333" unixtime="1308488375"
+type="trackpoint" latitude="45.115589999999997" longitude="-1.130696667" unixtime="1308488436"
+type="trackpoint" latitude="45.116101667000002" longitude="-1.1311" unixtime="1308488496"
+type="trackpoint" latitude="45.116356666999998" longitude="-1.1310133330000001" unixtime="1308488556"
+type="trackpoint" latitude="45.116509999999998" longitude="-1.1307116669999999" unixtime="1308488616"
+type="trackpoint" latitude="45.116136666999999" longitude="-1.130188333" unixtime="1308488676"
+type="trackpoint" latitude="45.116008333000003" longitude="-1.1288016670000001" unixtime="1308488736"
+type="trackpoint" latitude="45.115831667000002" longitude="-1.127515" unixtime="1308488796"
+type="trackpoint" latitude="45.115504999999999" longitude="-1.125845" unixtime="1308488856"
+type="trackpoint" latitude="45.115338332999997" longitude="-1.124285" unixtime="1308488916"
+type="trackpoint" latitude="45.115189999999998" longitude="-1.1224016670000001" unixtime="1308488976"
+type="trackpoint" latitude="45.115051667000003" longitude="-1.1209466669999999" unixtime="1308489036"
+type="trackpoint" latitude="45.114981667000002" longitude="-1.1193583330000001" unixtime="1308489096"
+type="trackpoint" latitude="45.114733332999997" longitude="-1.1174866670000001" unixtime="1308489156"
+type="trackpoint" latitude="45.114759999999997" longitude="-1.1159683330000001" unixtime="1308489216"
+type="trackpoint" latitude="45.114746666999999" longitude="-1.1142749999999999" unixtime="1308489276"
+type="trackpoint" latitude="45.114735000000003" longitude="-1.112355" unixtime="1308489336"
+type="trackpoint" latitude="45.114756667000002" longitude="-1.110635" unixtime="1308489396"
+type="trackpoint" latitude="45.114705000000001" longitude="-1.1093299999999999" unixtime="1308489456"
+type="trackpoint" latitude="45.114661667" longitude="-1.1083149999999999" unixtime="1308489516"
+type="trackpoint" latitude="45.114698333" longitude="-1.107105" unixtime="1308489576"
+type="trackpoint" latitude="45.115108333000002" longitude="-1.1066416670000001" unixtime="1308489637"
+type="trackpoint" latitude="45.115955" longitude="-1.1078916670000001" unixtime="1308489697"
+type="trackpoint" latitude="45.116733332999999" longitude="-1.109466667" unixtime="1308489757"
+type="trackpoint" latitude="45.117553332999996" longitude="-1.1109216669999999" unixtime="1308489817"
+type="trackpoint" latitude="45.118400000000001" longitude="-1.1123966670000001" unixtime="1308489877"
+type="trackpoint" latitude="45.119288333" longitude="-1.1138349999999999" unixtime="1308489937"
+type="trackpoint" latitude="45.120191667" longitude="-1.1152983329999999" unixtime="1308489997"
+type="trackpoint" latitude="45.120933333000004" longitude="-1.1165016670000001" unixtime="1308490057"
+type="trackpoint" latitude="45.121924999999997" longitude="-1.1178699999999999" unixtime="1308490117"
+type="trackpoint" latitude="45.122985" longitude="-1.1194249999999999" unixtime="1308490177"
+type="trackpoint" latitude="45.123955000000002" longitude="-1.120773333" unixtime="1308490237"
+type="trackpoint" latitude="45.125006667000001" longitude="-1.1220950000000001" unixtime="1308490297"
+type="trackpoint" latitude="45.126121667" longitude="-1.123331667" unixtime="1308490357"
+type="trackpoint" latitude="45.127139999999997" longitude="-1.1243700000000001" unixtime="1308490417"
+type="trackpoint" latitude="45.127789999999997" longitude="-1.1251066670000001" unixtime="1308490477"
+type="trackpoint" latitude="45.128331666999998" longitude="-1.1258550000000001" unixtime="1308490537"
+type="trackpoint" latitude="45.128978332999999" longitude="-1.1270133330000001" unixtime="1308490597"
+type="trackpoint" latitude="45.129816667" longitude="-1.12818" unixtime="1308490657"
+type="trackpoint" latitude="45.130988332999998" longitude="-1.12913" unixtime="1308490718"
+type="trackpoint" latitude="45.131081666999997" longitude="-1.12958" unixtime="1308490778"
+type="trackpoint" latitude="45.129743333" longitude="-1.1292066670000001" unixtime="1308490838"
+type="trackpoint" latitude="45.128506667000003" longitude="-1.128898333" unixtime="1308490898"
+type="trackpoint" latitude="45.127056666999998" longitude="-1.1284666670000001" unixtime="1308490958"
+type="trackpoint" latitude="45.12603" longitude="-1.128041667" unixtime="1308491018"
+type="trackpoint" latitude="45.124853332999997" longitude="-1.127608333" unixtime="1308491078"
+type="trackpoint" latitude="45.12379" longitude="-1.1272583329999999" unixtime="1308491138"
+type="trackpoint" latitude="45.122406667" longitude="-1.1268149999999999" unixtime="1308491198"
+type="trackpoint" latitude="45.121079999999999" longitude="-1.1262000000000001" unixtime="1308491258"
+type="trackpoint" latitude="45.119733332999999" longitude="-1.1255633330000001" unixtime="1308491318"
+type="trackpoint" latitude="45.118406667000002" longitude="-1.1249100000000001" unixtime="1308491378"
+type="trackpoint" latitude="45.117085000000003" longitude="-1.124495" unixtime="1308491438"
+type="trackpoint" latitude="45.115903332999999" longitude="-1.1241350000000001" unixtime="1308491498"
+type="trackpoint" latitude="45.114780000000003" longitude="-1.123666667" unixtime="1308491558"
+type="trackpoint" latitude="45.113708332999998" longitude="-1.1231500000000001" unixtime="1308491618"
+type="trackpoint" latitude="45.112226667000002" longitude="-1.122663333" unixtime="1308491678"
+type="trackpoint" latitude="45.111020000000003" longitude="-1.122193333" unixtime="1308491738"
+type="trackpoint" latitude="45.109850000000002" longitude="-1.121608333" unixtime="1308491798"
+type="trackpoint" latitude="45.10859" longitude="-1.1210066670000001" unixtime="1308491858"
+type="trackpoint" latitude="45.107190000000003" longitude="-1.1204149999999999" unixtime="1308491919"
+type="trackpoint" latitude="45.105703333000001" longitude="-1.1197216670000001" unixtime="1308491979"
+type="trackpoint" latitude="45.104223333" longitude="-1.119005" unixtime="1308492039"
+type="trackpoint" latitude="45.102738332999998" longitude="-1.1183133329999999" unixtime="1308492099"
+type="trackpoint" latitude="45.101358333" longitude="-1.1177216670000001" unixtime="1308492159"
+type="trackpoint" latitude="45.099931667" longitude="-1.1172216669999999" unixtime="1308492219"
+type="trackpoint" latitude="45.098658333000003" longitude="-1.116698333" unixtime="1308492279"
+type="trackpoint" latitude="45.097208332999998" longitude="-1.1161733330000001" unixtime="1308492339"
+type="trackpoint" latitude="45.095756667000003" longitude="-1.1155200000000001" unixtime="1308492399"
+type="trackpoint" latitude="45.094411667000003" longitude="-1.1148" unixtime="1308492459"
+type="trackpoint" latitude="45.093091667000003" longitude="-1.114125" unixtime="1308492519"
+type="trackpoint" latitude="45.091663333" longitude="-1.1134466670000001" unixtime="1308492579"
+type="trackpoint" latitude="45.090254999999999" longitude="-1.1127066670000001" unixtime="1308492639"
+type="trackpoint" latitude="45.088881667000003" longitude="-1.112093333" unixtime="1308492699"
+type="trackpoint" latitude="45.087631666999997" longitude="-1.1115699999999999" unixtime="1308492759"
+type="trackpoint" latitude="45.086426666999998" longitude="-1.1113850000000001" unixtime="1308492820"
+type="trackpoint" latitude="45.085135000000001" longitude="-1.111623333" unixtime="1308492880"
+type="trackpoint" latitude="45.083970000000001" longitude="-1.1124383330000001" unixtime="1308492940"
+type="trackpoint" latitude="45.08278" longitude="-1.1131533330000001" unixtime="1308493000"
+type="trackpoint" latitude="45.083048333000001" longitude="-1.1143733330000001" unixtime="1308493060"
+type="trackpoint" latitude="45.083318333000001" longitude="-1.115243333" unixtime="1308493120"
+type="trackpoint" latitude="45.082671667" longitude="-1.1162749999999999" unixtime="1308493180"
+type="trackpoint" latitude="45.081878332999999" longitude="-1.117645" unixtime="1308493240"
+type="trackpoint" latitude="45.081200000000003" longitude="-1.1190583329999999" unixtime="1308493300"
+type="trackpoint" latitude="45.081969999999998" longitude="-1.12015" unixtime="1308493360"
+type="trackend"
+~EndLayerData
+~EndLayer
+

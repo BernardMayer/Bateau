@@ -1,0 +1,93 @@
+#VIKING GPS Data file http://viking.sf.net/
+FILE_VERSION=1
+
+xmpp=1,000000
+ympp=1,000000
+lat=47,499315
+lon=-2,375123
+mode=mercator
+color=#cccccc
+highlightcolor=#eea500
+drawscale=t
+drawcentermark=t
+drawhighlight=t
+
+~Layer TrackWaypoint
+name=test_batterie-20160221.gpx
+tracks_visible=t
+waypoints_visible=t
+routes_visible=t
+trackdrawlabels=t
+trackfontsize=3
+drawmode=0
+trackcolor=#000000
+drawlines=t
+line_thickness=1
+drawdirections=f
+trkdirectionsize=5
+drawpoints=t
+trkpointsize=2
+drawelevation=f
+elevation_factor=30
+drawstops=f
+stop_length=60
+bg_line_thickness=0
+trackbgcolor=#ffffff
+speed_factor=30,000000
+tracksortorder=0
+drawlabels=t
+wpfontsize=3
+wpcolor=#000000
+wptextcolor=#ffffff
+wpbgcolor=#8383c4
+wpbgand=f
+wpsymbol=0
+wpsize=4
+wpsyms=t
+wpsortorder=0
+drawimages=t
+image_size=64
+image_alpha=255
+image_cache_size=300
+metadatadesc=
+metadataauthor=
+metadatatime=1970-01-01T01:00:00Z
+metadatakeywords=
+
+
+~LayerData
+type="waypointlist"
+type="waypoint" latitude="47.502351666999999" longitude="-2.390151667" name="Camoel 141" unixtime="1438884354" symbol="mooring"
+type="waypoint" latitude="43" longitude="1" name="test name" unixtime="3600" description="test desc" symbol="mooring"
+type="waypoint" latitude="47.50611" longitude="-2.48047" name="Vilaine 0" unixtime="3600" description="porte entrée vilaine" symbol="cross hairs"
+type="waypoint" latitude="47.50582" longitude="-2.5292300000000001" name="ATT VILAINE" unixtime="3600" description="Alignement pour rentrer sortir de la Vilaine" symbol="cross hairs"
+type="waypoint" latitude="47.478760000000001" longitude="-2.5827800000000001" name="S LES MATS" unixtime="3600" symbol="cross hairs"
+type="waypoint" latitude="47.472799999999999" longitude="-2.8527100000000001" name="S GD MONTS" unixtime="3600" symbol="cross hairs"
+type="waypoint" latitude="47.485169999999997" longitude="-2.8886400000000001" name="PASS EPIEU" unixtime="3600" description="Passe de l'épieu" symbol="cross hairs"
+type="waypoint" latitude="47.463619999999999" longitude="-2.7917999999999998" name="S ST JACQUE" unixtime="3600" symbol="cross hairs"
+type="waypoint" latitude="47.53369" longitude="-2.9188200000000002" name="ATT CROUESTY" unixtime="3600" description="Atterrissage Crouesty" symbol="cross hairs"
+type="waypoint" latitude="47.503" longitude="-2.3860999999999999" name="VIKING_WP0001" unixtime="1443707771" symbol="triangle"
+type="waypoint" latitude="47.299999999999997" longitude="-2.5727833329999998" name="W CASTOUIL" unixtime="1449597514" symbol="circle"
+type="waypoint" latitude="47.420000000000002" longitude="-2.5816666669999999" name="E BS DUMET" unixtime="1449597631" symbol="circle"
+type="waypoint" latitude="47.376383333" longitude="-2.5866666669999998" name="W BAYONELE" unixtime="1449597747" symbol="circle"
+type="waypoint" latitude="47.308333333" longitude="-2.6555499999999999" name="N BONEN FR" unixtime="1449597865" symbol="circle"
+type="waypoint" latitude="47.356116667000002" longitude="-2.5666666669999998" name="PERCHE TUR" unixtime="1449598060" symbol="circle"
+type="waypoint" latitude="47.495253333000001" longitude="-2.5105333330000001" name="+VARLINGUE" unixtime="1449598225" symbol="triangle"
+type="waypointlistend"
+type="track" name="VIKING_TR001" color=#2d870a
+type="trackpoint" latitude="47.500030000000002" longitude="-2.376995" unixtime="1456054793" newsegment="yes"
+type="trackpoint" latitude="47.500068333000002" longitude="-2.3770449999999999" unixtime="1456054931"
+type="trackpoint" latitude="47.500374999999998" longitude="-2.3767200000000002" unixtime="1456055015"
+type="trackpoint" latitude="47.500410000000002" longitude="-2.3766500000000002" unixtime="1456055032"
+type="trackpoint" latitude="47.500426666999999" longitude="-2.37643" unixtime="1456055041"
+type="trackpoint" latitude="47.49962" longitude="-2.3750783329999998" unixtime="1456055174"
+type="trackpoint" latitude="47.499466667" longitude="-2.374621667" unixtime="1456055218"
+type="trackpoint" latitude="47.499339999999997" longitude="-2.3744616669999998" unixtime="1456055245"
+type="trackpoint" latitude="47.498796667000001" longitude="-2.3733633329999999" unixtime="1456055341"
+type="trackpoint" latitude="47.498064999999997" longitude="-2.3716583330000001" unixtime="1456055461"
+type="trackpoint" latitude="47.497860000000003" longitude="-2.3710466669999999" unixtime="1456055520"
+type="trackpoint" latitude="47.497750000000003" longitude="-2.3710749999999998" unixtime="1456056058"
+type="trackend"
+~EndLayerData
+~EndLayer
+

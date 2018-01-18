@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+  <wpt lat="47.502351667" lon="-2.390151667">
+    <time>2015-08-06T18:05:54Z</time>
+    <name>Camoel 141</name>
+    <sym>mooring</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>6ca5ffff-395c-4531-953d-143c22f00000</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:shared>1</opencpn:shared>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#000000" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.000000000" lon="1.000000000">
+    <time>1970-01-01T01:00:00Z</time>
+    <name>test name</name>
+    <desc>test desc</desc>
+    <sym>mooring</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>27c3416c-b4d7-415c-b741-2e902344e929</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="-1" step="-1" units="-1" colour="#000000" />
+    </extensions>
+  </wpt>
+  <wpt lat="47.506110000" lon="-2.480470000">
+    <time>1970-01-01T01:00:00Z</time>
+    <name>Vilaine 0</name>
+    <desc>porte entrée vilaine</desc>
+    <sym>Cross Hairs</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3293613f-783f-4cf4-8098-c818270b2a2d</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="-1" step="-1" units="-1" colour="#000000" />
+    </extensions>
+  </wpt>
+  <wpt lat="47.505820000" lon="-2.529230000">
+    <time>1970-01-01T01:00:00Z</time>
+    <name>ATT VILAINE</name>
+    <desc>Alignement pour rentrer sortir de la Vilaine</desc>
+    <sym>Cross Hairs</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>16b5b000-fbe5-44eb-b564-547c15845513</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#000000" />
+    </extensions>
+  </wpt>
+  <wpt lat="47.478760000" lon="-2.582780000">
+    <time>1970-01-01T01:00:00Z</time>
+    <name>S LES MATS</name>
+    <sym>Cross Hairs</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>2bc1fb2c-c8eb-4879-bb2f-e646013035f0</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#000000" />
+    </extensions>
+  </wpt>
+  <wpt lat="47.463620000" lon="-2.791800000">
+    <time>1970-01-01T01:00:00Z</time>
+    <name>S ST JACQUE</name>
+    <sym>Cross Hairs</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4e25b7ca-6d02-413d-82d0-453c11be81c7</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#000000" />
+    </extensions>
+  </wpt>
+  <wpt lat="47.472800000" lon="-2.852710000">
+    <time>1970-01-01T01:00:00Z</time>
+    <name>S GD MONTS</name>
+    <sym>Cross Hairs</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>43ad0704-5cec-4bd4-964f-cee905723c6b</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#000000" />
+    </extensions>
+  </wpt>
+  <wpt lat="47.485170000" lon="-2.888640000">
+    <time>1970-01-01T01:00:00Z</time>
+    <name>PASS EPIEU</name>
+    <desc>Passe de l'épieu</desc>
+    <sym>Cross Hairs</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>77cdbebf-dfc2-4cb0-948a-604b3fc855fc</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#000000" />
+    </extensions>
+  </wpt>
+  <wpt lat="47.533690000" lon="-2.918820000">
+    <time>1970-01-01T01:00:00Z</time>
+    <name>ATT CROUESTY</name>
+    <desc>Atterrissage Crouesty</desc>
+    <sym>Cross Hairs</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>03150dd3-18fc-494b-b93a-1e752af39a3e</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="3" step="0.1" units="0" colour="#000000" />
+    </extensions>
+  </wpt>
+  <wpt lat="47.503000000" lon="-2.386100000">
+    <time>2015-10-01T13:56:11Z</time>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>1edb3b78-aeba-422e-96fb-11d548c1028b</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#000000" />
+    </extensions>
+  </wpt>
+  <wpt lat="47.300000000" lon="-2.572783333">
+    <time>2015-12-08T17:58:34Z</time>
+    <name>W CASTOUIL</name>
+    <sym>circle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>340aeb56-d246-4d80-8f60-984331b1af9a</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#000000" />
+    </extensions>
+  </wpt>
+  <wpt lat="47.420000000" lon="-2.581666667">
+    <time>2015-12-08T18:00:31Z</time>
+    <name>E BS DUMET</name>
+    <sym>circle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3bea306a-fd04-415e-99d4-cc5857bfa2ff</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#000000" />
+    </extensions>
+  </wpt>
+  <wpt lat="47.376383333" lon="-2.586666667">
+    <time>2015-12-08T18:02:27Z</time>
+    <name>W BAYONELE</name>
+    <sym>circle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>7a4106b7-0770-4094-abba-3cb339c30a2c</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#000000" />
+    </extensions>
+  </wpt>
+  <wpt lat="47.308333333" lon="-2.655550000">
+    <time>2015-12-08T18:04:25Z</time>
+    <name>N BONEN FR</name>
+    <sym>circle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>5da41420-2ac3-4127-827a-45f87ed016ab</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#000000" />
+    </extensions>
+  </wpt>
+  <wpt lat="47.356116667" lon="-2.566666667">
+    <time>2015-12-08T18:07:40Z</time>
+    <name>PERCHE TUR</name>
+    <sym>circle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>5675b1ae-4535-43b4-946b-f26b5e2d9a10</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#000000" />
+    </extensions>
+  </wpt>
+  <wpt lat="47.495253333" lon="-2.510533333">
+    <time>2015-12-08T18:10:25Z</time>
+    <name>+VARLINGUE</name>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>10dc31d5-0ff8-4ee4-83c3-161d2ad0254b</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="2" step="0.1" units="0" colour="#000000" />
+    </extensions>
+  </wpt>
+  <trk>
+    <extensions>
+      <opencpn:guid>6e95ee31-6e2e-4587-9ec2-e5b5698a9c15</opencpn:guid>
+      <opencpn:viz>1</opencpn:viz>
+    </extensions>
+    <trkseg>
+      <trkpt lat="47.486000000" lon="-2.792000000">
+        <time>2016-02-21T11:37:31Z</time>
+      </trkpt>
+      <trkpt lat="47.500510000" lon="-2.377335000">
+        <time>2016-02-21T11:38:47Z</time>
+      </trkpt>
+      <trkpt lat="47.500381667" lon="-2.377418333">
+        <time>2016-02-21T11:38:59Z</time>
+      </trkpt>
+      <trkpt lat="47.500105000" lon="-2.377151667">
+        <time>2016-02-21T11:39:23Z</time>
+      </trkpt>
+      <trkpt lat="47.500030000" lon="-2.376995000">
+        <time>2016-02-21T11:39:53Z</time>
+      </trkpt>
+      <trkpt lat="47.500068333" lon="-2.377045000">
+        <time>2016-02-21T11:42:11Z</time>
+      </trkpt>
+      <trkpt lat="47.500375000" lon="-2.376720000">
+        <time>2016-02-21T11:43:35Z</time>
+      </trkpt>
+      <trkpt lat="47.500410000" lon="-2.376650000">
+        <time>2016-02-21T11:43:52Z</time>
+      </trkpt>
+      <trkpt lat="47.500426667" lon="-2.376430000">
+        <time>2016-02-21T11:44:01Z</time>
+      </trkpt>
+      <trkpt lat="47.499620000" lon="-2.375078333">
+        <time>2016-02-21T11:46:14Z</time>
+      </trkpt>
+      <trkpt lat="47.499466667" lon="-2.374621667">
+        <time>2016-02-21T11:46:58Z</time>
+      </trkpt>
+      <trkpt lat="47.499340000" lon="-2.374461667">
+        <time>2016-02-21T11:47:25Z</time>
+      </trkpt>
+      <trkpt lat="47.498796667" lon="-2.373363333">
+        <time>2016-02-21T11:49:01Z</time>
+      </trkpt>
+      <trkpt lat="47.498065000" lon="-2.371658333">
+        <time>2016-02-21T11:51:01Z</time>
+      </trkpt>
+      <trkpt lat="47.497860000" lon="-2.371046667">
+        <time>2016-02-21T11:52:00Z</time>
+      </trkpt>
+      <trkpt lat="47.497750000" lon="-2.371075000">
+        <time>2016-02-21T12:00:58Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

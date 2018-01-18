@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<gpx version="1.0" creator="Viking -- http://viking.sf.net/"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://www.topografix.com/GPX/1/0"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<trk>
+  <name>VIKING_TR001</name>
+  <trkseg>
+  <trkpt lat="47.337215" lon="-2.5214133329999999">
+    <name>Depart</name>
+    <time>2014-12-14T09:38:46Z</time>
+  </trkpt>
+  <trkpt lat="47.339390000000002" lon="-2.5241466670000001">
+    <name>006</name>
+    <time>2014-12-14T09:44:15Z</time>
+  </trkpt>
+  <trkpt lat="47.345950000000002" lon="-2.5335433329999999">
+    <name>008</name>
+    <time>2014-12-14T09:59:59Z</time>
+  </trkpt>
+  <trkpt lat="47.346776667" lon="-2.5342483329999999">
+    <name>008</name>
+    <time>2014-12-14T10:02:07Z</time>
+  </trkpt>
+  <trkpt lat="47.351168332999997" lon="-2.5363166669999999">
+    <name>009</name>
+    <time>2014-12-14T10:09:27Z</time>
+  </trkpt>
+  <trkpt lat="47.352443332999997" lon="-2.5372433330000002">
+    <name>010</name>
+    <time>2014-12-14T10:11:20Z</time>
+  </trkpt>
+  <trkpt lat="47.352699999999999" lon="-2.5379183329999999">
+    <name>011</name>
+    <time>2014-12-14T10:12:16Z</time>
+  </trkpt>
+  <trkpt lat="47.353965000000002" lon="-2.5481199999999999">
+    <name>012</name>
+    <time>2014-12-14T10:20:24Z</time>
+  </trkpt>
+  <trkpt lat="47.354716666999998" lon="-2.5584899999999999">
+    <name>013</name>
+    <time>2014-12-14T10:31:04Z</time>
+  </trkpt>
+  <trkpt lat="47.354811667" lon="-2.5645150000000001">
+    <name>014</name>
+    <time>2014-12-14T10:36:41Z</time>
+  </trkpt>
+  <trkpt lat="47.355089999999997" lon="-2.5676733330000001">
+    <name>015</name>
+    <time>2014-12-14T10:40:09Z</time>
+  </trkpt>
+  <trkpt lat="47.355448332999998" lon="-2.569893333">
+    <name>016</name>
+    <time>2014-12-14T10:43:21Z</time>
+  </trkpt>
+  <trkpt lat="47.355651666999997" lon="-2.5700833329999999">
+    <name>017</name>
+    <time>2014-12-14T10:43:53Z</time>
+  </trkpt>
+  <trkpt lat="47.356029999999997" lon="-2.5692716670000002">
+    <name>018</name>
+    <time>2014-12-14T10:44:49Z</time>
+  </trkpt>
+  <trkpt lat="47.356409999999997" lon="-2.566748333">
+    <name>019</name>
+    <time>2014-12-14T10:46:33Z</time>
+  </trkpt>
+  <trkpt lat="47.356676667000002" lon="-2.5614349999999999">
+    <name>020</name>
+    <time>2014-12-14T10:50:09Z</time>
+  </trkpt>
+  <trkpt lat="47.357576666999996" lon="-2.5550649999999999">
+    <name>022</name>
+    <time>2014-12-14T10:54:09Z</time>
+  </trkpt>
+  <trkpt lat="47.351329999999997" lon="-2.5541483330000001">
+    <name>023</name>
+    <time>2014-12-14T11:01:14Z</time>
+  </trkpt>
+  <trkpt lat="47.343756667000001" lon="-2.555043333">
+    <name>023</name>
+    <time>2014-12-14T11:09:38Z</time>
+  </trkpt>
+  <trkpt lat="47.343091667000003" lon="-2.5493100000000002">
+    <name>024</name>
+    <time>2014-12-14T11:12:58Z</time>
+  </trkpt>
+  <trkpt lat="47.342370000000003" lon="-2.5357833329999999">
+    <name>025</name>
+    <time>2014-12-14T11:20:27Z</time>
+  </trkpt>
+  <trkpt lat="47.341608333000003" lon="-2.5272833330000002">
+    <name>026</name>
+    <time>2014-12-14T11:25:15Z</time>
+  </trkpt>
+  <trkpt lat="47.339844999999997" lon="-2.5183283329999999">
+    <name>028</name>
+    <time>2014-12-14T11:30:43Z</time>
+  </trkpt>
+  <trkpt lat="47.337975" lon="-2.519456667">
+    <name>028</name>
+    <time>2014-12-14T11:32:35Z</time>
+  </trkpt>
+  <trkpt lat="47.332278332999998" lon="-2.5266666670000002">
+    <name>030</name>
+    <time>2014-12-14T11:38:03Z</time>
+  </trkpt>
+  <trkpt lat="47.330358333" lon="-2.5299666670000001">
+    <name>030</name>
+    <time>2014-12-14T11:40:35Z</time>
+  </trkpt>
+  <trkpt lat="47.327095" lon="-2.534678333">
+    <name>031</name>
+    <time>2014-12-14T11:44:43Z</time>
+  </trkpt>
+  <trkpt lat="47.325443333000003" lon="-2.5379883329999999">
+    <name>032</name>
+    <time>2014-12-14T11:47:24Z</time>
+  </trkpt>
+  <trkpt lat="47.322983333000003" lon="-2.5420416669999999">
+    <name>033</name>
+    <time>2014-12-14T11:50:36Z</time>
+  </trkpt>
+  <trkpt lat="47.314923333000003" lon="-2.5523733329999998">
+    <name>034</name>
+    <time>2014-12-14T11:59:00Z</time>
+  </trkpt>
+  <trkpt lat="47.312494999999998" lon="-2.5558733330000001">
+    <name>035</name>
+    <time>2014-12-14T12:01:24Z</time>
+  </trkpt>
+  <trkpt lat="47.310969999999998" lon="-2.5590250000000001">
+    <name>036</name>
+    <time>2014-12-14T12:03:24Z</time>
+  </trkpt>
+  <trkpt lat="47.307736667" lon="-2.563663333">
+    <name>037</name>
+    <time>2014-12-14T12:06:36Z</time>
+  </trkpt>
+  <trkpt lat="47.302313333000001" lon="-2.5727950000000002">
+    <name>039</name>
+    <time>2014-12-14T12:12:21Z</time>
+  </trkpt>
+  <trkpt lat="47.302399999999999" lon="-2.5730499999999998">
+    <name>039</name>
+    <time>2014-12-14T12:12:29Z</time>
+  </trkpt>
+  <trkpt lat="47.306835" lon="-2.5724333330000002">
+    <name>040</name>
+    <time>2014-12-14T12:16:13Z</time>
+  </trkpt>
+  <trkpt lat="47.312910000000002" lon="-2.5724049999999998">
+    <name>041</name>
+    <time>2014-12-14T12:20:37Z</time>
+  </trkpt>
+  <trkpt lat="47.321159999999999" lon="-2.5711733329999999">
+    <name>042</name>
+    <time>2014-12-14T12:27:01Z</time>
+  </trkpt>
+  <trkpt lat="47.329296667000001" lon="-2.5693966669999999">
+    <name>043</name>
+    <time>2014-12-14T12:33:34Z</time>
+  </trkpt>
+  <trkpt lat="47.335463333" lon="-2.5686533329999999">
+    <name>044</name>
+    <time>2014-12-14T12:38:38Z</time>
+  </trkpt>
+  <trkpt lat="47.343525" lon="-2.5682683329999998">
+    <name>045</name>
+    <time>2014-12-14T12:45:18Z</time>
+  </trkpt>
+  <trkpt lat="47.347496667000001" lon="-2.5676716669999999">
+    <name>046</name>
+    <time>2014-12-14T12:48:54Z</time>
+  </trkpt>
+  <trkpt lat="47.349711667000001" lon="-2.566973333">
+    <name>047</name>
+    <time>2014-12-14T12:50:54Z</time>
+  </trkpt>
+  <trkpt lat="47.350886666999997" lon="-2.5668516669999999">
+    <name>048</name>
+    <time>2014-12-14T12:51:58Z</time>
+  </trkpt>
+  <trkpt lat="47.354146667000002" lon="-2.5688633329999999">
+    <name>049</name>
+    <time>2014-12-14T12:54:54Z</time>
+  </trkpt>
+  <trkpt lat="47.355263333000003" lon="-2.5698750000000001">
+    <name>050</name>
+    <time>2014-12-14T12:56:07Z</time>
+  </trkpt>
+  <trkpt lat="47.355784999999997" lon="-2.56996">
+    <name>051</name>
+    <time>2014-12-14T12:56:39Z</time>
+  </trkpt>
+  <trkpt lat="47.355851667000003" lon="-2.5696183330000002">
+    <name>052</name>
+    <time>2014-12-14T12:56:55Z</time>
+  </trkpt>
+  <trkpt lat="47.350915000000001" lon="-2.557515">
+    <name>053</name>
+    <time>2014-12-14T13:03:35Z</time>
+  </trkpt>
+  <trkpt lat="47.344631667000002" lon="-2.5394749999999999">
+    <name>054</name>
+    <time>2014-12-14T13:12:31Z</time>
+  </trkpt>
+  <trkpt lat="47.342754999999997" lon="-2.5329583329999998">
+    <name>055</name>
+    <time>2014-12-14T13:15:59Z</time>
+  </trkpt>
+  <trkpt lat="47.341970000000003" lon="-2.5284916669999999">
+    <name>056</name>
+    <time>2014-12-14T13:18:15Z</time>
+  </trkpt>
+  <trkpt lat="47.339691666999997" lon="-2.5222850000000001">
+    <name>057</name>
+    <time>2014-12-14T13:21:44Z</time>
+  </trkpt>
+  <trkpt lat="47.338883332999998" lon="-2.520975">
+    <name>058</name>
+    <time>2014-12-14T13:22:48Z</time>
+  </trkpt>
+  <trkpt lat="47.338011667000004" lon="-2.521703333">
+    <name>059</name>
+    <time>2014-12-14T13:24:00Z</time>
+  </trkpt>
+  <trkpt lat="47.337591666999998" lon="-2.521013333">
+    <name>Arrivee</name>
+    <time>2014-12-14T13:24:48Z</time>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
