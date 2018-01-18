@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+  <rte>
+    <name>Vilaine - La Trinite</name>
+    <extensions>
+      <opencpn:guid>23180000-826b-4f3a-8b5b-9b773f700000</opencpn:guid>
+      <opencpn:viz>1</opencpn:viz>
+      <opencpn:planned_speed>6.00</opencpn:planned_speed>
+      <opencpn:time_display>PC</opencpn:time_display>
+    </extensions>
+    <rtept lat="47.506003333" lon="-2.479451667">
+      <time>2014-07-03T17:44:04Z</time>
+      <name>Vilaine_Entree</name>
+      <sym>triangle</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>706effff-0220-4f7f-b0dd-e4a702000000</opencpn:guid>
+        <opencpn:viz_name>1</opencpn:viz_name>
+        <opencpn:shared>1</opencpn:shared>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      </extensions>
+    </rtept>
+    <rtept lat="47.483793333" lon="-2.581163333">
+      <time>2016-04-18T15:27:52Z</time>
+      <name>S_LesMats</name>
+      <sym>triangle</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>4727ffff-ae89-4c43-822b-d0a961ecffff</opencpn:guid>
+        <opencpn:viz_name>1</opencpn:viz_name>
+        <opencpn:shared>1</opencpn:shared>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      </extensions>
+    </rtept>
+    <rtept lat="47.466608333" lon="-2.792070000">
+      <time>2016-04-18T15:29:20Z</time>
+      <name>S_StJacques</name>
+      <sym>triangle</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>268b0000-ece9-4f2f-8620-0f5e1d2b0000</opencpn:guid>
+        <opencpn:viz_name>1</opencpn:viz_name>
+        <opencpn:shared>1</opencpn:shared>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      </extensions>
+    </rtept>
+    <rtept lat="47.478621063" lon="-2.899974547">
+      <time>2016-04-18T15:40:42Z</time>
+      <name>S_Chimere</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>2cb90000-186c-4346-ac4e-7cc639850000</opencpn:guid>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      </extensions>
+    </rtept>
+    <rtept lat="47.511216667" lon="-2.937610000">
+      <time>2016-04-18T15:40:08Z</time>
+      <name>S_Meaban</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>1ecb0000-791a-4e4e-8743-2b485a0bffff</opencpn:guid>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      </extensions>
+    </rtept>
+    <rtept lat="47.524920000" lon="-2.976760000">
+      <time>2016-04-18T15:39:19Z</time>
+      <name>S_BuissonMeaban</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>6429ffff-fa55-4d11-9fdd-4b1a1ff50000</opencpn:guid>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      </extensions>
+    </rtept>
+    <rtept lat="47.586310000" lon="-3.023941667">
+      <time>2016-04-18T15:34:19Z</time>
+      <name>LaTrinite</name>
+      <sym>triangle</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>07e40000-1e3e-4480-8a0c-a47760b1ffff</opencpn:guid>
+        <opencpn:viz_name>1</opencpn:viz_name>
+        <opencpn:shared>1</opencpn:shared>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      </extensions>
+    </rtept>
+  </rte>
+</gpx>
