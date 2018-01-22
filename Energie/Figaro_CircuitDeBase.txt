@@ -1,0 +1,24 @@
+LauBen, et le stockage de l'énergie
+
+En 2014, lors de l'achat de LauBen, ce Figaro One était équipé de 3 batteries 60AH de type "sans entretien" (note VRLA) de technologie plomb calcium.
+Elles sont chargées par l'alternateur du moteur via un répartiteur à diodes classique, donc avec une perte de tension de 0,7 V.
+Les seules servitudes de l'époque sont : 
+ - Les feux de route
+ - La VHF
+ - Une électronique minimale ; loch, sondeur, girouette, anémomètre
+J'y ajoute 2 chargeurs 220V 4AH pas chers mais avec cycle de charge, que l'on trouve dans une chaîne de supermarchés en 4 lettres.
+ 
+Déjà, une telle configuration lors d'une sortie à la journée nécessite que, le soir à l'escale, il faille mettre les chargeurs.
+Et pourtant, il y a 120AH en ligne !
+
+Depuis, les instruments du bord ont pris un embonpoint certains et consomment plus, ils gèrent un pilote automatique, lui-même doté d'un actionneur, qui a besoin de puissance.
+Bientôt un nano-ordinateur va leur être greffé, encore de la consommation qui s'ajoute.
+A l'avenir, j'ai prévu d'être concurrent à certaines régates qui imposent un transpondeur AIS...
+Bref, va falloir des Ampères.
+
+Quelle est la consommation ? Est-elle en rapport avec la fourniture de l'énergie ?
+Dans quel état sont les batteries ?
+Pour mesurer tout cela, il va falloir a minima un moniteur de batteries. 
+
+Estimer l'état d'une batterie
+
