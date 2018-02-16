@@ -1,5 +1,0 @@
-Topline canal 40	DIREC_COURANT	KEP	VDR
-Topline canal 40	VITES_COURANT	KEP	VDR
-
-$PNKEP,05,x.x,x.x,N,x.x,K*hh<CR><LF>
-Direction courant de 0 à 359°,Vitesse courant en Noeud,N,Vitesse courant en km/h,K*hh
