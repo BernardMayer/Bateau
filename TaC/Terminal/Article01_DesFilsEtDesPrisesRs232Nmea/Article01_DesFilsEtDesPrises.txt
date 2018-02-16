@@ -1,0 +1,27 @@
+http://www.db9-pinout.com/
+
+http://www.suntekpc.com/htm-2/cable-serial-rs232-db9-female-db9-male-xxx-generic-oem-xxx.htm 
+
+https://fr.wikipedia.org/wiki/RS-232 
+
+Combien de fils de discussion sur le forum pour des questions autour d'une liaison série d'équipements NMEA 0183 récalcitrante ?
+
+Et si on regardait d'un peu plus près, avec notre regard de candide ?
+
+Supposons que l'on souhaite raccorder 2 équipements, dotés chacun de connecteurs sur lesquels nous trouvons des signaux électrique conformes à la norme RS232, et que ces équipements soient capables de comprendre ce qu'ils échangent grâce à leur compatibilité NMEA 0183.
+
+Ouf ; ça fait beaucoup en une seul phrase...
+
+2 équipements : par exemple, un GPS et un ordinateur avec OpenCPN
+
+Connecteurs ?
+<photos>
+
+Signaux électriques ?
+RS 232 ?
+<photos>
+<liens>
+
+NMEA 0183 ?
+<liens>
+
