@@ -1,0 +1,8 @@
+Usage	W	A	protection
+Onduleur + Moniteur HP1755	35W	2.8A	disjoncteur 5A (appel de courant)
+RPi 2 + clef wifi + usb-rs232 + usb16Go	4W	0.3A	?
+Garmin GP152h	5W	?A	fusible 1A5
+NKE pilote ON
+NKE pilote OFF
+VHF Cobra MR F55-D	W	0.020A on / 0.200A rx / 1A tx low / 5A tx high	disjoncteur 5A
+Feux tete de mat NASA supernova	?W	0.2A
