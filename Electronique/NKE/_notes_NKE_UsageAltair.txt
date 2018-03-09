@@ -1,0 +1,8 @@
+http://www.hisse-et-oh.com/forums/equipements/messages/1409496-pilote-auto-verin-hydraulique-ou-electrique
+
+ Altair2
+
+Comme je vois que personne ne parle du pilote NKE, j'y vais de mon post. Sur Altair avec double barre franche et un verin LS + une electronique NKE, il n'y a absolument aucune resistance quand le verin est debraye. la barre est douce et parlante, juste un peu onctueuse peut-etre. Avec la commande gyropilote a portee de main sur chaque bord et la telecommande autour du cou, le pilote et les ajustements se font sans y penser. La pompe est un peu bruyante et consomme par mer formee. En ajustant le gain au minimum requis par la mer et le vent, il n'y a aucune gene reelle pour le bord. Les voiles doivent bien reglees pour une barre legerement au vent de 2 ou 3 degres. Le mode vent au pres et le mode vent reel sous spi sont les deux modes utilises sous voiles, au moteur c'est le mode compas.
+Dans une mer formee et au grand largue sous GV+genois ou GV+spi, la GV est tres ouverte pour qu'elle devente des la moindre tentative de lof. Voir debouler le voilier a grande vitesse sous pilote est un spectacle dont on ne se lasse pas. Sous spi il faut du monde dehors prets a intervenir. Les seules conditions ou l'homme bat le pilote sont dans les descentes de houle en S pour lancer les surfs.
+Avec le W&S qui debite entre 30 et 40A dans ces conditions de vitesse sur l'eau, la consommation electrique n'est pas un probleme. La montee en frequence du ronronnement de l'helice donne a tout le bord une idee de la vitesse et des coups de surf.
+Tout cela pour dire qu'en sus d'un bon verin + pompe, il faut aussi un bon calculateur, un bon capteur de rotation et une electronique de tete de mat bien degagee.
