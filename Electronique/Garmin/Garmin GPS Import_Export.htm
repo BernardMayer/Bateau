@@ -1,0 +1,252 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=Windows-1252">
+<TITLE>Garmin GPS Import/Export </TITLE>
+		<style>
+<!--
+h1           { font-family: Times New Roman; font-size: 18pt; font-weight: bold }
+h3           { font-family: Times New Roman; font-size: 12pt; font-weight: bold }
+h2           { font-family: Times New Roman; font-size: 14pt; font-weight: bold }
+-->
+</style>
+</head>
+
+<BODY>
+
+<a href="https://traverse-pc.com/v18/Hlp/html/garmin.htm">https://traverse-pc.com/v18/Hlp/html/garmin.htm</a>
+
+<h1><B>G<span lang="en-us">armin</span> <span lang="en-us">Handheld </span>GPS</B></h1>
+
+<P>TPC supports G<span lang="en-us">armin</span> GPS devices.  You can send and receive waypoints, track log points and routes.</P>
+
+<h2><B>What’s Supported</B></h2>
+
+<P>TPC uses the GARMIN GPS Interface Specification, December 6, 1999, Drawing Number:001-00063-00 Rev.3.   This specification allows TPC to talk with any GARMIN GPS device that supports this interface.</P>
+
+<P>This interface transfers data in packets which TPC supports.  The packet data depends on the protocol and product specific data types.  </P>
+
+<P>TPC supports
+
+<UL>
+	<LI>Device Command Protocols<BR></LI>
+
+	<LI>A000 Product Data Protocol<BR></LI>
+
+	<LI>A001 Protocol Capability Protocol<BR></LI>
+
+	<LI>A100 Waypoint Transfer Protocol (Garmin GPS Waypoints)<BR></LI>
+
+	<LI>A200 Route Transfer Protocol (Garmin GPS Routes)<BR></LI>
+
+	<LI>D100 Waypoint data type<BR></LI>
+
+	<LI>D200 Route Header data type<BR></LI>
+
+	<LI>D201 Route Header data type<BR></LI>
+
+	<LI>Tested on Garmin GPS III, GPS V and Etrex</LI>
+</UL>
+
+<P>This specification is available on Garmin’s web site 
+<a href="http://www.garmin.com">www.garmin.com</a>.</P>
+
+<h2><B>Waypoints vs. Routes vs. Track Log</B></h2>
+
+<P>When you transfer waypoints, the points are transferred in their sorted order, based on the waypoint number or label.</P>
+
+<P>Routes are sequences of waypoints in which the sequence is important.  When you transfer routes, the waypoints are transferred in the sequence defined by the routes.</P>
+
+<P>The track log differs from Waypoints and Routes in that only the position and time are recorded.</P>
+
+<h2><B>Setting up a Garmin GPS III</B></h2>
+
+<P>The GPS III is discussed here as an example of how to prepare the GARMIN device to communicate with TPC.
+
+<UL>
+	<LI>Press the Menu key twice to display the Main Menu.<BR></LI>
+
+	<LI>Choose Setup.<BR></LI>
+
+	<LI>Highlight and select the Interface tab.<BR></LI>
+
+	<LI>For Format, choose GARMIN.  For Transfer Mode, choose Host.  The Status should say Ready.<BR></LI>
+
+	<LI>The GARMIN is now ready to transfer data.  It can be in any page when TPC initiates a transfer – you do not need to display the Interface page to transfer data.<BR></LI>
+
+	<LI>When TPC requests waypoints for your routes, the GARMIN sends the data then displays the message Data Transfer Complete and prompts you to press the Enter key to Acknowledge.</LI>
+</UL>
+
+<h2><B>Importing Waypoints</B></h2>
+
+<UL>
+	<LI>Set up the GARMIN as described above.  Once it is setup, the GARMIN can transfer data when requested, regardless of which page it is displaying.<BR></LI>
+
+	<LI>From the TPC Desktop, choose File | <A HREF="file_import.htm">Import</A>.<BR></LI>
+
+	<LI>From the <b>Type</b> list, choose <b>GARMIN GPS Waypoints</b> and select the 
+        settings you want by clicking on the [...] button.<BR></LI>
+
+	<LI>Choose <a href="direct_connection.htm">Direct Connection</a>. and select <b>GARMIN</b> from the 
+        <b>Device</b> list and select the settings you want by clicking on the [...] 
+        button. Match the following Protocol: GARMIN, Baud:9600, Parity: None, Data:8, Stop:1, Handshake: None.  Choose Close.<BR></LI>
+
+	<LI>Choose <b>Import</b>.<BR></LI>
+
+	<LI>If TPC is able to initiate the transfer with the GARMIN, it will display the Save As dialog and prompt you for a filename to store the waypoints in.  The default filename is the same as the survey filename, but with the WPT extension.  Choose Save to accept the default filename.  If the file already exists, you will be prompted to overwrite it – choose Yes.<BR></LI>
+
+</UL>
+
+    <p>
+        When the transfer is complete, TPC will display the number of points that were transferred in the Import dialog.  The GARMIN will display Data Transfer Complete and prompt you to press Enter to Acknowledge.</p>
+
+<P>TPC will convert the Latitude and Longitude of the waypoints to the current survey 
+    <a href="transform.htm">grid</a>.  If you requested TPC to store the waypoints in a traverse, the Traverses Manager will display the new traverse.  The imported points also show up in the Points Manager.  If you don’t want the traverse you can delete it.  The points will remain in the Points Manager.</P>
+
+<h2><B>Exporting Waypoints</B></h2>
+
+<P>If a traverse or traverses already define the data you want to export, go to the Traverses Manager.  If you want to export just certain points, go to the Points Manager.
+
+<UL>
+	<LI>Select the traverses or points you want from the View.<BR></LI>
+
+	<LI>From the TPC Desktop menu choose File | <A HREF="file_export.htm">Export</A>.<BR></LI>
+
+	<LI>From the <b>Type</b> list, choose <b>GARMIN GPS Waypoints</b> and select the 
+        settings you want by clicking on the [...] button.<BR></LI>
+
+	<LI>From the Destination pick list; choose Direct Connection.  You cannot export waypoints to a file.<BR></LI>
+
+	<LI>Choose <a href="direct_connection.htm">Direct Connection</a>. and select <b>GARMIN</b> from the 
+        <b>Device</b> list and select the settings you want by clicking on the [...] 
+        button. Match the following Protocol: GARMIN, Baud:9600, Parity: None, Data:8, Stop:1, Handshake: None.  Choose Close.<BR>
+        Select the data you want to export from the <b><a href="export_what.htm">What</a></b> 
+        list.<BR></LI>
+
+	<LI>Choose <b>Export</b> to start the transmission.  The Export dialog will indicate when the transfer is complete.<BR></LI>
+
+	<LI>The GARMIN will display Data Transfer Complete and prompt you to press Enter to Acknowledge.</LI>
+</UL>
+
+<P>TPC uses the current grid settings to convert the grid coordinates to Latitude and Longitude.</P>
+
+<h2><B>Importing Routes</B></h2>
+
+<P>GARMIN GPS devices can store sequences of points as Routes.  These routes correlate well with the Traverses in TPC, with each imported route creating its own traverse.
+
+<UL>
+	<LI>From the TPC Desktop choose File | <A HREF="file_import.htm">Import</A>.<BR></LI>
+
+	<LI>From the <b>Type</b> list, choose <b>GARMIN GPS Routes</b> and select the settings you 
+        want by clicking on the [...] button.<BR></LI>
+
+	<li>Choose <a href="direct_connection.htm">Direct Connection</a>. and select <b>GARMIN</b> from the 
+        <b>Device</b> list and select the settings you want by clicking on the [...] 
+        button. Match the following Protocol: GARMIN, Baud:9600, Parity: None, Data:8, Stop:1, Handshake: None.  Choose Close.</li>
+    <LI>Choose <b>Import</b>.<BR></LI>
+
+	<LI>If TPC is able to initiate the transfer with the GARMIN, it will display the Save As dialog and prompt you for a filename to store the waypoints in.  The default filename is the same as the survey filename, but with the WPT extension.  Choose Save to accept the default filename.  If the file already exists, you will be prompted to overwrite it – choose Yes.<BR></LI>
+
+	<LI>When the transfer is complete, TPC will display the number of points that were transferred in the Import dialog.  The GARMIN will display Data Transfer Complete and prompt you to press Enter to Acknowledge.</LI>
+</UL>
+
+<P>TPC will convert the Latitude and Longitude of the waypoints to the current survey 
+    <a href="transform.htm">grid</a>.</P>
+
+<P>Each route creates a traverse and names the traverse using the route header data (i.e. the traverse name ‘Route 0, 001-009’ is derived from route 0 which includes waypoints 001 through 009).</P>
+
+<P>The imported points also show up in the Points Manager.  If you don’t want the traverse you can delete it.  The points will remain in the Points Manager.</P>
+
+<h2><B>Exporting Routes</B></h2>
+
+<P>GARMIN GPS devices can store sequences of points as Routes.  These routes correlate well with the Traverses in TPC, with each imported route creating its own traverse.</P>
+
+<P>If a traverse or traverses already define the routes you want to export, go to the Traverses Manager.  You cannot export routes from the Points Manager since routes are defined by traverses.
+
+<UL>
+	<LI>Select the traverses or points you want from the View.<BR></LI>
+
+	<LI>From the TPC Desktop menu choose File | <A HREF="file_export.htm">Export</A>.<BR></LI>
+
+	<LI>From the <b>Type</b> list, choose <b>GARMIN GPS Routes</b> and select the settings you 
+        want by clicking on the [...] button.<BR></LI>
+
+	<LI>Choose <a href="direct_connection.htm">Direct Connection</a>. and select <b>GARMIN</b> from the 
+        <b>Device</b> list and select the settings you want by clicking on the [...] 
+        button. Match the following Protocol: GARMIN, Baud:9600, Parity: None, Data:8, Stop:1, Handshake: None.  Choose Close.</LI>
+    <LI>Select the traverses you want to export from the <b><a href="export_what.htm">
+        What</a></b> list.<BR></LI>
+
+	<LI>Choose <b>Export</b> to start the transmission.  The Export dialog will indicate when the transfer is complete.<BR></LI>
+
+	<LI>The GARMIN will display Data Transfer Complete and prompt you to press Enter to Acknowledge.</LI>
+</UL>
+
+<P>TPC uses the current grid settings to convert the grid coordinates to Latitude and Longitude.</P>
+
+<h2><B>Importing Track Log Points</B></h2>
+
+<UL>
+	<LI>Set up the GARMIN as described above.  Once setup, the GARMIN can transfer data when requested, regardless of which page it is displaying.<BR></LI>
+
+	<LI>From the TPC Desktop menu choose File | <A HREF="file_import.htm">Import</A>.<BR></LI>
+
+	<LI>From the <b>Type</b> list, choose <b>GARMIN GPS Track Log</b> and select the 
+        settings you want by clicking on the [...] button.<BR></LI>
+
+	<li>Choose <a href="direct_connection.htm">Direct Connection</a>. and select <b>GARMIN</b> from the 
+        <b>Device</b> list and select the settings you want by clicking on the [...] 
+        button. Match the following Protocol: GARMIN, Baud:9600, Parity: None, Data:8, Stop:1, Handshake: None.  Choose Close.</li>
+    <LI>Choose <b>Import</b>.<BR></LI>
+
+	<LI>If TPC is able to initiate the transfer with the GARMIN, it will display the Save As dialog and prompt you for a filename to store the waypoints in.  The default filename is the same as the survey filename, but with the TRK extension.  Choose Save to accept the default filename.  If the file already exists, you will be prompted to overwrite it – choose Yes.<BR></LI>
+
+	<LI>Because Track Log points do not include any point labels, TPC automatically numbers them T1, T2, T3, etc in the order in which they are imported.  This preserves the sequence in which the points were stored on the GARMIN GPS.<BR></LI>
+
+	<LI>When the transfer is complete, TPC will display the number of points that were transferred in the Import dialog.  The GARMIN will display Data Transfer Complete and prompt you to press Enter to Acknowledge.</LI>
+</UL>
+
+<P>TPC will convert the Latitude and Longitude of the waypoints to the current survey grid.  If you requested TPC to store the track log points in a traverse, the Traverses Manager will display the new traverse.  The imported points also show up in the Points Manager.  If you don’t want the traverse you can delete it.  The points will remain in the Points Manager.</P>
+
+<h2><B>Exporting Track Log Points</B></h2>
+
+<P>If a traverse or traverses already define the data you want to export, go to the Traverses Manager.  Since a track log is a defined sequence of points, you will generally export the traverse or traverses that contain the desired sequence.  However, if you want to export just certain points based on their point label sequence, you can export from the Points Manager.
+
+<UL>
+	<LI>Select the traverses or points you want from their views.<BR></LI>
+
+	<LI>From the TPC Desktop menu choose File | <A HREF="file_export.htm">Export</A>.<BR></LI>
+
+	<LI>From the <b>Type</b> list, choose <b>GARMIN GPS Track Log</b> and select the 
+        settings you want by clicking on the [...] button.<BR></LI>
+
+	<li>Choose <a href="direct_connection.htm">Direct Connection</a>. and select <b>GARMIN</b> from the 
+        <b>Device</b> list and select the settings you want by clicking on the [...] 
+        button. Match the following Protocol: GARMIN, Baud:9600, Parity: None, Data:8, Stop:1, Handshake: None.  Choose Close.</li>
+
+	<LI>Select the data to export from the <b><a href="export_what.htm">What</a></b> 
+        list.<BR></LI>
+
+	<LI>Choose <b>Export</b> to start the transmission.  The Export dialog will indicate when the transfer is complete.<BR></LI>
+
+	<LI>The GARMIN will display Data Transfer Complete and prompt you to press Enter to Acknowledge.</LI>
+</UL>
+
+<P>TPC does not send point labels or descriptions using the Track Log protocol, just the positions.  The GARMIN GPS device ignores any track log times stored in the transferred data.  This helps it differentiate between track log data it generates itself and track log data it gets from another device.</P>
+
+<P>TPC uses the current grid settings to convert the grid coordinates to Latitude and Longitude.</P>
+
+
+
+<h2><B>Related Topics</B></h2>
+
+<P>
+    <A HREF="file_import.htm">Importing Data</A><br>
+<A HREF="file_export.htm">Exporting Data</A><br>
+<A HREF="ascii.htm">ASCII Coordinate Import/Export</A><br>
+</P>
+<h2><B>Editions</B></h2>
+
+<P>Personal, Premium, Professional</P>
+
+</BODY>
+</HTML>

@@ -1,0 +1,222 @@
+
+<a href="https://www.abnormal.com/~thogard/gps/grmnprot.html">https://www.abnormal.com/~thogard/gps/grmnprot.html</a>
+
+Note: This html document was converted from a document created and put into the public domain by John F. Waers<i> <a href="mailto:jfwaers@csn.net">(jfwaers@csn.net.)</a></i><p>
+This document was converted by Tim Hogard <i>
+<a href="mailto:thogard@abnormal.com">(thogard@abnormal.com.)</a></i><p>
+<A HREF="http:/">Back to Tim's Homepage</A><p>
+
+Note that new material has been added at the end of this document.<p>
+<hr>
+<title>Garmin Protocol</title>
+<h1>Garmin Protocol</h1>
+ <h2>GRMN/GRMN Simplified Communication Protocol  Communication Setup</h2>
+<ul>
+<li>Baud rate: 9600 bps
+<li>   Data bits: 8
+<li>   Stop bits: 1
+<li>   Parity:    None
+</ul>
+
+
+<h2>  Message Format</h2>
+    All messages start with a hexadecimal 10 start-of-message character, and are terminated by a checksum byte followed by hexadecimal 10 and 03 characters. If a data field within a message (including the checksum) contains a hexadecimal 10, it is repeated. The checksum is the   2's-complement of the modulo-256 sum of all of the message   bytes after the start-of-message character.    The Garmin PCX5 program always starts communication with a request for the model/software version. This appears to be unnecessary if just communicating with a GPS 45. However, there are probably differences in protocol between the various models of GPS receivers, and the protocol described in this document probably does not apply to all models.<p>
+    The first message byte always indicates the type of message to follow.
+<ul>
+<li>06 - Send single record
+<li>     0A - Prepare to send GPS database (almanac, waypoint,          route, track, etc.)
+<li>     1B - Number of database records to send
+<li>     1D - Route ID/Name record
+<li>     1E - Route Waypoint Record
+<li>     1F - Almanac Record
+<li>     22 - Track record
+<li>     23 - Waypoint Record
+</ul>
+
+    The second message byte always indicates the number of   bytes in the message to follow, excluding the checksum and message terminator bytes.    The remaining message bytes contain the message itself,   which is dependent upon the type of message being sent.<p>
+
+  <h2>Commands</h2>
+<ul>
+<li>10 0A 02 01 00 F3 10 03    Send Almanac
+<li>   10 0A 02 04 00 F0 10 03    Send Routes
+<li>   10 0A 02 06 00 EE 10 03    Send Track
+<li>   10 0A 02 07 00 ED 10 03    Send Waypoints
+<li>   10 06 02 22 00 D6 10 03    Send next record (seems to work with all types)
+<li>   10 06 02 xx 00 yy 10 04    Send next record commands (yy -- is the message checksum):
+<ul>
+<li><li>1B                  Send first record
+<li><li>            0C                  Send last record
+<li><li>            22                  Send next track record
+<li><li>            1F                  Send next almanac record
+<li><li>            1D                  Send next route waypoint record
+<li><li>            1E                  Send next route ID record
+<li><li>            23                  Send next waypoint record
+</ul>
+</ul>
+  
+<p>
+  There is probably a command for repeating the last record,   in the event of a checksum error. The GPS 45 will automatically retransmit the last record if a send next   record command is not received within a 5 second time-out   period.<p>
+  
+
+<h2>"OK" Message</h2> (or "let's get on with it" command) (GPS 45 seems to respond to all of the 0A02xx commands with this message):
+<ul>
+<li>10 06 02 0A 00 EE 10 03
+<li>   10        Start of message
+<li>   06        Record
+<li>   02        Number of message bytes to follow
+<li>   0A        "OK" response
+<li>   00        Future expansion?
+<li>   EE        Checksum
+<li>   1003      Message terminator
+</ul>
+
+<h2>  Number of Records Message</h2><p>
+    10 1B 02 05 00 DE 10 03
+<ul>
+<li>10        Start of message
+<li>   1B        Number of records message ID
+<li>   02        Number of message bytes to follow
+<li>   0500      0x0005 records to follow (LSB first)
+<li>   DE        Checksum
+<li>   1003      Message terminator
+</ul>
+
+  <h2>Track Record Format</h2>
+    10 22 0D CB 17 92 1C E6 08 45 B5 B5 5B BB 08 01 85 10 03
+<ul>
+<li>10        Start of message
+<li>   22        Track record ID
+<li>   0D        Number of message bytes to follow
+<li>   CB17921C  Latitude (40.1775)
+<li>   E60845B5  Longitude (-105.08953)
+<li>   B55BBB08  Time (seconds since 12/31/89 00:00:00), UTC
+<li>   01        Last record in track flag [This is 1 on the first record of a teack, 0 on all others]
+<li>   85        Checksum
+<li>   1003      Message terminator
+</ul>
+
+<h2> Route ID/Name Record Format</h2>    10 1D 15 03 5F 5F 5F 5F 5F 5F 5F 5F 5F 5F 5F 5F 5F 5F 5F   5F 00 20 20 20 7B 10 03
+<ul>
+<li>10        Start of message
+<li>   1D        Route record ID
+<li>   15        Number of message bytes to follow
+<li>   03        Route #3
+<li>   5F...     Route name (all underscores indicates default             name in this case, 16 letters + null             termination)   202020    3 spaces for something (probably max name length             of 20 characters)
+<li>   7B        Checksum
+<li>   1003      Message terminator
+</ul>
+
+<h2>  Route Waypoint Record</h2>    10 1E 3A 48 4F 4D 45 20 20 00 22 92 1C 3F FA 44 B5 A6 19   9B 08 31 32 33 20 53 4E 4F 57 4D 41 53 53 20 50 4C 00 20   20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20   20 20 20 20 EE 10 03
+<ul>
+<li>10        Start of message
+<li>   1E        Route waypoint record ID
+<li>   3A        Number of message bytes to follow
+<li>   484F...   Waypoint ID, 6 letters
+<li>   0022921C  Latitude (40.17773)
+<li>   3FFA44B5  Longitude (-105.08985)
+<li>   A6199B08  Time waypoint stored (144,382,374 seconds since  12/31/89 00:00:00), UTC
+<li>   313233..  Waypoint comment, 40 letters, null terminated
+<li>   EE        Checksum
+<li>   1003      Message terminator
+</ul>
+
+<h2>
+  Waypoint Record </h2>   10 23 3A 48 4F 4D 45 20 20 00 22 92 1C 3F FA 44 B5 A6 19   9B 08 31 32 33 20 53 4E 4F 57 4D 41 53 53 20 50 4C 00 20   20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20   20 20 20 20 E9 10 03
+<ul>
+<li>10        Start of message
+<li>   23        Waypoint record ID
+<li>   3A        Number of message bytes to follow
+<li>   484F...   Waypoint ID, 6 letters
+<li>   0022921C  Latitude (40.17773)
+<li>   3FFA44B5  Longitude (-105.8985)
+<li>   A6199B08  Time waypoint stored (144,382,374 seconds since 12/31/89 00:00:00), UTC
+<li>   313233..  Waypoint comment, 40 letters
+<li>   E9        Checksum
+<li>   1003      Message terminator
+</ul>
+
+<h2>  Almanac Record </h2>   10 1F 2A FB 02 00 00 48 48 00 00 28 B8 00 00 80 AC 00 A8   6A 3B B1 0D A1 45 1A 99 1F BE 42 D5 9B BF D9 4A 14 C0 EB   48 07 B2 82 73 74 3F A1 10 03
+<ul>
+<li>10        Start of message
+<li>   1F        Almanac record ID
+<li>   2A        Number of message bytes to follow
+<li>   FB02      GPS Week (763) (FFFF indicates inactive satellite)
+<li>   0000      Health?
+<li>   4848      Somehow related to time of applicability
+<li>   00        Unknown   ...       (no interpretation yet)
+<li>   A1        Checksum
+<li>   1003      Message terminator  EOF Records
+</ul>
+
+    These messages are sent at the completion of a database   transmission, when no more records remain to be sent.
+<ul>
+<li>10 0C 02 06 22 CA 10 03    Track EOF
+<li>   10 0C 02 07 00 EB 10 03    Waypoint EOF
+<li>   10 0C 02 04 00 EE 10 03    Route EOF
+<li>   10 0C 02 01 00 F1 10 03    Almanac EOF
+</ul>
+
+<h2>  Upload from GPS 45 Protocol</h2>
+    Send appropriate upload database command (almanac, route,   track, waypoint)   GPS 45 will respond with two messages:     "OK" message     Number of records message   Send the next record command repeatedly until EOF record   is observed. For each command, the GPS 45 will send the   next record. There appears to be no need to differentiate   between the types of next record command--any of them seem   to work.  
+<h2>
+Download to GPS 45 Protocol</h2>
+    Send number of records message   GPS 45 will respond with a send first record command of   the format:     10 06 02 1B 00 DD 10 03   Send the appropriate record. For each one, the GPS 45 will   respond with a send next record command for the   appropriate record type. Just look for the 0602 in the   message and keep on sending until the GPS 45 responds with   the appropriate EOF record (0C in the second byte).   
+
+Format of longitude, latitude and time fields
+    All are 32 bit signed integers in "little-endian" format;   i.e. least significant byte is transmitted first. To   convert the decimal latitude and longitude to degrees,   multiply by 180 / 2^31. The latitude and longitude are referenced to the WGS84 datum. The time field is the   number of seconds since 00:00 UTC, January 1, 1990.  
+Summary of Message Formats
+<ul>
+<li>10 0A 02 01 00 F3 10 03    Send Almanac Database Command
+<li>   10 0A 02 04 00 F0 10 03    Send Routes Database Command
+<li>   10 0A 02 06 00 EE 10 03    Send Track Database Command
+<li>   10 0A 02 07 00 ED 10 03    Send Waypoints Database Command
+<li>    10 06 02 22 00 D6 10 03    Send next record (seems to work                              with all types)
+<li>   10 06 02 xx 00 yy 10 04    Send next record commands (yy            --                is the message checksum):
+<ul>
+<li><li>1B                  Send first record
+<li><li>            0C                  Send last record
+<li><li>            22                  Send next track record
+<li><li>            1F                  Send next almanac record
+<li><li>            1D                  Send next route waypoint record
+<li><li>            1E                  Send next route ID record
+<li><li>            23                  Send next waypoint record
+</ul>
+<li>    10 06 02 0A 00 EE 10 03   OK, lets get on with it message
+<li>    10 1B 02 05 00 DE 10 03   Number of records = 0005    10 22 0D...               Track record (15 bytes)
+<ul>
+<li><li>   10 1D 15...               Route ID/Name (21 bytes)
+<li><li>   10 1E 3A...               Route Waypoint Record (58 bytes)
+<li><li>   10 23 3A...               Waypoint record (58 bytes)
+<li><li>   10 1F 2A...               Almanac record (42 bytes)
+</ul>
+<li>    10 0C 02 01 00 F1 10 03   Almanac EOF Record
+<li>   10 0C 02 04 00 EE 10 03   Route EOF Record
+<li>   10 0C 02 06 00 EC 10 03   Track EOF Record
+<li>   10 0C 02 07 00 EB 10 03   Waypoint EOF Record 
+</ul>
+<hr>
+<h1>New stuff starts here....</h1>
+This was added by thogard@abnormal.com<p>
+
+This is a list of known codes.  The number in the form of 0300 are Intel notaion for the number 3.  I expect the gerneral format for the the codes is [Start] [MsgType] {[SubMsg] {[Parameters]}}{ [Checksum]}.  This would imply that the 10 03 s not an end of message indicator but a trun arround command instead.
+
+<ul>  These don't have the data or parity added (See above for examples)
+<li>10 0a 02 01 00        Hardware Version
+<li>10 0a 02 02 00        Position
+<li>10 0a 02 03 00        Proximity
+<li>10 0a 02 04 00        Routes
+<li>10 0a 02 05 00        Time
+<li>10 0a 02 06 00        Track
+<li>10 0a 02 07 00        Waypoints
+<li>10 0a 02 08 00        Power Off
+</ul>
+10 1c 02 xx xx         Send data (xx) in Async mode.   When used with 00, it turns off async mode.<p>
+
+<h2>Hardware</h2>
+The Garmin GPS40, GPS45 and GPS90 are all based on the same hardware.  It consists of Garmins multiplexing GPS reciever as well as an 80188 based system.  The 80188 controls the display and keypad as well as the coordinate conversion to the different formats and map datums.  The program is stored in what could be Flash RAM so it might be possable to make modifications to the program area using the Garmin protocol.
+
+
+
+ 
+
+

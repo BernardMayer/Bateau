@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>GPSBabel development:Garmin serial/USB protocol (garmin)</title>
+
+
+<style type="text/css">
+/*<![CDATA[*/
+ table.c7 {text-align: left;}
+ td.colhdr {vertical-align: top; text-align: center; font-weight: bold;}
+ td.rwhdr {font-weight: bold;}
+ td.fmtline {vertical-align: top; font-weight: bold;}
+ td.cap {text-align: center; }
+/*]]>*/
+</style>
+
+
+
+
+<!--[if IE]>
+<style type="text/css"> 
+/* place css fixes for all versions of IE in this conditional comment */
+#mainContent { zoom: 1; }
+#mainContent h1 {letter-spacing: -.1em; }
+/* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+</style>
+<![endif]-->
+<link href="/css/styles-r2.css" rel="stylesheet" type="text/css" />
+<link href="/SpryAssets/SpryMenuBarHorizontal-r2.css" rel="stylesheet" type="text/css" />
+<script src="/SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+
+<!-- Ezoic Code 
+<script>var ezoicId = 64979;</script>
+<script type="text/javascript" src="//go.ezoic.net/ezoic/ezoic.js"></script>
+ Ezoic Code -->
+
+<!-- InstanceParam name="newsRegion" type="boolean" value="false" -->
+<!-- InstanceParam name="skyScraperAd" type="boolean" value="true" -->
+</head>
+<body>
+<div id="container">
+  <div id="shadowwrap">
+    <div id="header">
+      <div id="logo" onclick="location.href='/index.html';" style="cursor:pointer;">
+</div>
+
+<!-- end #header -->
+</div>
+<div id="linkbar">
+<ul class="MenuBarHorizontal" id="MenuBar1">
+  <li><a class="MenuBarItemSubmenu" href="#">Support</a>
+    <ul>
+      <li><a href="/lists.html">Getting Help</a></li>
+      <li><a href="/contribute.html">Helping us</a></li>
+    </ul>
+  </li>
+<li><a href="/download.html">Downloads</a></li>
+<li><a href="/screenshots.html">Screenshots</a> </li>
+	<li><a href="/capabilities.html">Capabilities</a> </li>
+<li><a class="MenuBarItemSubmenu" href="#">Documentation</a>
+  <ul>
+    <li><a href="/readme.html">Main Doc</a></li>
+    <li><a href="/tips/">Tips</a></li>
+    <li><a href="/osnotes.html">OS Notes</a></li>
+    <li><a href="/changes.html">Changes</a></li>
+    <li><a href="/tips/related.html">Related</a></li>
+    <li><a href="/FAQ.html">F.A.Q.</a></li>
+    <li><a href="/people/index.html">People</a></li>
+    <li><a href="/capabilities.html">Formats</a></li>
+  </ul>
+</li>
+</ul>
+<form action="/results.html" id="cse-search-box">
+<div style="float:right; width:230px; padding:5px 0 0 0;">
+  <input type="hidden" name="cx" value="partner-pub-6336058044358655:ahid16jqrzw" />
+  <input type="hidden" name="cof" value="FORID:11" />
+  <input type="hidden" name="ie" value="ISO-8859-1" />
+  <div style="float:left; padding-right:3px;"><input type="text" name="q" size="20" /></div>
+  <div><input type="submit" name="sa" value="Search" /></div>
+
+</div>
+</form>
+<br style="clear:both" />
+<script async type="text/javascript" src="//www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</div>
+
+<!-- #BeginLibraryItem "/Library/Leaderboard-big2.lbi" -->
+<div class="adblock728">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-6336058044358655"
+     data-ad-slot="3516599597"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<!-- #EndLibraryItem -->
+
+<div id="contentwrap"> 
+  <div id="sidebar1">
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- GPSBabel-responsiva-talle -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-6336058044358655"
+         data-ad-slot="4920411596"
+         data-ad-format="auto"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div> <!-- sidebar1 -->
+          <p style="background: #66FFFF; width: 70%; margin-left: 16px; padding: 10px; border: 2px solid black;">
+     <b>Note:</b> This page describes the development version of GPSBabel. It may substantially differ from the <a href="/htmldoc-1.5.4/fmt_garmin.html">latest released GPSBabel</a>.
+     <p>
+  
+   <div id="mainContent">
+      
+     <div><a href="https://www.gpsbabel.org/htmldoc-development/fmt_garmin.html">https://www.gpsbabel.org/htmldoc-development/fmt_garmin.html</a></div>
+	 
+  <div xmlns="http://www.w3.org/1999/xhtml" class="navheader"><table width="100%" summary="Navigation header"><tr><th colspan="3" align="center">Garmin serial/USB protocol (garmin)</th></tr><tr><td width="20%" align="left"><a accesskey="p" href="fmt_garmin_gpi.html">Prev</a> </td><th width="60%" align="center">Chapter 3. The Formats</th><td width="20%" align="right"> <a accesskey="n" href="fmt_gtrnctr.html">Next</a></td></tr></table><hr /></div><div xmlns="http://www.w3.org/1999/xhtml" class="section"><div class="titlepage"><div><div><h2 class="title" ><a id="fmt_garmin"></a>Garmin serial/USB protocol (garmin)</h2></div></div></div><p class="fmtcapshdr">
+    This format can...
+    </p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem"><p class="fmtcapsitem">
+          read and write waypoints
+        </p></li><li class="listitem"><p class="fmtcapsitem">
+          read and write tracks
+        </p></li><li class="listitem"><p class="fmtcapsitem">
+          read and write routes
+        </p></li></ul></div><p>This format has the following options: <a class="link" href="fmt_garmin.html#fmt_garmin_o_snlen" title="snlen option">snlen</a>, <a class="link" href="fmt_garmin.html#fmt_garmin_o_snwhite" title="snwhite option">snwhite</a>, <a class="link" href="fmt_garmin.html#fmt_garmin_o_deficon" title="deficon option">deficon</a>, <a class="link" href="fmt_garmin.html#fmt_garmin_o_get_posn" title="get_posn option">get_posn</a>, <a class="link" href="fmt_garmin.html#fmt_garmin_o_power_off" title="power_off option">power_off</a>, <a class="link" href="fmt_garmin.html#fmt_garmin_o_erase_t" title="erase_t option">erase_t</a>, <a class="link" href="fmt_garmin.html#fmt_garmin_o_resettime" title="resettime option">resettime</a>, <a class="link" href="fmt_garmin.html#fmt_garmin_o_category" title="category option">category</a>, <a class="link" href="fmt_garmin.html#fmt_garmin_o_bitscategory" title="bitscategory option">bitscategory</a>, <a class="link" href="fmt_garmin.html#fmt_garmin_o_baud" title="baud option">baud</a> .</p><p> 
+	GPSBabel supports a wide variety of Garmin hardware via serial
+	on most operating systems and USB on Windows, Linux, and OS X.
+</p><p> 
+	For serial models, be sure the GPS is set for "Garmin
+	mode" in setup and that nothing else (PDA hotsync programs, gpsd,
+	getty, pppd, etc.) is using the serial port.
+</p><p> 
+	Supported Garmin GPS receivers with USB include 
+	</p><table border="0" summary="Simple list" class="simplelist"><tr><td>Astro</td><td>Forerunner 205</td><td>GPSMAP 60CSx</td><td>StreetPilot 2650</td></tr><tr><td>Edge 205</td><td>Forerunner 301</td><td>GPSMAP 60Cx</td><td>StreetPilot 2720</td></tr><tr><td>Edge 305</td><td>Forerunner 305</td><td>GPSMAP 76C</td><td>StreetPilot 2730</td></tr><tr><td>eTrex Legend C</td><td>Foretrex 201</td><td>GPSMAP 76CS</td><td>StreetPilot 2820</td></tr><tr><td>eTrex Legend Cx</td><td>Foretrex 301</td><td>GPSMAP 76CSX</td><td>StreetPilot 7200</td></tr><tr><td>eTrex Legend H</td><td>GPS 18<a href="#ftn.posnonly" class="footnote" id="posnonly"><sup class="footnote">[1]</sup></a></td><td>GPSMAP 76Cx</td><td>StreetPilot 7500</td></tr><tr><td>eTrex Legend HCx</td><td>GPSMAP 195</td><td>GPSMAP 96</td><td>StreetPilot c310</td></tr><tr><td>eTrex Summit Cx</td><td>GPSMAP 276C</td><td>GPSMAP 96C</td><td>StreetPilot c320</td></tr><tr><td>eTrex Summit HC</td><td>GPSMAP 295</td><td>Quest</td><td>StreetPilot c330</td></tr><tr><td>eTrex Venture C</td><td>GPSMAP 296C</td><td>Quest II</td><td>StreetPilot c340</td></tr><tr><td>eTrex Venture Cx</td><td>GPSMAP 378</td><td>Rhino 520</td><td>StreetPilot i2</td></tr><tr><td>eTrex Venture HC</td><td>GPSMAP 396</td><td>Rhino 530</td><td>StreetPilot i3</td></tr><tr><td>eTrex Vista C</td><td>GPSMAP 478</td><td>Rhino 520 HCx</td><td>StreetPilot i5</td></tr><tr><td>eTrex Vista Cx</td><td>GPSMAP 496</td><td>Rhino 530 HCx</td><td> </td></tr><tr><td>eTrex Vista H</td><td>GPSMAP 60C</td><td>StreetPilot 2610</td><td> </td></tr><tr><td>eTrex Vista HCx</td><td>GPSMAP 60CS</td><td>StreetPilot 2620</td><td> </td></tr></table><p>
+</p><p>the following Bluetooth Garmin products:
+</p><table border="0" summary="Simple list" class="simplelist"><tr><td>GPS 10<a href="fmt_garmin.html#ftn.posnonly" class="footnoteref"><sup class="footnoteref">[1]</sup></a></td><td> </td><td> </td><td> </td></tr></table><p>
+</p><p>and most serial Garmin GPS receivers including:
+</p><table border="0" summary="Simple list" class="simplelist"><tr><td>eMap</td><td>eTrex H</td><td>GPS 12 </td><td>Rhino 110</td></tr><tr><td>eTrex Camo</td><td>Forerunner 201</td><td>GPS 12XL </td><td>Rhino 120</td></tr><tr><td>eTrex Legend</td><td>Foretrex 201</td><td>GPS III </td><td>Rhino 130</td></tr><tr><td>eTrex Summit</td><td>Geko 201</td><td>GPS III+ </td><td>StreetPilot III</td></tr><tr><td>eTrex Venture</td><td>Geko 301</td><td>GPS II </td><td>StreetPilot III+</td></tr><tr><td>eTrex Vista</td><td>GPS 12CX </td><td>GPS II+ </td><td> </td></tr><tr><td>eTrex (Basic Yellow)</td><td>GPS 12Map </td><td>GPS V</td><td> </td></tr></table><p>
+</p><p>
+The following Garmin GPS receivers are supported, but they do not
+support Garmin communication protocol and don't work with the 
+<code class="option">garmin</code> option.  To use these receivers, read or write
+GPX files from the mass storage device as mounted on your computer.
+</p><table border="0" summary="Simple list" class="simplelist"><tr><td>eTrex 10<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 255<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 770<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 1690T<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>eTrex 20<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 250W<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 775T<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 3750<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>eTrex 30<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 255W<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 780<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 3760T<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>Colorado 300<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 260<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 785T<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 3790T<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>Colorado 400c<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 265T<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 880<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Oregon 200<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>Colorado 400i<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 265WT<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 885T<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Oregon 300<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>Colorado 400t<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 260W<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 1200<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Oregon 400c<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>Dakota 10<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 270<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 1250<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Oregon 400i<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>Dakota 20<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 275T<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 1260T<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Oregon 400t<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>GPSMap 62<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 300<a href="#ftn.gpx" class="footnote" id="gpx"><sup class="footnote">[2]</sup></a></td><td>Nuvi 1300<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Oregon 450<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>GPSMap 62sc<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 310<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 1350<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Oregon 450t<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>GPSMap 62stc<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 350<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 1370T<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Oregon 550<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>GPSMap 78<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 370<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 1390T<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Oregon 550t<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>GPSMap 78s<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 465T<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 1350<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>StreetPilot c510<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>GPSMap 78sc<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 500<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 1490T<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>StreetPilot c530<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>Montana 600<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 550<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 2250<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>StreetPilot c550<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>Montana 650<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 600<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 2250LT<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>StreetPilot c580<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>Montana 650t<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 650<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 2350<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Road Tech Zumo<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>Nuvi 30<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 650FM<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 2350LT<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Zumo 220<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>Nuvi 40<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 660<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 2360LT<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Zumo 450<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>Nuvi 50<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 670<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 2405<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Zumo 500<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>Nuvi 200<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 680<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 2450<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Zumo 550<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>Nuvi 205<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 750<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 2450LM<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Zumo 660<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>Nuvi 200W<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 755T<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 2450LT<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Zumo 665<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>Nuvi 205W<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 760<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 2450LMT<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Surely any Garmin product that Garmin actually sensibly designed after 2006 or so.<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td></tr><tr><td>Nuvi 250<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 765T<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td>Nuvi 2505<a href="fmt_garmin.html#ftn.gpx" class="footnoteref"><sup class="footnoteref">[2]</sup></a></td><td> </td></tr></table><p>
+</p><p>
+	None of the GPSBabel developers has access to every model on that
+	list, but we've received reports of success and/or have reasonable
+	expectations that the above models work. If you succeed with
+	a model that is not on that list, please send a message to the
+	gpsbabel-misc mailing list with the details so that we may add it.
+</p><p>
+	Not every feature on every model is supported.  For example, 
+	while we do extract data such as heart rate and temperature from
+	tracks on the sporting models like Edge and Forerunner, GPSBabel
+	is not a fitness program at its core and does not support features 
+	like workouts or calorie/fitness zone data. Furthermore, sporting
+	models don't support track upload. When trying to upload tracks to
+	these devices, GPSBabel converts them to courses on the fly and
+	uploads these instead. When uploading waypoints at the same
+	time, these are converted to course points by mapping them to the
+	nearest track point on the track/course (no matter how far away from
+	the track they are). Since course point creation requires time
+	stamps for the track points, they are created automatically assuming
+	a speed of 10 km/h for tracks that lack them.
+</p><p> 
+	To communicate with a Garmin GPS serially, use the name of that
+	serial port such as <code class="filename">COM1</code> or  <code class="filename">/dev/cu.serial</code>.  
+</p><p>
+	To communicate via USB use <code class="filename">usb:</code> as the filename on all OSes.   
+	Thus, to read the waypoints from a Garmin USB receiver and write 
+	them to a GPX file:
+</p><p><strong class="userinput"><code>gpsbabel -i garmin -f usb: -o gpx -F blah.gpx</code></strong></p><p>
+	If you have multiple units attached via USB, you may provide 
+	a unit number, with zero being the implied default.  So if you 
+	have three USB models on your system, they can be addressed as 
+	<code class="filename">usb:0</code>, <code class="filename">usb:1</code>, and <code class="filename">usb:2</code>.  To get a list of recognized devices,
+	specify a negative number such as:
+</p><p><strong class="userinput"><code>gpsbabel -i garmin -f usb:-1</code></strong></p><p> 
+When reporting problems with the Garmin format, be sure to include
+the full unit model, firmware version, and be prepared to offer
+debugging dumps by adding <code class="option">-D9</code> to the command line, like:
+</p><p><strong class="userinput"><code> gpsbabel -D9 -i garmin -f usb: -o gpx -F blah.gpx</code></strong></p><p> 
+Custom icons are supported on units that support that.
+Neither GPSBabel nor your firmware know what is associated with any
+given slot number.  They don't know that the picture you placed in the
+first slot is a happy face, they only know they're in the lowest
+numbered slot.  GPSBabel names the them consistently with Mapsource,
+so they are named 'Custom 0' through 'Custom 511'.
+</p><p>
+	For models where the connection on the GPS is a serial interface, 
+	be sure the GPS is set for "Garmin
+	mode" in setup and that nothing else (PDA hotsync programs, gpsd,
+	getty, pppd, etc.) is using the serial port.  
+</p><p>
+	For models connected via USB, we recommend use of the <code class="filename">usb:</code>
+	filename.   For this to work on Windows, you must install
+	the Garmin driver.  For Linux, this will fail if you have the garmin_gps
+	kernel module loaded.  
+	See the <a class="ulink" href="/osnotes.html" target="_top">Operating System Notes</a> for details.
+</p><p>
+This module also supports <a class="link" href="tracking.html" title="Realtime tracking">realtime tracking</a> 
+which allows realtime position reports from a Garmin GPS receiver over USB
+or serial.  
+</p><div class="important" style="margin-left: 0.5in; margin-right: 0.5in;"><h3 class="title">Important</h3><p>The following Garmin units do not follow the standard Garmin 
+communications protocol and are <span class="emphasis"><em>not supported</em></span> 
+by GPSBabel.</p><p>
+Marine plotters:
+</p><table border="0" summary="Simple list" class="simplelist"><tr><td>GPSMap 420</td><td>GPSMap 450</td><td>GPSMap 530</td><td>GPSMap 545</td></tr><tr><td>GPSMap 430</td><td>GPSMap 520</td><td>GPSMap 535</td><td>GPSMap 550</td></tr><tr><td>GPSMap 440</td><td>GPSMap 525</td><td>GPSMap 540</td><td>GPSMap 555</td></tr></table><p>
+</p><p>The PDA products
+</p><table border="0" summary="Simple list" class="simplelist"><tr><td>iQue 3000</td></tr><tr><td>iQue 3200</td></tr><tr><td>iQue 3600</td></tr><tr><td>iQue M3</td></tr><tr><td>iQue M4</td></tr><tr><td>iQue M5</td></tr></table><p>
+</p></div><div class="section"><div class="titlepage"><div><div><h3 class="title"><a id="fmt_garmin_o_snlen"></a><code class="option">snlen</code> option</h3></div></div></div><p>
+      Length of generated shortnames.
+    </p><p>This option overrides the internal logic to figure out how many
+characters an addressed Garmin GPS will support when using the '-s' smartname
+option.   This should be necessary only if you have a receiver type that
+GPSBabel doesn't know about or if you want to "dumb down" one unit to match
+another, such as wanting waypoint names in a StreetPilot 2720 (which supports
+20 character names) to exactly match those in a 60CS (which supports 10).
+</p></div><div class="section"><div class="titlepage"><div><div><h3 class="title"><a id="fmt_garmin_o_snwhite"></a><code class="option">snwhite</code> option</h3></div></div></div><p>
+      Allow whitespace synth. shortnames.
+    </p><p>This options controls whether spaces are allowed in generated 
+smart names when using the '-s' option.</p></div><div class="section"><div class="titlepage"><div><div><h3 class="title"><a id="fmt_garmin_o_deficon"></a><code class="option">deficon</code> option</h3></div></div></div><p>
+      Default icon name.
+    </p><p>
+This option specifies the icon or waypoint type to write for each waypoint on
+output.
+</p><p>
+If this option is specified, its value will be used for all waypoints, not
+just those that do not already have descriptions.  That is, this option
+overrides any icon description that might be in the input file.
+</p><p>
+Value specified may be a number from the Garmin Protocol Spec or a name
+as described in the <a class="xref" href="GarminIcons.html" title="Appendix B. Garmin Icons">Appendix B, <em>Garmin Icons</em></a>.
+</p><p>
+This option has no effect on input.
+</p></div><div class="section"><div class="titlepage"><div><div><h3 class="title"><a id="fmt_garmin_o_get_posn"></a><code class="option">get_posn</code> option</h3></div></div></div><p>
+      Return current position as a waypoint.
+    </p><p>This options gets the current longitude and latitude from the attached GPS device
+and returns it as a single waypoint for further processing.  For example,
+to return the current position from a USB Garmin to a KML file:
+</p><p><strong class="userinput"><code>gpsbabel -i garmin,get_posn -f usb: -o kml -F myposition.kml</code></strong></p></div><div class="section"><div class="titlepage"><div><div><h3 class="title"><a id="fmt_garmin_o_power_off"></a><code class="option">power_off</code> option</h3></div></div></div><p>
+      Command unit to power itself down.
+    </p><p>This command forces an immediate powerdown of the addressed Garmin
+receiver.  It is ignored on hardware that does not support this command.
+Obviously, further processing once you have sent a "power off" command to
+a unit that supports it is rather futile, so place this option carefully
+in your command.
+
+</p><p><strong class="userinput"><code>gpsbabel -o garmin,power_off -F /dev/ttyS0</code></strong></p></div><div class="section"><div class="titlepage"><div><div><h3 class="title"><a id="fmt_garmin_o_erase_t"></a><code class="option">erase_t</code> option</h3></div></div></div><p>
+      Erase existing courses when writing new ones.
+    </p><p>
+By default, GPSBabel makes effort in order to keep courses already present on
+the device, if any. This option allow to replace courses already present. If
+you don't mind to keep old courses, this option is recommended because it
+allows a faster transfer.
+</p><p>
+This option applies only to Garmin devices that support courses such as the Edge 305 or the Forerunner 305.
+</p></div><div class="section"><div class="titlepage"><div><div><h3 class="title"><a id="fmt_garmin_o_resettime"></a><code class="option">resettime</code> option</h3></div></div></div><p>
+      Sync GPS time to computer time.
+    </p><p>
+  This option is experimental and was added to solve a very specific problem.
+  Certain Garmin units (the original black and white Vista is known to have 
+  this) will sometimes scramble their clock crazy far into the future (like
+  2066).  When this happens, the GPS itself may or may not work and 
+  later conversations with GPSBabel may fail as the time overflows the
+  documented range.  The use of <code class="option">resettime</code> brings the GPS's internal clock
+  back close enough to reality that the GPS itself can then "fix" it when
+  it has next a lock.
+</p></div><div class="section"><div class="titlepage"><div><div><h3 class="title"><a id="fmt_garmin_o_category"></a><code class="option">category</code> option</h3></div></div></div><p>
+      Category number to use for written waypoints.
+    </p><p>This numeric option will force waypoints to be written with that
+category number when sending to a Garmin receiver that has category
+support. It is ignored on receivers without that capability. </p></div><div class="section"><div class="titlepage"><div><div><h3 class="title"><a id="fmt_garmin_o_bitscategory"></a><code class="option">bitscategory</code> option</h3></div></div></div><p>
+      Bitmap of categories.
+    </p><p>
+ This option is closely related to the 'category' option.  While category 
+ allows you to choose a single category that waypoints should appear in,
+ this options allows you to specify a bitmask to be used for the category.
+ Options may be specified in either decimal or hex.
+</p><div class="example"><a id="garmin_bitcategory"></a><p class="title"><strong>Example 3.10. Example for garmin bitcategory option to put all waypoints in categories 1 and 16.</strong></p><div class="example-contents"><p>
+  The following two commands are equivalent.  They place a the point in both the first and last of the sixteen available categories.
+  <strong class="userinput"><code>
+	 gpsbabel -i gpx -f PocketQuery.gpx -o garmin,bitcategory=32769 -F usb:
+  </code></strong>
+  <strong class="userinput"><code>
+	 gpsbabel -i gpx -f PocketQuery.gpx -o garmin,bitcategory=0x8001 -F usb:
+  </code></strong>
+  
+</p></div></div><br class="example-break" /></div><div class="section"><div class="titlepage"><div><div><h3 class="title"><a id="fmt_garmin_o_baud"></a><code class="option">baud</code> option</h3></div></div></div><p>
+      Speed in bits per second of serial port (baud=9600).
+    </p><p>
+Sets baud rate on some Garmin serial unit to the specified baud rate. Garmin protocol uses 9600 bps by default, but there is a rarely documented feature in Garmin binary protocol for switching baud rate. Highest option is 115200.
+</p><p>
+Download track log and waypoints 12 times faster than default:
+<strong class="userinput"><code>
+gpsbabel -t -w -i garmin,baud=115200 -f /dev/ttyUSB0 -o gpx -F garmin-serial.gpx
+</code></strong>
+</p><p>
+At the end of the transfer, baud rate is switched to back to the default 
+of 9600. If connection breaks, the unit stucks at high baud rate, a power 
+cycle reverts to original state.
+</p><p>
+This option does not affect USB transfer.
+</p><p>
+Because this feature uses undocumented Garmin protocols, it may or may
+not work on your device.  The author reported success with 
+eTrex Vista, GPSMAP 76s, and GPS V, but it seems likely to be problematic
+on older units and may be more problematic for writing to the device than
+reading data from the device.
+</p></div><div class="footnotes"><br /><hr style="width:100; text-align:left;margin-left: 0" /><div id="ftn.posnonly" class="footnote"><p><a href="#posnonly" class="para"><sup class="para">[1] </sup></a>This model does not support transfer of waypoints, tracks, or routes, but may be used with the <a class="link" href="tracking.html" title="Realtime tracking">realtime tracking</a> feature.</p></div><div id="ftn.gpx" class="footnote"><p><a href="#gpx" class="para"><sup class="para">[2] </sup></a>This unit uses GPX format, not Garmin protocol.  Therefore one should communicate with it by reading and writing GPX files instead of using this format.  Members of this class of products do not support realtime positioning protocol.</p></div></div></div><div xmlns="http://www.w3.org/1999/xhtml" class="navfooter"><hr /><table width="100%" summary="Navigation footer"><tr><td width="40%" align="left"><a accesskey="p" href="fmt_garmin_gpi.html">Prev</a> </td><td width="20%" align="center"><a accesskey="u" href="The_Formats.html">Up</a></td><td width="40%" align="right"> <a accesskey="n" href="fmt_gtrnctr.html">Next</a></td></tr><tr><td width="40%" align="left" valign="top">Garmin Points of Interest (.gpi) (garmin_gpi) </td><td width="20%" align="center"><a accesskey="h" href="index.html">Home</a></td><td width="40%" align="right" valign="top"> Garmin Training Center (.tcx) (gtrnctr)</td></tr></table></div>
+  
+      
+   </div>
+    <!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats -->
+   <div class="clearfloat">
+      <p>&nbsp;</p>
+  </div> <!-- end #clearfloat -->
+  <div id="footer">
+    <p>Copyright © 2002-2018 GPSBabel.org</p>
+  </div> <!-- end #footer -->
+  </div> <!-- shadowwrap -->
+  </div> <!-- container -->
+  </div> <!-- havenoidea -->
+
+<script type="text/javascript">
+<!--
+
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"/SpryAssets/SpryMenuBarDownHover.gif", imgRight:"/SpryAssets/SpryMenuBarRightHover.gif"});
+//-->
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-96750-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>
