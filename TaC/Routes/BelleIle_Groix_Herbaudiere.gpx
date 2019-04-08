@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+  <rte>
+    <name>BelleIle_Groix_Herbaudiere</name>
+    <extensions>
+      <opencpn:guid>0ec50000-a32f-4ed3-a3d6-82876b12ffff</opencpn:guid>
+      <opencpn:viz>1</opencpn:viz>
+      <opencpn:start>Le Palais</opencpn:start>
+      <opencpn:end>L'Herbaudiere</opencpn:end>
+      <opencpn:planned_speed>6.00</opencpn:planned_speed>
+      <opencpn:time_display>PC</opencpn:time_display>
+    </extensions>
+    <rtept lat="47.366555000" lon="-3.154240000">
+      <time>2019-04-08T15:33:51Z</time>
+      <name>001_Taillefer_Depart</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>7004ffff-1200-438d-b555-f8c334dc0000</opencpn:guid>
+        <opencpn:viz_name>1</opencpn:viz_name>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="true" number="1" step="0.100000001" units="0" colour="#FF0000" />
+      </extensions>
+    </rtept>
+    <rtept lat="47.634068333" lon="-3.395525000">
+      <time>2019-04-08T15:34:00Z</time>
+      <name>002_E_EdouardDeCougy</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>0f590000-f11f-4c4c-82e8-f2fb4fddffff</opencpn:guid>
+        <opencpn:viz_name>1</opencpn:viz_name>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="true" number="1" step="0.100000001" units="0" colour="#FF0000" />
+      </extensions>
+    </rtept>
+    <rtept lat="47.654121667" lon="-3.437856667">
+      <time>2019-04-08T15:34:03Z</time>
+      <name>003_E_Speerbreker</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>5a9bffff-5a2e-49bb-9544-e20512d80000</opencpn:guid>
+        <opencpn:viz_name>1</opencpn:viz_name>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="true" number="1" step="0.100000001" units="0" colour="#FF0000" />
+      </extensions>
+    </rtept>
+    <rtept lat="47.659601667" lon="-3.512728333">
+      <time>2019-04-08T15:34:06Z</time>
+      <name>004_PenMen_nord</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>2d170000-e49b-4927-aba6-60f6216b0000</opencpn:guid>
+        <opencpn:viz_name>1</opencpn:viz_name>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="true" number="1" step="0.100000001" units="0" colour="#FF0000" />
+      </extensions>
+    </rtept>
+    <rtept lat="47.649531667" lon="-3.527610000">
+      <time>2019-04-08T15:34:17Z</time>
+      <name>005_PenMen_ouest</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>546cffff-f05d-43ed-8086-24a64bebffff</opencpn:guid>
+        <opencpn:viz_name>1</opencpn:viz_name>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="true" number="1" step="0.100000001" units="0" colour="#FF0000" />
+      </extensions>
+    </rtept>
+    <rtept lat="47.291773759" lon="-3.244122690">
+      <time>2019-04-08T15:34:38Z</time>
+      <name>006_BelleIle_sudOuest</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>6433ffff-55ba-4f43-a583-c7b77452ffff</opencpn:guid>
+        <opencpn:viz_name>1</opencpn:viz_name>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="true" number="1" step="0.100000001" units="0" colour="#FF0000" />
+      </extensions>
+    </rtept>
+    <rtept lat="47.074111667" lon="-2.282756667">
+      <time>2019-04-08T15:35:55Z</time>
+      <name>007_BancDeLaBlanche</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>04ed0000-3a68-4bcc-9f1b-1e1e2df50000</opencpn:guid>
+        <opencpn:viz_name>1</opencpn:viz_name>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="true" number="1" step="0.100000001" units="0" colour="#FF0000" />
+      </extensions>
+    </rtept>
+    <rtept lat="47.050756667" lon="-2.288520000">
+      <time>2019-04-08T15:41:46Z</time>
+      <name>008_N_BasseDuMartroger_Arrivee</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>37720000-3b7a-4d92-baa8-ded51a0c0000</opencpn:guid>
+        <opencpn:viz_name>1</opencpn:viz_name>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="true" number="1" step="0.100000001" units="0" colour="#FF0000" />
+      </extensions>
+    </rtept>
+  </rte>
+</gpx>

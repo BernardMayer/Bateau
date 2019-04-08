@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+  <rte>
+    <name>Herbaudiere_Piriac</name>
+    <extensions>
+      <opencpn:guid>10140000-d897-4474-a752-72484f40ffff</opencpn:guid>
+      <opencpn:viz>1</opencpn:viz>
+      <opencpn:start>L'Herbaudiere</opencpn:start>
+      <opencpn:end>Piriac</opencpn:end>
+      <opencpn:planned_speed>6.00</opencpn:planned_speed>
+      <opencpn:time_display>PC</opencpn:time_display>
+    </extensions>
+    <rtept lat="47.076311667" lon="-2.279803333">
+      <time>2019-04-08T15:46:39Z</time>
+      <name>001_E_BancDeLaBlanche</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>009e0000-fc35-45a5-8ea6-5ca0550cffff</opencpn:guid>
+        <opencpn:viz_name>1</opencpn:viz_name>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="true" number="1" step="0.100000001" units="0" colour="#FF0000" />
+      </extensions>
+    </rtept>
+    <rtept lat="47.261144256" lon="-2.752901487">
+      <time>2019-04-08T15:46:44Z</time>
+      <name>002_O_BasseCapelle</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>6616ffff-b11b-45c2-8252-fb196e9affff</opencpn:guid>
+        <opencpn:viz_name>1</opencpn:viz_name>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="true" number="1" step="0.100000001" units="0" colour="#FF0000" />
+      </extensions>
+    </rtept>
+    <rtept lat="47.413190000" lon="-2.637270000">
+      <time>2019-04-08T15:46:52Z</time>
+      <name>003_Dumet_ouest</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>5cadffff-b949-4169-88f1-693c7e60ffff</opencpn:guid>
+        <opencpn:viz_name>1</opencpn:viz_name>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="true" number="1" step="0.100000001" units="0" colour="#FF0000" />
+      </extensions>
+    </rtept>
+    <rtept lat="47.427318333" lon="-2.583195000">
+      <time>2019-04-08T15:46:54Z</time>
+      <name>004_E_Dumet</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>6a75ffff-39e6-4f64-9110-d8414f39ffff</opencpn:guid>
+        <opencpn:viz_name>1</opencpn:viz_name>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="true" number="1" step="0.100000001" units="0" colour="#FF0000" />
+      </extensions>
+    </rtept>
+    <rtept lat="47.389576667" lon="-2.538948333">
+      <time>2019-04-08T15:47:16Z</time>
+      <name>005_Piriac_Arrivee</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>104b0000-6006-4eed-a593-58ce0da70000</opencpn:guid>
+        <opencpn:viz_name>1</opencpn:viz_name>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="true" number="1" step="0.100000001" units="0" colour="#FF0000" />
+      </extensions>
+    </rtept>
+  </rte>
+</gpx>
