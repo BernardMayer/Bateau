@@ -1,0 +1,33 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.0" creator="qtVlm">
+<rte>
+<name>BelleileGroixNoirmoutier</name>
+<rtept lat="47.3346632729" lon="-3.0761234339">
+<time>2019-04-01T02:55:00Z</time>
+<name>00_DepartCdI</name>
+</rtept>
+<rtept lat="47.6431000000" lon="-3.3870686111">
+<time>2019-04-01T06:10:00Z</time>
+<name>01_Groix</name>
+</rtept>
+<rtept lat="47.6566194444" lon="-3.4409566667">
+<time>2019-03-31T20:14:15Z</time>
+<name>02_Groix</name>
+</rtept>
+<rtept lat="47.6581213889" lon="-3.5152852778">
+<time>2019-03-31T20:45:00Z</time>
+<name>03_Groix</name>
+</rtept>
+<rtept lat="47.6236536111" lon="-3.5368205556">
+<time>2019-03-31T21:10:00Z</time>
+<name>04_Groix</name>
+</rtept>
+<rtept lat="47.2841938889" lon="-3.2685858333">
+<time>2019-04-01T00:25:00Z</time>
+<name>05_BI_SudOuest</name>
+</rtept>
+<rtept lat="47.0367641667" lon="-2.2609963889">
+<time>2019-04-01T17:45:00Z</time>
+<name>99_Herbaudiere</name>
+</rtept>
+</rte>
+</gpx>
