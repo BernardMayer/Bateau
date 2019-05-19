@@ -1,0 +1,11 @@
+maitai <maitai@virtual-winds.org>
+À :Bernard MAYER
+9 mai à 11:30
+Salut Bernard,
+ 
+La beta est ici: http://www.virtual-winds.org/maitai/qtVlm-5.8.10-beta1-rpi.tar.gz
+ 
+Faut aller dans les options onglet instruments pour activer l'envoi du message VMC (= nmea WCV). Dis moi si ca fonctionne, je ne peux pas tester ici
+ 
+Amitiés
+Philippe.
