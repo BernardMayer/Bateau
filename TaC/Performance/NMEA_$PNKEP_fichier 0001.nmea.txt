@@ -3,13 +3,13 @@
   Online calculator	http://www.hhhh.org/wiml/proj/nmeaxor.html
   Checksum calculator in C	https://gist.github.com/DevNaga/fce8e166f4335fa777650493cb9246db
 */
+/*  Vitesse cible 4.73nds  */
 $PNKEP,01,4.74,N,8.78,K*68
+/*  Cap Pbord 141°  */
 $PNKEP,02,141.0*68
+/*  Opt v/ang 160°, % pres 0%, % polaire 104%  */
 $PNKEP,03,160.0,0.0,104.8*67
-/*
-  Vitesse cible 4.73nds
-  Cap Pbord 141°
-  Opt v/ang 160°
-  % pres 0%
-  % polaire 104%
-*/
+/*  Ang o CMG / ain CMG, Ang o VMG / gain VMG  */
+$PNKEP,04,101.1,202.2,103.3,404.4*6E
+/*  Vites coura / direc coura  */
+$PNKEP,05,234.5,3.7,N,5.6,K*69
