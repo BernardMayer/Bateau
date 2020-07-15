@@ -1,0 +1,138 @@
+Garmin 152H
+$GPGLL,4729.9206,N,00222.6768,W,193504,A,D*52
+$GPBOD,,T,,M,,*47
+$GPVTG,143.5,T,146.4,M,0.0,N,0.0,K*4A
+$GPRTE,1,1,c,*37
+$GPRMC,193506,A,4729.9206,N,00222.6768,W,0.0,143.5,200917,2.9,W,D*1B
+$GPRMB,A,,,,,,,,,,,,V,D*19
+$GPGGA,193506,4729.9206,N,00222.6768,W,2,12,1.0,-0.4,M,48.9,M,,*7D
+$GPGSA,A,3,05,07,08,13,15,18,20,21,24,28,30,37,1.5,1.0,1.1*38
+$GPGSV,3,2,12,15,39,294,00,18,01,324,00,20,50,284,00,21,13,308,00*74
+
+Converti par interface 4800
+---------------------------
+$IIMWD,,,075.,M,01.4,N,00.7,M*0E	
+wind direction and speed
+$IIMTA,15.2,C*03	
+air temperature
+$IIMTW,17.2,C*17	
+water temperature
+$IIVWT,071.,L,01.4,N,00.7,M,002.6,K*61	
+VWT - True Windspeed and Angle (obsolete)
+$IIHDG,146.,,,,*7A	
+geo heading
+$IIHDM,146.,M*11	
+magnetic heading
+$IIGLL,4729.920,N,00222.677,W,193936,A,A*42	
+GLL - Geographic Position, Latitude / Longitude
+    Latitude
+    N or S (North or South)
+    Longitude
+    E or W (East or West)
+    Time (UTC)
+    Status A - Data Valid, V - Data Invalid, FAA mode indicator (NMEA 2.3 and later)
+$IIZDA,193936,20,09,2017,,*57
+Date and time
+$IIVTG,144.,T,,M,00.0,N,00.0,K,A*2B
+VTG - Track Made Good and Ground Speed
+    Track Degrees
+    T = True
+    Track Degrees
+    M = Magnetic
+    Speed Knots
+    N = Knots
+    Speed Kilometers Per Hour
+    K = Kilometers Per Hour
+    Status A - Data Valid, V - Data Invalid, FAA mode indicator (NMEA 2.3 and later)
+$IIDPT,0004.2,,*74
+Depth of water
+$IIDBT,0013.8,f,0004.2,M,,*75
+Depth Below Transducer
+$IIVLW,0127.0,N,028.89,N*42
+Distance Traveled through Water
+$IIVHW,,,146.,M,00.00,N,00.00,K*1C
+VHW - Water speed and heading
+$IIMWV,289,R,01.4,N,A*15
+MWV - Wind Speed and Angle
+$IIVWR,071.,L,01.4,N,00.7,M,002.6,K*67
+VWR - Relative Wind Speed and Angle
+$IIMWD,,,218.,M,05.5,N,02.8,M*0F
+$IIMTA,20.9,C*0E
+$IIMTW,17.9,C*1C
+$IIVWT,088.,L,05.5,N,02.8,M,010.2,K*68
+$IIHDG,306.,,,,*7C
+$IIHDM,306.,M*17
+$IIGLL,4731.631,N,00254.285,W,143650,A,A*4E
+$IIZDA,143650,07,07,2017,,*5E
+/* IIVTG OK */
+$IIVTG,311.,T,,M,04.0,N,07.4,K,A*2E
+$IIDPT,0009.2,,*79
+$IIDBT,0030.3,f,0009.2,M,,*72
+$IIVLW,0098.0,N,098.61,N*4A
+$IIVHW,,,306.,M,02.92,N,05.41,K*13
+$IIMWV,299,R,06.3,N,A*14
+$IIVWR,061.,L,06.3,N,03.2,M,011.7,K*63
+
+Nouveau GPS...
+\c:1591697523384*66\$GPGSA,A,3,18,04,25,29,26,21,05,31,16,,,,1.54,0.88,1.26*01
+\c:1591697523414*68\$IIRSA,-2.7,A,,V*51
+RSA - Rudder Sensor Angle
+\c:1591697523526*68\$IIXDR,C,23.8,C,AirTemp*2F
+\c:1591697523531*6E\$GPGSV,4,1,13,02,05,032,35,04,11,323,36,05,07,062,32,12,04,102,42*78
+\c:1591697523553*6A\$IIRMB,A,0.00,R,,,,,,,4.6,47,0.80,A,A*69
+RMB - Recommended Minimum Navigation Information
+To be sent by a navigation receiver when a destination waypoint is active.
+                                                            14
+        1 2   3 4    5    6       7 8        9 10  11  12  13|  15
+        | |   | |    |    |       | |        | |   |   |   | |   |
+ $--RMB,A,x.x,a,c--c,c--c,llll.ll,a,yyyyy.yy,a,x.x,x.x,x.x,A,m,*hh<CR><LF>''
+Field Number:
+    Status, A= Active, V = Void
+    Cross Track error - nautical miles
+    Direction to Steer, Left or Right
+    TO Waypoint ID
+    FROM Waypoint ID
+    Destination Waypoint Latitude
+    N or S
+    Destination Waypoint Longitude
+    E or W
+    Range to destination in nautical miles
+    Bearing to destination in degrees True
+    Destination closing velocity in knots
+    Arrival Status, A = Arrival Circle Entered
+    Status A - Data Valid, V - Data Invalid, FAA mode indicator (NMEA 2.3 and later)
+RMB in a navigation sentence that combines GPS information with the coordinates of the Waypoint. The data it contains are the result of these calculations on the line that joins the position of the ship and the Waypoint. VMG is the right thing to do. VMG = SOG * cos (COG - BRG). It does not make sense to put the SOG in its place.
+\c:1591697523553*6A\$IIRSA,-2.3,A,,V*55
+\c:1591697523569*63\$IIMWV,270,R,0.0,N,A*26
+\c:1591697523569*63\$IIVWR,90,L,0.0,N,0.0,M,0.0,K*70
+\c:1591697523617*69\$IIHDG,162,,,,*52
+\c:1591697523617*69\$IIHDM,162,M*39
+\c:1591697523665*6C\$IIRSA,-2.7,A,,V*51
+\c:1591697523672*6A\$GPGSV,4,2,13,14,11,226,,16,12,287,37,18,37,156,46,21,24,179,36*71
+\c:1591697523818*68\$GPGSV,4,3,13,25,32,102,41,26,46,295,45,29,61,055,47,31,66,237,46*7C
+\c:1591697523873*65\$IIRSA,-2.3,A,,V*55
+\c:1591697523882*6B\$GPGSV,4,4,13,39,07,108,36*4A
+\c:1591697523991*68\$GPGLL,4727.23043,N,00233.61813,W,101006.00,A,A*72
+\c:1591697524065*6D\$IIMWD,,T,160,M,0.0,N,0.0,M*73
+\c:1591697524112*6C\$IIRSA,-2.0,A,,V*56
+\c:1591697524145*6E\$GPRMC,101007.00,A,4727.23026,N,00233.61836,W,0.916,221.71,090620,,,A*74
+\c:1591697524230*6F\$GPVTG,221.71,T,,M,0.916,N,1.696,K,A*3C
+\c:1591697524256*6F\$IIMWV,274,R,0.0,N,A*22
+\c:1591697524272*69\$IIVWR,86,L,0.0,N,0.0,M,0.0,K*77
+\c:1591697524320*6F\$PNKEP,01,0.00,N,0.00,K*68
+\c:1591697524382*67\$GPGGA,101007.00,4727.23026,N,00233.61836,W,1,10,0.78,0.6,M,48.9,M,,*4F
+\c:1591697524512*68\$GPGSA,A,3,14,18,04,25,29,26,21,05,31,16,,,1.38,0.78,1.14*00
+\c:1591697524522*6B\$PNKEP,01,0.0,N,0.0,K*68
+\c:1591697524570*6C\$PNKEP,02,159.0*61
+\c:1591697524570*6C\$PNKEP,03,316.0,1000.0,1000.0*69
+\c:1591697524570*6C\$PNKEP,04,221.7,100.0,221.7,100.0*68
+\c:1591697524570*6C\$PNKEP,05,221.7,0.9,N,1.7,K*67
+\c:1591697524570*6C\$GPWPL,4730.358,N,00228.640,W,POI_GO*5C
+xxWPL - Waypoint Location
+Used to send routes and waypoints up to a GPS receiver. OpenCPN does not process these sentences as input.
+    Latitude
+    N or S (North or South)
+    Longitude
+    E or W (East or West)
+    Waypoint Name
+
